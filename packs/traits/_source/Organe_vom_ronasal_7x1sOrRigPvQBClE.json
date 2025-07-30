@@ -1,0 +1,35 @@
+{
+  "name": "Organe voméronasal",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes doté d’organites olfactifs supplémentaires qui améliorent votre sens de l’odorat, le rendant digne de celui d’un limier. Votre amygdale et hypothalamus sont également adaptés pour vous permettre d’interpréter les odeurs que vous êtes désormais capable de percevoir. Cet avantage sensoriel vous permet de réagir aux odeurs émises par les autres, ce qui inclut la plupart des réponses émotionnelles de base (attirance, peur, etc.). En termes de jeu, vous bénéficiez d’une remise d’Atout de 1 sur vos tests de Perception basés sur l’odorat ainsi que sur vos tests sociaux si vous êtes capable de sentir votre cible. Les odeurs fortes et les environnements très odorants vous infligent l’état Nauséeux (p. 57, SR6) en cas d’échec sur un test de Constitution + Volonté (2).",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "Qwx6dFpR3wBl0mrX",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006094860,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1sOrRigPvQBClE",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1sOrRigPvQBClE"
+}

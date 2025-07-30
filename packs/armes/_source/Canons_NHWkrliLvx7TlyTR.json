@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "PKgdVtCJ2savSuRQ",
+  "name": "Canons",
+  "color": null,
+  "sorting": "a",
+  "_id": "NHWkrliLvx7TlyTR",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!NHWkrliLvx7TlyTR"
+}

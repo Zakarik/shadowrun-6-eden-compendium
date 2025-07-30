@@ -1,0 +1,35 @@
+{
+  "name": "Queue fouet",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces traits se traduisent par une queue qui pousse à la base de votre colonne vertébrale. Elle peut être écailleuse (comme un lézard), poilue (comme un singe) ou glabre (comme celle d’un opossum) et est parfaitement développée et fonctionnelle. Pour bénéficier de tous les effets indiqués, vous devez adapter vos vêtements pour laisser votre queue libre. Il vous est pénible de rester trop longtemps dans certaines positions ; tant que vous êtes assis sur votre queue, vous subissez un malus de −1 à la réserve de dés pour toutes vos actions. Ces traits sont mutuellement exclusifs et incompatibles avec toute autre modification caudale. Les queues de ce type mesurent généralement trois mètres de long et sont pleinement préhensiles. Elles se distinguent par leur capacité à servir de Fouet en utilisant Armes exotiques (fouet) avec une VD de 1P et un SO de 6+RÉA/—/—/—/— ; la VD est modifiée par la Force. Une queue fouet peut accomplir les mêmes tâches motrices qu’une queue préhensile.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004570654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f91Zd4RigPv3BCsR",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f91Zd4RigPv3BCsR"
+}

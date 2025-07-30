@@ -1,0 +1,35 @@
+{
+  "name": "Porteur d’organes de culture",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nOn ne peut pas faire pousser tout le bioware en cuve. Certains produits parmi les plus complexes doivent être cultivés à l’intérieur d’un hôte vivant, procédure pour laquelle vous vous êtes porté volontaire. Vous avez un morceau de bioware inerte et mystérieux qui se développe dans votre corps, et une fois qu’il sera retiré, vous pourrez en tirer une somme rondelette. Vu que ce bioware ne vous est pas destiné, le porter vous coûte un peu. Mais bon, pensez à tous ces bons nuyens que vous allez gagner !\n\nEffets en jeu : vous pouvez choisir ce trait à un niveau allant jusqu’à 3. Chaque niveau coûte 1 point d’Essence. Cette Essence est considérée comme utilisée jusqu’à ce que ce trait soit retiré. Six mois après avoir acquis ce trait, si le bioware se trouve toujours dans votre corps, vous pouvez vous rendre chez le médecin qui l’a implanté, le faire retirer et recevoir 20 000¥ par point d’Essence ainsi utilisé. À l’issue de la procédure, vous bénéficiez d’un vide d’Essence égal au niveau de ce trait. Suite à cela, ce trait négatif disparaît. Vous courez toujours le risque que ce bioware en incubation soit endommagé ou retiré de force. Si cela arrive, vous serez tenu responsable et la somme reçue à la fin de la période d’incubation s’en trouve réduite en conséquence. À chaque fois que vous subissez plus de 6 cases de dégâts physiques en une seule attaque, vous devez faire un test de Constitution avec un seuil égal au niveau de ce trait. En cas de succès, le bioware en incubation est intact. En cas d’échec, la somme finale accordée par de ce trait est réduite de 10 %. Si le bioware est retiré de force, vous ne recevrez aucun paiement. Si vous choisissez de ne pas vous adresser à la source d’origine pour faire retirer le bioware et de le vendre à un autre enchérisseur, ou si vous préférez racheter ce trait avec du Karma, vous remplacez le trait Porteur d’organes de culture par le trait négatif Traqué au même niveau que le premier.",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma par niveau (3 niveaux maximum)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPH",
+  "sort": 1900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPH"
+}

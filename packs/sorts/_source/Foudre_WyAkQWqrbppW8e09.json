@@ -1,0 +1,42 @@
+{
+  "name": "Foudre",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e09",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "C’est ce que les divinités comme Zeus ou Thor utilisaient pour châtier ceux qui suscitaient leur courroux, ce qui signifie donc que ça devrait vous convenir parfaitement. Foudre n’affecte qu’une seule cible tandis que Sphère de foudre est un sort à effet de zone. Les deux sorts infligent des dommages élémentaires d’Électricité (p. 114), imposant l’état Électrocuté (p. 56) pendant un nombre de rounds de combat égal aux succès nets du test de Lancement de sorts.",
+    "category": "combat",
+    "duration": "instantaneous",
+    "drain": 5,
+    "type": "physical",
+    "range": "line_of_sight",
+    "damage": "physical",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "DbOxiOV3L3HGhzwX",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753019105000,
+    "modifiedTime": 1753023517335,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e09"
+}

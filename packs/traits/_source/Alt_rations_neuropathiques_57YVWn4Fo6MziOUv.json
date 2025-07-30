@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "TT7HYMa8ijXaF2w3",
+  "name": "Altérations neuropathiques",
+  "color": "#5c3e7a",
+  "sorting": "a",
+  "_id": "57YVWn4Fo6MziOUv",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752008259082
+  },
+  "_key": "!folders!57YVWn4Fo6MziOUv"
+}

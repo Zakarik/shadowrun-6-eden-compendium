@@ -1,0 +1,35 @@
+{
+  "name": "Comme le nez au milieu de la figure",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Pour faire simple: vous détonez, peu importe où vous allez.\n\nEffets en jeu : vous ne pouvez ni gagner ni dépenser d’Atout lors des tests de Furtivité.",
+    "value": 0,
+    "explain": "Bonus : 7 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209001,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T1FgdFxi8l4hBtPB",
+  "sort": 3800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T1FgdFxi8l4hBtPB"
+}

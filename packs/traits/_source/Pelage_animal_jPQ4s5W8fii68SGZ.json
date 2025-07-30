@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "UamIrk3QcoyTELnC",
+  "name": "Pelage animal",
+  "color": "#724058",
+  "sorting": "a",
+  "_id": "jPQ4s5W8fii68SGZ",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752008308415
+  },
+  "_key": "!folders!jPQ4s5W8fii68SGZ"
+}

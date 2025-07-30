@@ -1,0 +1,35 @@
+{
+  "name": "Hacker-né (Émergés uniquement)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Pour accomplir vos tâches dans la Matrice, vous vous reposez sur votre connexion naturelle à la Résonance. Il ne vous faut rien de plus.\n\nEffets en jeu : quand vous effectuez une action matricielle ou un test de défense contre une action matricielle, une forme complexe ou un pouvoir de sprite, vous pouvez choisir d’utiliser votre score de Résonance au lieu de tout autre attribut non matriciel requis. Ce trait ne vous permet pas de remplacer votre Attaque, Corruption, Traitement de données ou Firewall.",
+    "value": 0,
+    "explain": "Coût : 15 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310743535,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlG",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlG"
+}

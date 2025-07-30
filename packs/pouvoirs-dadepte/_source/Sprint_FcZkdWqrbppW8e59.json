@@ -1,0 +1,35 @@
+{
+  "name": "Sprint",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Avoir le pied léger prend ici tout son sens. Lorsqu’un adepte fait un test de Sprint (p. 99, SR6) et dépense une action mineure pour se concentrer, il obtient +1 mètre de mouvement pour chaque rang en Sprint.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "minor_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524659,
+    "modifiedTime": 1753795524659,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e59",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e59"
+}

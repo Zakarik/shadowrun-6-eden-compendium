@@ -1,0 +1,35 @@
+{
+  "name": "Toujours sur la brèche",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous avez overclocké tous vos membres cybernétiques et fait sauter leurs limites de sécurité, ce qui leur permet de fonctionner à un régime accru ; le stress supplémentaire fait néanmoins des ravages dans votre corps.\n\nEffets en jeu : chaque paire de membres cybernétiques implantée sur vous (deux bras ou deux jambes) reçoit un bonus supplémentaire de +1 en Force et en Agilité, jusqu’à un maximum de +2 dans la limite du maximum augmenté. Les solliciter aussi durement pèse lourdement sur votre corps, ce qui limite l’intégrité structurelle offerte par ces implants. Vous ne gagnez qu’une seule case par paire complète de membres cybernétiques sur votre moniteur de dommages physiques, au lieu d’une par membre.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1AgdFEstl4EBtPD",
+  "sort": 3400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1AgdFEstl4EBtPD"
+}

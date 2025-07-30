@@ -1,0 +1,35 @@
+{
+  "name": "Caméléon astral",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre aura ne se stabilise jamais très longtemps. Vous avez la capacité de vous fondre dans l’environnement astral pour qu’il soit plus difficile d’identifier ou de lire votre aura et votre signature astrale.\n\nEffets en jeu : les personnages subissent un malus de -2 dés à leurs tests pour identifier votre aura ou votre signature astrale. Votre signature astrale s’estompe deux fois plus vite qu’à la normale (voir p. 162).",
+    "value": 0,
+    "explain": "Coût : 9 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hXZzNmflG6Bq3L",
+  "sort": 10400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hXZzNmflG6Bq3L"
+}

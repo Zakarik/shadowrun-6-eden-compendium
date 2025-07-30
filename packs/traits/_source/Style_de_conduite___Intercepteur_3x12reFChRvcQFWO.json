@@ -1,0 +1,35 @@
+{
+  "name": "Style de conduite : Intercepteur",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quand vous traquez une cible, vous savez comment faire en sorte qu’elle ne s’en sorte pas.\n\nEffet en jeu: le coût des actions d’Atout suivantes est réduit de moitié (la nouvelle valeur est placée entre parenthèses, arrondie à l’inférieur si nécessaire):\n• Dans le rouge (2 points d’Atout)\n• Concentration (1 point d’Atout)\n• Dans ma bulle (2 points d’Atout)\n• Quitte ou double (1, 2 ou 3 points d’Atout), uniquement lors des tests pendant une filature ou que vous poursuivez une cible.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x12reFChRvcQFWO",
+  "sort": 4100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x12reFChRvcQFWO"
+}

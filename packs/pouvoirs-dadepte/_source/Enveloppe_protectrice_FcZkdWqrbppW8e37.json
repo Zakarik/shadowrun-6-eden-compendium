@@ -1,0 +1,35 @@
+{
+  "name": "Enveloppe protectrice",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte doté du pouvoir Enveloppe protectrice est flou et indistinct aux yeux de ceux qui tentent de le débusquer à l’aide de la magie. Pour chaque niveau de pouvoir, ajoutez +1 dé à tous les tests destinés à s’opposer aux sorts de Détection.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524637,
+    "modifiedTime": 1753795524637,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e37",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e37"
+}

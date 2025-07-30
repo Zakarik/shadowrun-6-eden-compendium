@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Métagéniques négatifs",
+  "color": "#7e0202",
+  "sorting": "a",
+  "_id": "TT7HYMa8ijXaF2w3",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1752006487568,
+    "modifiedTime": 1752008220791,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!TT7HYMa8ijXaF2w3"
+}

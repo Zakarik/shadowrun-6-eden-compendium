@@ -1,0 +1,35 @@
+{
+  "name": "Jamais sans mon jack",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous savez tirer le maximum d’une connexion directe.\n\nEffets en jeu : quand vous disposez d’une connexion directe à la cible d’une de vos actions matricielles ou forme complexe, vous obtenez plusieurs avantages clés. Premièrement, la cible ne peut pas béné- ficier d’un Firewall provenant d’une source externe (comme un PAN) ; seul son propre Firewall s’applique à son test de Défense. Deuxièmement, si la cible est désactivée vous pouvez utiliser une action Contrôler un appareil pour la remettre sous tension. L’utilisation de l’écho Liaison distante ne constitue pas une connexion valable pour appliquer ce trait. Enfin, les accès obtenus le sont uniquement sur la cible, pas sur l’ensemble du PAN ou du serveur auquel elle pourrait être asservie.",
+    "value": 0,
+    "explain": "Coût : 11 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310820348,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlD",
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlD"
+}

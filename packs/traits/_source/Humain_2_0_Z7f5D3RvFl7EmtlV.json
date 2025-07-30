@@ -1,0 +1,35 @@
+{
+  "name": "Humain 2.0",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Grâce aux manipulations génétiques et à la sélection des Shiawase, ils ont réussi à rendre le génome humain un peu mieux. À vous de réaliser votre potentiel.\n\nEffets en jeu : Vos limites raciales pour le Charisme et la Volonté sont augmentées de 1. Vous ne pouvez pas être activement magique ni avoir de Résonance.",
+    "value": 0,
+    "explain": "Coût : 25 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Z7f5D3RvFl7EmtlV",
+  "sort": 2500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Z7f5D3RvFl7EmtlV"
+}

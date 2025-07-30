@@ -1,0 +1,35 @@
+{
+  "name": "Métastases incontrôlées",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nLes médicaments qui empêchent un individu lourdement cybernétisé de rejeter les quantités massives d’implants qu’il porte peuvent également maintenir les tumeurs en vie, pas uniquement leur sujet.\n\nEffets en jeu : vous avez tendance à développer de nombreux cancers. À 10 points de Karma, les tumeurs cancéreuses se développent à un rythme régulier, mais lent, vous obligeant à subir une intervention chirurgicale régulière ou un traitement nanotechnologique mensuel pour les éliminer, sous peine de tomber violemment malade (ce qui, dans les faits, vous neutralise). Ajoutez 1 000¥ par mois au coût de votre style de vie. À 20 points de Karma, les métastases rendent l’élimination totale des tumeurs et des tissus cancéreux impossible (bien que les opérations chirurgicales mensuelles soient toujours requises). Les déformations physiques et les excroissances qui en résultent confèrent au sujet un modificateur permanent de –2 à tous les tests impliquant des interactions sociales en personne. De plus, le coût mensuel de votre style de vie augmente de 2 000¥.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma par niveau (2 niveaux maximum)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPF",
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPF"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Sonde mentale",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e27",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le sujet de ce sort peut pénétrer dans l’esprit d’une cible, percevoir ses pensées tout en faisant le tri entre la vérité et ce qu’elle imagine. Effectuez un test de Sorcellerie + Magie contre Volonté + Logique ; les succès nets déterminent les informations que l’on peut extraire de la tête de la cible. La table Sonde mentale indique le type d’informations qu’on peut obtenir de la cible si celle-ci est à portée (déterminée normalement).",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 5,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 100196,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023688682,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e27"
+}

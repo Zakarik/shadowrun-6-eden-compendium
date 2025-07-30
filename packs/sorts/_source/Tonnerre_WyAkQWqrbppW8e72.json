@@ -1,0 +1,42 @@
+{
+  "name": "Tonnerre",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e72",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Génère un bruit intense d’une nature au choix du mage. La zone de base est une sphère de deux mètres de rayon, extensible avec Extension de zone. Pour chaque succès à un test de Sorcellerie + Magie, le bruit dure un round après la perte de concentration. Les succès nets sont des malus aux tests pour entendre dans la zone.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "physical",
+    "range": "line_of_sight_area",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023740723,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e72"
+}

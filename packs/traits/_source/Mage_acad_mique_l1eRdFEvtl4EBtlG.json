@@ -1,0 +1,35 @@
+{
+  "name": "Mage académique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Une très grande partie des mages (en particulier des traditions hermétiques) ne sont pas formés par un professeur particulier. Ils sont inscrits à l’université. Je vous l’accorde, l’éducation académique est hors de prix, mais elle porte ses fruits en termes d’acquisition de connaissances.\n\nEffets en jeu : pendant la création de personnage, les mages peuvent acheter des Connaissances au prix de 2 points de Karma chacune. Ils peuvent également acheter des Connaissances avec leur budget de départ (p. 68, SR6) au prix de 1000 nuyens par Connaissance. Ce trait peut être combiné avec le trait Endetté ; cependant, cela augmente le prix par Connaissance, qui sera de 2000 nuyens.",
+    "value": 0,
+    "explain": "Coût : 1 point de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1eRdFEvtl4EBtlG",
+  "sort": 3200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1eRdFEvtl4EBtlG"
+}

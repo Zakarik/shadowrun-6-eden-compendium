@@ -1,0 +1,35 @@
+{
+  "name": "Polyglotte",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVotre truc à vous, c’est les langues.\n\nEffets en jeu : vous pouvez apprendre de nouvelles compétences de langues au prix de 2 points de Karma. Améliorer le niveau de vos compétences de langues ne vous coûte que 1 point de Karma. Vous pouvez améliorer vos compétences de langues jusqu’au niveau 4 (Langue maternelle).",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "v9hgsttR8l43BtPD",
+  "sort": 5800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!v9hgsttR8l43BtPD"
+}

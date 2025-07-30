@@ -1,0 +1,42 @@
+{
+  "name": "Surcharge de focus",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e71",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Effectuez un test de Sorcellerie + Magie contre Puissance du focus × 2. Si vous obtenez des succès nets, augmentez l’indice effectif du focus de 1 tant que le sort est maintenu. Un échec critique réduit la Puissance du focus de 2 de manière permanente.",
+    "category": "manipulation",
+    "duration": "limited",
+    "drain": 7,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e71"
+}

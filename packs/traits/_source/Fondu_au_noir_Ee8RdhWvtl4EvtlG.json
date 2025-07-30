@@ -1,0 +1,35 @@
+{
+  "name": "Fondu au noir",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre grand truc dans la Matrice, c’est de disparaître dès que les ennuis débarquent.\n\nEffets en jeu : quand vous utilisez l’action matricielle Se cacher, gagnez un point d’Atout.",
+    "value": 0,
+    "explain": "Coût : 3 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310658109,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RdhWvtl4EvtlG",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RdhWvtl4EvtlG"
+}

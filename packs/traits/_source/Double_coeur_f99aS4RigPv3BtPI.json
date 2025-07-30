@@ -1,0 +1,35 @@
+{
+  "name": "Double coeur",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous disposez d’un second cœur dans la partie droite de votre poitrine qui améliore vos performances par le biais d’un système cardiovasculaire plus efficace. Vous pouvez maintenir une activité intense pendant plus longtemps et supporter des fréquences cardiaques qui provoqueraient une tachycardie chez une personne normale, ce qui diminue d’un niveau tout état Fatigué que vous subissez. Ce trait est compatible avec l’augmentation synthécarde (p. 300, SR6) mais augmente ses coûts en nuyens et en Essence de cinquante pour cent.",
+    "value": 0,
+    "explain": "Coût : 5 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004570654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f99aS4RigPv3BtPI",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f99aS4RigPv3BtPI"
+}

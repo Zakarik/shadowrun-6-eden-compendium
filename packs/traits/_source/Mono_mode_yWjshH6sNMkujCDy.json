@@ -1,0 +1,35 @@
+{
+  "name": "Mono-mode",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Qu’il s’agisse de RA ou de RV en cold-sim ou hot-sim, vous avez une très nette préférence. Ceux qui privilégient la RV cold-sim ont probablement vu les effets du biofeedback sur un proche, ou peut-être est-ce leur propre cerveau qui a grillé une ou deux fois. Les adeptes de la RA font sans doute partie de ceux qui n’aiment pas sacrifier toute perception de leur environnement physique. Les accros à la RV hot-sim sont ceux qui ne conçoivent leur expérience de la Matrice que de manière absolue. Quelles que soient vos raisons, vous trouvez les autres modes perturbants et incommodes.\n\nEffet en jeu : choisissez votre mode de prédilection entre RA, RV cold-sim et RV hot-sim. Quand vous êtes dans un autre mode que celui-ci, vous ne pouvez pas gagner d’Atout lors d’actions matricielles et le coût de tous les actions et bonus d’Atout pour assister ces actions est doublé.",
+    "value": 0,
+    "explain": "Bonus : 7 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1752311948634,
+    "modifiedTime": 1752311948634,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "yWjshH6sNMkujCDy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!yWjshH6sNMkujCDy"
+}

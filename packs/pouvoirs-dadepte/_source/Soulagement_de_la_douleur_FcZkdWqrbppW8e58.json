@@ -1,0 +1,35 @@
+{
+  "name": "Soulagement de la douleur",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "En manipulant les centres nerveux d’une cible, ses points de qi et les autres zones où le mana et l’énergie vitale se concentrent naturellement dans le corps métahumain, un adepte maîtrisant le pouvoir Soulagement de la douleur peut temporairement apaiser les tensions, la fatigue et l’inconfort. L’adepte réalise un test d’Agilité + Magie pour cibler précisément les points du corps à atteindre. Pour chaque succès obtenu, la cible peut ignorer un point de dommages étourdissants afin de calculer les modificateurs de blessure. Ces dommages ne sont pas soignés, mais la cible se sent revigorée, réénergisée et plus à même de continuer malgré ses contusions ou sa fatigue. Ce soulagement des dommages s’estompe au bout de (Magie) heures. Qui plus est, au lieu d’ignorer les dommages, l’adepte peut faire disparaître les effets du pouvoir Frappe névralgique sur le sujet. Cet effet est permanent.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 1,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524658,
+    "modifiedTime": 1753795524658,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e58",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e58"
+}

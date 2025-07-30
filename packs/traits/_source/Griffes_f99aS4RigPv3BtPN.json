@@ -1,0 +1,35 @@
+{
+  "name": "Griffes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Tous les traits Griffes ont pour effet de transformer vos ongles en griffes longues et solides adaptées à divers usages. Ces griffes offrent +1 à la réserve de dés et une remise d’Atout de 1 pour tous les tests visant à creuser ou déplacer de la terre (Pelles). Elles sont modérément utiles en combat : Combat rapproché (mains nues) avec une VD de 2P et un SO de 4+FOR/—/—/—/— ; la VD est modifiée par la Force. Elles peuvent également servir à attaquer un adversaire en utilisant Combat rapproché (mains nues) avec une VD de 3P et un SO de 7+FOR/—/—/—/— ; la VD est modifiée par la Force (Rasoirs). Les griffes rétractables fonctionnent comme les rasoirs mais peuvent être rétractées et dissimulées ; un test de Perception + Intuition (2) réussi est requis pour les remarquer (Rasoirs rétractables).",
+    "value": 0,
+    "explain": "Coût : 8 ou 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004570654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f99aS4RigPv3BtPN",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f99aS4RigPv3BtPN"
+}

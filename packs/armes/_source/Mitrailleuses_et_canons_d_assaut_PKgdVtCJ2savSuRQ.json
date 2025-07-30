@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "godhpqHpuZ6Ia8wY",
+  "name": "Mitrailleuses et canons d'assaut",
+  "color": null,
+  "sorting": "a",
+  "_id": "PKgdVtCJ2savSuRQ",
+  "description": "",
+  "sort": 400000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751904075555,
+    "modifiedTime": 1752154468830,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!PKgdVtCJ2savSuRQ"
+}

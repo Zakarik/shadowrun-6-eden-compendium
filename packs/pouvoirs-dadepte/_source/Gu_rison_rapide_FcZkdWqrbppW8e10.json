@@ -1,0 +1,35 @@
+{
+  "name": "Guérison rapide",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La magie qui circule en vous vous aide à ressouder vos os et à faire repousser votre peau, accélérant votre guérison. Ajoutez 1 succès par niveau aux tests de guérison effectués pour vous soigner.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524610,
+    "modifiedTime": 1753795524610,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e10",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e10"
+}

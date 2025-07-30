@@ -1,0 +1,35 @@
+{
+  "name": "Roi de la casse",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Oui oui, c’est une pièce de Harley… enfin, c’est compatible… à peu près… c’est juste pas le fabricant d’origine,\nquoi. Vous pouvez payer plus cher pour une pièce officielle, mais entre vous et moi elle sort de chez le même\nsous-traitant d’Aztlan; elle a juste fait un petit détour par\nHong Kong.\n\nEffets en jeu : le PJ dispose de plus de facilités pour réparer ou modifier son véhicule avec des pièces à l’adéquation approximative. Pour 4 points de Karma, quand vous cherchez des pièces d’occasion, réduisez la Disponibilité de 1 (voir p. 163, test d’Atout). Pour 8 points de Karma, quand vous utilisez ces pièces lors d’un test de réparation (voir p. 163), la pénalité appliquée au seuil est également diminuée de 1.",
+    "value": 0,
+    "explain": "Coût : 4 ou 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209002,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgdFxi8l4EBtPC",
+  "sort": 4500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgdFxi8l4EBtPC"
+}

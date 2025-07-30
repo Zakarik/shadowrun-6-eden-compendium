@@ -1,0 +1,35 @@
+{
+  "name": "Empathie avec les véhicules (spécialisation en pilotage)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes plus proche des véhicules que des gens et un simple contact physique vous permet d’en tirer les meilleures performances.\n\nEffet en jeu: quand vous pilotez un véhicule de la catégorie de votre spécialisation, son Accélération et son intervalle de vitesse augmentent de 2. Pour 4 points de Karma, ce bénéfice n’est effectif que quand vous le pilotez manuellement. Pour 8 points de Karma, vous en profitez quand vous avez tout lien physique avec le véhicule (que vous soyez au volant ou branché).",
+    "value": 0,
+    "explain": "Coût : 4 ou 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x12reFChRvcQFWI",
+  "sort": 5200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x12reFChRvcQFWI"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Modeler la pierre",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e66",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Permet de modeler la pierre en la rendant malléable tant que le sort est maintenu. Faites un test de Sorcellerie + Magie contre Résistance d’objet ; chaque succès net permet de façonner 1 mètre cube de pierre.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 4,
+    "type": "physical",
+    "range": "line_of_sight",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e66"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Augmentation d’attribut",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e29",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le toucher du mage renforce ou accélère les capacités de la cible, augmentant temporairement un de ses attributs. Le lanceur de sorts décide quel attribut sera affecté avant d’utiliser son sort. Puis il effectue un test de Sorcellerie + Magie (5 - Essence), ce qui fournit donc un succès automatique si la cible a une Essence de 6. Le mage peut choisir le nombre de succès nets qu’il utilise pour augmenter l’attribut au taux de 1 point d’augmentation par succès net (bonus maximum de +4) ; pour chaque succès net utilisé après le premier, le Drain du sort est augmenté de 1 point. Ce sort ne peut affecter l’Atout, l’Essence, la Magie ou la Résonance.",
+    "category": "health",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": true,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "rczjYlNm1pBWGSVU",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023413160,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e29"
+}

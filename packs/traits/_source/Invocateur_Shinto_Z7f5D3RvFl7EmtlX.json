@@ -1,0 +1,35 @@
+{
+  "name": "Invocateur Shinto",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous devez être capable d'invoquer des esprits. Votre spécialisation dans les voies du Shinto vous donne une affinité particulière avec les esprits reliés à cette tradition.\n\nEffets en jeu : Gagnez +1 aux roulages d'Invocation lorsque vous êtes dans des sanctuaires Shinto. Les esprits corrompus vous choisiront toujours plutôt qu'un autre cible.",
+    "value": 0,
+    "explain": "Coût : 2 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Z7f5D3RvFl7EmtlX",
+  "sort": 2300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Z7f5D3RvFl7EmtlX"
+}

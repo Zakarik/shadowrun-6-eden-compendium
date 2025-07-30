@@ -1,0 +1,35 @@
+{
+  "name": "Contrôle morphologique",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte avec Contrôle morphologique peut altérer son corps pour changer son apparence physique, en faisant pousser ou chuter ses cheveux, en changeant ses caractéristiques de genre, en altérant sa couleur de peau, en ajoutant ou retirant des défauts ou des cicatrices, en remodelant ses traits de visage, en changeant sa taille et son poids, ou en augmentant ou diminuant d’autres caractéristiques physiques esthétiques (taille du buste ou des hanches, faire pousser ou raccourcir les ongles, etc.). Ces changements sont purement esthétiques, mais ne sont pas des illusions. Cela n’affecte pas les vêtements ou l’équipement, aucun dommage ne peut être soigné de cette façon, aucune augmentation retirée ou installée ainsi, etc.\nUn niveau de Contrôle morphologique permet à l’adepte de changer dans les limites de son métatype (les oreilles restent pointues ou rondes, les trolls gardent leurs cornes et les orks leurs défenses, la taille reste dans l’échelle du métatype et les couleurs de cheveux, des yeux et de la peau sont limitées à la gamme du métatype).\nLe deuxième niveau de Contrôle morphologique permet à un adepte de dépasser les limites de son métatype, à la fois en termes d’apparence globale (forme des oreilles, ajout ou disparition de cornes et de défenses, etc.) et de taille, ce qui permet à un nain d’atteindre la taille d’un humain/elfe/ork (ou de la diminuer pour être plus petit, comme une pixie), à un troll d’atteindre la taille d’un humain/elfe/ork ou à un humain/elfe/ork de grandir ou rapetisser à l’extrême. Ces altérations corporelles ne modifient en rien les attributs, mais sont suffisantes pour permettre à un adepte de se faire passer pour un membre d’un métatype différent sans problème. Cela permet également une plus grande variété de changements esthétiques comme les cheveux, la peau, la couleur des yeux, avec une multitude de motifs (cheveux striés de bleu, peau verte, ajout de tatouages, des pupilles en forme de fente comme un chat ou toute autre modification purement esthétique choisie par l’adepte).\nChaque niveau de Contrôle morphologique, en plus des modifications corporelles listées, offre une remise d’Atout de 1 lors des tests d’Escroquerie basés sur la Comédie, le Déguisement ou l’Imposture, selon ce qui correspond à la situation (et à la discrétion du MJ, cela peut également s’appliquer aux tests d’Influence, en particulier d’Intimidation, qui ont trait à la taille, ou aux tests d’Étiquette qui ont trait au métatype). Les MJ et les joueurs devraient se référer au tableau de Gain d’Atout lors des tests sociaux (p. 102, SR6), pour plus d’indications pratiques sur les circonstances et les changements d’apparence.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 1,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524631,
+    "modifiedTime": 1753795524631,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e31",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e31"
+}

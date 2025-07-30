@@ -1,0 +1,42 @@
+{
+  "name": "Agonie",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e38",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce sort inflige la souffrance, mais sans vraiment blesser la cible. On effectue un test de Sorcellerie + Magie contre Volonté + Logique ; chaque succès net agit comme si une case était cochée sur les moniteurs de dommages étourdissants et de dommages physiques pour déterminer le malus dû aux blessures. Si toutes les cases d’un des moniteurs ou des deux sont cochées, l’individu ciblé reste conscient, mais il souffre tellement qu’il ne peut agir. Une fois que le sort est interrompu, la cible ne subit aucun autre effet secondaire à cause de la douleur. Le sort de base n’affecte qu’un seul individu, mais l’effet d’Extension de zone peut être utilisé pour le transformer en sort à effet de zone (en commençant par une zone de 2 mètres de rayon pour +1 en Drain). Quand il s’agit d’un sort à effet de zone, on peut utiliser l’effet Déplacement de zone.",
+    "category": "illusion",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "line_of_sight",
+    "damage": "stun",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "DE7yIBPKeBfTG7Vl",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023350732,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e38"
+}

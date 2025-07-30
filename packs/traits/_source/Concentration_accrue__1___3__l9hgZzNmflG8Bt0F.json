@@ -1,0 +1,35 @@
+{
+  "name": "Concentration accrue (1 à 3)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous savez comment cloisonner votre esprit et comment maintenir des sorts et des formes complexes sans subir un trop grand stress.\n\nEffets en jeu : vous pouvez maintenir plusieurs sorts ou formes complexes sans malus. Pour chaque niveau, vous pouvez maintenir un sort ou une forme complexe supplémentaire sans subir le malus associé. Le sort ou la forme complexe ne peut avoir une valeur de Drain ou de Technodrain modifiée de 7 ou plus.",
+    "value": 0,
+    "explain": "Coût : 12 points de Karma par niveau",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgZzNmflG8Bt0F",
+  "sort": 10300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgZzNmflG8Bt0F"
+}

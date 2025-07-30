@@ -1,0 +1,35 @@
+{
+  "name": "Mode Lock",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Que ce soit en mode AR, VR cold-sim ou VR hot-sim, vous avez une préférence claire. Ceux qui préfèrent VR cold-sim ont probablement vu les effets des dommages de biofeedback sur quelqu'un qu'ils appréciaient, ou peut-être ont-ils eu leur propre cerveau grillé une fois ou deux. Si AR est votre préférence, vous êtes probablement un type de hacker en mouvement qui déteste perdre la conscience de leurs environs physiques. La VR hot-sim est la préférence pour les hackers qui se plongent totalement dans la Matrice. Quelles que soient vos raisons, vous trouvez que l'utilisation de tout mode autre que celui que vous préférez est malhabile et distrayante.\n\nEffets en jeu : Choisissez un mode préféré : AR, VR cold-sim ou VR hot-sim. À moins que vous n'utilisiez votre mode préféré, vous ne pouvez pas gagner d'Atout sur des actions Matricielles, et le coût de toute action d'Atout et des boosts d'Atout pour aider vos actions Matricielles est doublé.",
+    "value": 0,
+    "explain": "Bonus : 7 Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094532954,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlK",
+  "sort": 100013,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlK"
+}

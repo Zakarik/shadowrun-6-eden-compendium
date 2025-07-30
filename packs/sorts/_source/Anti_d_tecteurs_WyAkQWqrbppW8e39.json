@@ -1,0 +1,42 @@
+{
+  "name": "Anti-détecteurs",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e39",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Invisibilité supérieure, Masque supérieur et d’autres sorts de ce type sont parfaits quand vous voulez vous cacher à la fois des regards et des appareils technologiques, mais qu’en est-il quand il n’y a aucun être vivant dans le coin et uniquement des caméras, des détecteurs et des appareils de ce genre ? Anti-détecteurs est le sort qu’il vous faut. Il confère à la cible une version de l’état Invisible (supérieur), mais il n’a aucun effet sur les êtres vivants et dotés de conscience uniquement sur les détecteurs technologiques.",
+    "category": "illusion",
+    "duration": "sustained",
+    "drain": 2,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "DE7yIBPKeBfTG7Vl",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023381721,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e39"
+}

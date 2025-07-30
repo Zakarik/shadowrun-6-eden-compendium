@@ -1,0 +1,35 @@
+{
+  "name": "Mains mortelles",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vos mains deviennent mortelles et magiques, ce qui est très utile pour les runs et comme phrase d’accroche bourrine. Quand vous combattez à mains nues, vous pouvez choisir d’infliger des dommages étourdissants ou physiques. Le pouvoir Mains mortelles peut être combiné avec d’autres pouvoirs affectant les combats à mains nues. Les attaques effectuées avec Mains mortelles sont considérées comme magiques, ce qui signifie qu’elles ignorent les protections contre les armes normales et peuvent affecter des entités astrales lorsque l’adepte est en perception astrale.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "minor_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524611,
+    "modifiedTime": 1753795524611,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e11",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e11"
+}

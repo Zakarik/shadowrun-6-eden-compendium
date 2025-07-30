@@ -1,0 +1,35 @@
+{
+  "name": "Influenceur mode",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez une manière de faire les choses qui pousse les autres à vouloir faire de même. Lorsque vous partagez quoi que ce soit publiquement — commentaires, vidéos, peu importe — les gens prêtent attention et modifient un peu ce qu'ils font pour être plus comme vous (bien que votre apparence ne soit pas assez extravagante ou frappante pour être considérée comme la qualité Style Distinctif).\n\nEffets en jeu : Lorsque vous achetez des vêtements de mode (tout article faisant partie d'une ligne nommée, comme Armanté ou Zoé), vous recevez une réduction de cinquante pour cent, car les designers et les commerçants souhaitent que vous montriez leurs produits.",
+    "value": 0,
+    "explain": "Coût : 5 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Icf5D3RvFl7EmtlV",
+  "sort": 2400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Icf5D3RvFl7EmtlV"
+}

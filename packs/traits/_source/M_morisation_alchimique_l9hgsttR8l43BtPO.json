@@ -1,0 +1,35 @@
+{
+  "name": "Mémorisation alchimique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous êtes tellement rodé à la pratique de l’alchimie que vous êtes capable d’exécuter la plupart des tâches les yeux bandés.\n\nEffets en jeu : si vous choisissez d’acheter des succès au lieu de lancer les dés quand vous créez une préparation alchimique, vous obtenez un succès par tranche complète de trois dés que vous auriez lancé normalement. La réserve de dés opposée (qui correspond à la valeur de Drain de la préparation) doit alors également acheter un succès par tranche complète de quatre dés (minimum 1). Si vous achetez aussi des succès lors du test de Drain, vous en obtenez un par tranche complète de trois dés.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsttR8l43BtPO",
+  "sort": 6400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsttR8l43BtPO"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apparence humaine",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Il existe des orks de petite taille, des nains de grande taille et des elfes à l’apparence ingrate. Que cela soit dû à la génétique ou à des modifications, vous ne ressemblez pas à votre métatype de naissance ; vous avez une apparence humaine. On ne voit quasiment pas vos oreilles légèrement pointues, vos défenses sont à peine plus grosses que des dents, vos pommettes sont plus arrondies, vos jambes plus longues et ainsi de suite. Vous pouvez passer pour un humain, ce qui peut être utile face à des humains, mais problématique face à des non-humains.\n\nEffets en jeu : au premier regard, vous avez une apparence humaine ce qui vous octroie une remise d’Atout de 1 lors de vos tests de Déguisement pour masquer votre métatype et passer pour un humain. Les humains et les trolls ne peuvent pas choisir ce trait.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hXZzNmflG6Bq3H",
+  "sort": 10800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hXZzNmflG6Bq3H"
+}

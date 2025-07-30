@@ -1,0 +1,35 @@
+{
+  "name": "Bec",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les personnages dotés du trait Bec (standard ou rapace) bénéficient également des avantages du trait Boyaux d’acier (voir plus haut). Bec standard (9 points de Karma) : Au lieu d’un nez et d’une bouche, les parties médiane et basse de votre visage sont constituées d’un bec percé de narines dont la forme et la taille varient grandement, comme ceux des oiseaux. Ce bec n’est pas le seul trait aviaire que vous acquérez. Comme il ne vous permet pas de mâcher, vous devez avaler tout rond chaque bouchée, qui est ensuite digérée par un gésier dont les parois épaisses et puissantes broient la nourriture. Bec de rapace (11 points de Karma) : Contrairement au bec standard, celui-ci est taillé pour le combat. Il peut être utilisé avec la compétence Combat rapproché (mains nues) avec une VD de 2P et un SO de 6+FOR/—/—/—/— ; la VD est modifiée par la Force.",
+    "value": 0,
+    "explain": "Coût : 9 ou 11 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004570654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f99aS4RigPv3BtPA",
+  "sort": 2000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f99aS4RigPv3BtPA"
+}

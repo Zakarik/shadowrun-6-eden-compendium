@@ -1,0 +1,35 @@
+{
+  "name": "Préjugés (groupe)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez des opinions ou des croyances profondément ancrées en vous au sujet d’un groupe précis d’individus et quoi que les autres puissent dire, vous savez que ces individus sont néfastes. Vous avez une tellement mauvaise opinion à leur égard que vous ne pouvez pas vous concentrer quand ils sont dans les parages.\n\nEffets en jeu : choisissez un groupe ou type d’individus chaque fois que vous sélectionnez ce trait. Vous êtes incapable de gagner ou d’utiliser l’Atout en présence de l’objet de vos préjugés (sauf si vous vous opposez directement à lui).",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgstNi8l43Bt0a",
+  "sort": 7000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgstNi8l43Bt0a"
+}

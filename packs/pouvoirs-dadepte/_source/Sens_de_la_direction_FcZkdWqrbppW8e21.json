@@ -1,0 +1,35 @@
+{
+  "name": "Sens de la direction",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez un bon sens de l’orientation et vous savez d’où vous venez, où vous voulez aller et vous avez une idée de certains obstacles sur votre chemin. Quand vous effectuez un test de Plein air ayant un rapport avec les directions et l’orientation, vous bénéficiez d’une remise d’Atout de 1.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524621,
+    "modifiedTime": 1753795524621,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e21",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e21"
+}

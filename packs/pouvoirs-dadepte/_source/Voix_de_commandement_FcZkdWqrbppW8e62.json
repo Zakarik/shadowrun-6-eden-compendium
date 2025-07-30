@@ -1,0 +1,35 @@
+{
+  "name": "Voix de commandement",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les mots d’un adepte avec Voix de commandement sont empreints d’une fermeté et d’un pouvoir surnaturels. Il devient difficile de s’opposer aux injonctions d’un personnage doté de ce pouvoir. Si l’adepte réussit un test opposé d’Influence (Intimidation), la cible doit obéir à ses ordres, du moins momentanément.\n\nLes ordres dangereux ou donnés dans une situation dangereuse (en combat, par exemple) seront suivis pendant un maximum de (Magie/2) rounds (arrondi au supérieur). Les ordres ne peuvent jamais obliger une cible à se blesser directement («saute du toit», «marche sur l’autoroute» ou «tire-toi une balle» ne sont pas des ordres recevables, par exemple), mais ils peuvent donner lieu à un moment de vulnérabilité dont on peut tirer profit («assieds-toi» ou «ne bouge plus») ou un changement de camp momentané («abats ce garde !»). En cas de doute, un ordre réussi doit au moins immobiliser une cible pendant un round complet, même si l’ordre donné est impossible ou clairement suicidaire.\n\nLa cible prendra conscience de ce contrôle externe si vous lui adressez des ordres particulièrement surnaturels, mais obéira plus longtemps à des ordres moins radicaux, s’ils sont formulés prudemment. La cible et les autres témoins ne se rendront peut-être même pas compte qu’ils sont manipulés (même s’ils remarqueront sans doute quelqu’un qui hurle des ordres et qui se fait obéir, le contrôle magique en lui-même ne sera pas forcément évident). «Allez mec, laisse-nous passer» peut vous faire entrer dans un club sans incident, tandis que crier un «affronte-le, mouahaha», afin de monter un videur contre son collègue pour la blague, est susceptible d’attirer l’attention et d’être plutôt flagrant.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 1.5,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524662,
+    "modifiedTime": 1753795524662,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e62",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e62"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Positifs",
+  "color": "#407e02",
+  "sorting": "a",
+  "_id": "yDf04umJ05mbU9TA",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751985501663,
+    "modifiedTime": 1752008246698,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!yDf04umJ05mbU9TA"
+}

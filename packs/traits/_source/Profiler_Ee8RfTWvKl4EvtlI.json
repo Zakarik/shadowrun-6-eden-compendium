@@ -1,0 +1,35 @@
+{
+  "name": "Profiler",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes très doué pour rassembler et compiler des informations sur les gens pour une utilisation ultérieure.\n\nEffets en jeu : vous pouvez faire le profil de n’importe quelle personne. Cela requiert un test étendu de Recherche matricielle avec un seuil de 6 et un intervalle de 1 heure, suivi d’un test étendu de programmation avec un seuil de 6 et un intervalle de 1 minute. Cet intervalle ne peut être réduit d’aucune manière, pas même en utilisant un construct oracle. Une fois créé, un profil est permanent ; on considère que vous prenez quelques minutes ici et là pour tenir vos registres à jour. Il contient toutes les informations que le MJ est susceptible de vous fournir dans le cadre d’une enquête de terrain réussie, mais il peut également se révéler utile lors de vos interactions avec l’individu en question. Si vous disposez du profil de quelqu’un, vous gagnez un point d’Atout sur chaque test d’Escroquerie, d’Influence ou de Jauger les intentions réalisé à son encontre. Cet Atout peut être dépensé lors du test, ou stocké dans le profil de l’individu concerné. Chaque profil peut emmagasiner jusqu’à 6 points d’Atout. Vous êtes le seul à pouvoir utiliser cet Atout, et vous ne pouvez le faire que dans le cadre de bonus ou actions d’Atout dirigés contre la cible. L’Atout stocké dans le profil peut être dépensé sur n’importe quel test contre l’individu concerné ; pas uniquement les tests d’Escroquerie, d’Influence ou de Jauger les intentions. Tous les points d’Atout ainsi stockés disparaissent au début de la séance suivante, quand ils se réinitialisent.",
+    "value": 0,
+    "explain": "Coût : 7 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311049552,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlI",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlI"
+}

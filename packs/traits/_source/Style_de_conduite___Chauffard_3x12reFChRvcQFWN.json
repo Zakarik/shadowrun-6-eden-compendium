@@ -1,0 +1,35 @@
+{
+  "name": "Style de conduite : Chauffard",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous prenez des risques à la moindre occasion, comptant sur votre chance et la nature chaotique et imprévisible d’une poursuite pour parvenir à vos fins. Vous refusez tout compromis. Soit vous gagnez le gros lot, soit vous explosez dans une gerbe de flammes. Voire les deux!\n\nEffet en jeu: le coût des actions d’Atout suivantes est réduit de moitié (la nouvelle valeur est placée entre parenthèses):\n• Quitte ou double (1, 2 ou 3 points d’Atout) uniquement lors des tests de Pilotage\n• Poule mouillée (3 points d’Atout)\n• Compteurs à zéro (1 point d’Atout)\n• Surenchère (1, 2 ou 3 points d’Atout)",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x12reFChRvcQFWN",
+  "sort": 4200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x12reFChRvcQFWN"
+}

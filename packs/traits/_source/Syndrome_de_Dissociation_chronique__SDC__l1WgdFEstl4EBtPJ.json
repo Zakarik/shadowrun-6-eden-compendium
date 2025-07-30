@@ -1,0 +1,35 @@
+{
+  "name": "Syndrome de Dissociation chronique (SDC)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nLe SDC est le trouble psychologique le plus répandu chez les personnes ayant abusé des augmentations. Les symptômes se manifestent principalement par un sentiment d’indifférence et de détachement vis-à-vis de l’entourage, des relations et des centres intérêts du sujet. Même un stimulateur de mémoire invoquée fonctionnel ne peut empêcher l’apathie et la dépression intenses associées au SDC de s’installer.\n\nEffets en jeu : le score d’Essence doit être inférieur à 3. Vous subissez un malus de –3 à tous vos tests de Volonté, à l’exception des tests de Lancement de sorts et de résistance aux dommages.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPJ",
+  "sort": 1700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPJ"
+}

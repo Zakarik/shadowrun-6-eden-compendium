@@ -1,0 +1,35 @@
+{
+  "name": "Vision sous‑marine",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vos yeux sont protégés par une membrane spéciale qui leur permet de fonctionner normalement sous l’eau. Les visions nocturnes et thermographiques sont également fonctionnelles. La visibilité reste réduite sous l’eau et dépasse rarement quelques dizaines de mètres, si ce n’est moins, dans le cas d’une eau trouble.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "Qwx6dFpR3wBl0mrX",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006102648,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1sOrRigPvQBClJ",
+  "sort": 100391,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1sOrRigPvQBClJ"
+}

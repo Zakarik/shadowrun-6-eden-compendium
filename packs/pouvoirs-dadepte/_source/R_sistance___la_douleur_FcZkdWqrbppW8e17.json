@@ -1,0 +1,35 @@
+{
+  "name": "Résistance à la douleur",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La souffrance est néfaste, mais vous avez appris à mieux la contrôler. Pour chaque niveau de ce pouvoir, les modificateurs négatifs des dommages sont décalés d’une case vers le bout des Moniteurs d’états ; par exemple, au niveau 1, vous ne subissez pas le malus de -1 jusqu’à ce que 4 cases (au lieu de 3) soient cochées sur un Moniteur d’états. Le pouvoir agit aussi bien pour le Moniteur de dommages physiques que pour le Moniteur de dommages étourdissants.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524617,
+    "modifiedTime": 1753795524617,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e17",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e17"
+}

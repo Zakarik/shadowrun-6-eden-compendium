@@ -1,0 +1,35 @@
+{
+  "name": "Délire",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous faites montre d’une croyance fermement ancrée qui n’est pas fondée sur des faits. Il est impossible de vous y faire renoncer, que ce soit par une argumentation logique ou un charme persuasif.\n\nEffets en jeu : dans la plupart des situations sociales ou lors d’une shadowrun durant laquelle vous êtes confronté à votre Délire, vous subissez l’état Confus 2. Chaque fois que la réalité vient mettre à mal votre croyance, vous devez trouver une raison qui explique pourquoi celle-ci semble contredite. Un ami ou un ennemi imaginaire, la croyance dans le pouvoir d’un porte-bonheur ou la connaissance d’une conspiration mondiale entre dragons et elfes sont autant d’exemples de Délire. Si cette illusion est brisée de force, vous êtes incapable de rationaliser la situation, ce qui vous soumet à un stress extrême. Vous devez faire un test de Sang-froid (4) ou sombrer dans la dépression, ce qui peut générer un nouveau délire ou transformer ce trait négatif en un autre équivalent.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPA",
+  "sort": 2600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPA"
+}

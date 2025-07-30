@@ -1,0 +1,35 @@
+{
+  "name": "Prime",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nUn individu ou un groupe a placé une prime sur votre tête. Contrairement à un mandat d’arrêt, il s’agit d’une invitation ouverte à tout chasseur de prime professionnel : vous livrer vivant, c’est repartir avec un gros paquet de nuyens.\n\nEffets en jeu : quand votre niveau de Pression atteint ou dépasse 17, les chasseurs de primes vous collent au train. Vous devez toujours les éviter et regarder par‑dessus votre épaule, sans jamais pouvoir relâcher votre vigilance. Vous commencez chaque séance avec une réserve d’Atout à zéro.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtPf",
+  "sort": 4800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtPf"
+}

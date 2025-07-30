@@ -1,0 +1,35 @@
+{
+  "name": "Rétention empathique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nGrâce à des talents naturels ou à l’entraînement, vous parvenez toujours à interpréter les subtiles indications non verbales que les métahumains utilisent pour communiquer entre eux, ce qui compense l’atrophie de votre conscience sociale généralement causée par la perte de l’Essence.\n\nEffets en jeu : chaque niveau de ce trait annule 1 point de malus au Score Social causé par la perte d’Essence. Ce trait ne peut pas générer un modificateur de Score Social positif et ne compense que les malus provoqués par la perte d’Essence. Il n’a aucun effet sur les autres modificateurs négatifs.",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma par niveau (2 niveaux maximum)",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1AgdFEstl4EBtPB",
+  "sort": 3600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1AgdFEstl4EBtPB"
+}

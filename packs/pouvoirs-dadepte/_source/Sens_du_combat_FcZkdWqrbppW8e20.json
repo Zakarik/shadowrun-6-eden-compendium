@@ -1,0 +1,35 @@
+{
+  "name": "Sens du combat",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce pouvoir vous confère la capacité d’anticiper et d’éviter les attaques. Vous gagnez un bonus de +1 dé par niveau à tous vos tests défensifs et de surprise.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524620,
+    "modifiedTime": 1753795524620,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e20",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e20"
+}

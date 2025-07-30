@@ -1,0 +1,35 @@
+{
+  "name": "Aimant à emmerdes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Il y a toujours quelqu’un pour remarquer quand vous faites quelque chose de mal sur la route. Et ce ne sont jamais les bonnes personnes.\n\nEffets en jeu : quand vous conduisez de manière dangereuse ou chaotique (à la discrétion du maître de jeu), lancez deux dés. Si vous obtenez 2 succès, la police locale vous repère.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209000,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T1FgdFxi8l4hBtQA",
+  "sort": 3900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T1FgdFxi8l4hBtQA"
+}

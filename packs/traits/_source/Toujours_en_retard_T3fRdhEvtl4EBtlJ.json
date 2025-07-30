@@ -1,0 +1,35 @@
+{
+  "name": "Toujours en retard",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Peu importe le nombre d’alarmes que vous planifiez ou le nombre de fois que vos coéquipiers vous ont appelé pour vous rappeler de venir ; que vous soyez continuellement distrait ou que vous ayez du mal à sortir du lit, vous ne pourriez pas arriver à l’heure, même si votre vie en dépendait. Vous faites avec la plupart du temps, mais, parfois, lorsque vous êtes supposé rencontrer M. Johnson par exemple, cela fait paraître votre équipe négligée.\n\nEffets en jeu : vous arrivez tout le temps avec au moins quinze minutes de retard à chaque événement prévu. Lorsque l’événement en question est une rencontre avec un employeur potentiel, votre équipe subit un malus de –1 à ses tests de Social contre M. Johnson à cause de votre manque de professionnalisme.",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdhEvtl4EBtlJ",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdhEvtl4EBtlJ"
+}

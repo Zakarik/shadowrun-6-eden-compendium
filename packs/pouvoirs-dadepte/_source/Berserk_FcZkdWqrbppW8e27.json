@@ -1,0 +1,35 @@
+{
+  "name": "Berserk",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains adeptes sont des puits de mana bouillonnant et ont appris à puiser dans cette énergie primaire pour entrer dans un état frénétique qui augmente grandement leurs capacités physiques. Quand ce pouvoir est activé, l’adepte gagne +1 à tous ses attributs physiques par niveau de Berserk (ce bonus se combine à d’autres améliorations, mais se limite néanmoins au maximum de base de +4), ignore une quantité de dommages égale à son rang de Berserk (comme s’il avait également le trait Résistance à la douleur au même niveau ; cela s’accumule avec le sort Résistance à la douleur et d’autres modificateurs d’amélioration), mais il subit un malus de -1 à ses attributs mentaux par niveau de Berserk (avec un minimum de 1) et devient esclave de ses pulsions irréfléchies. Ces modifications affectent la plupart des réserves de dés et le Score Offensif en Combat rapproché (initiative, tests d’attaque, de réduction des dommages, etc.), mais pas les Moniteurs d’état. Un adepte doté du pouvoir Berserk doit attaquer une cible à portée en Combat rapproché ou, si aucune cible n’est à portée, utiliser une action majeure pour se rapprocher de quelqu’un afin de l’attaquer avec sa prochaine action majeure (y compris les alliés ou les spectateurs, s’il est à court d’adversaires). La frénésie du berserker dure (Niveau de Berserk × 2) rounds. Si l’adepte souhaite quitter cet état plus tôt (afin de battre en retraite ou parce que ses adversaires ont tous été vaincus, par exemple) il doit réaliser un test identique à celui du Drain d’adepte (Constitution + Volonté, ou avec les attributs qui correspondent à sa voie, en appliquant les modificateurs de Berserk), avec pour seuil de difficulté son rang dans le pouvoir Berserk. Lorsque ce dernier expire, que ce soit naturellement ou si l’adepte y met volontairement fin, celui-ci doit résister à un Drain égal à (2 × rang de ce pouvoir), en utilisant ses attributs de Drain normaux (donc, non Berserk).",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 1,
+    "activation": "minor_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524627,
+    "modifiedTime": 1753795524627,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e27",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e27"
+}

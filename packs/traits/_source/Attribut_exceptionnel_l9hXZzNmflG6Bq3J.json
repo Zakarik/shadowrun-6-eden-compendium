@@ -1,0 +1,35 @@
+{
+  "name": "Attribut exceptionnel",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Que vous débordiez d’énergie ou que vous soyez capable d’encaisser l’attaque d’un troll, de tenir l’alcool, d’éviter des coups, de vendre du charbon à Newcastle ou de faire passer un chat pour un empoté, vous êtes naturellement supérieur.\n\nEffets en jeu : choisissez un attribut physique ou mental. Votre maximum dans cet attribut (mais pas votre rang actuel) est augmenté de 1. Ce trait ne peut être sélectionné qu’une seule fois par attribut.",
+    "value": 0,
+    "explain": "Coût : 12 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hXZzNmflG6Bq3J",
+  "sort": 10600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hXZzNmflG6Bq3J"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Tu as peut-être manqué quelque chose",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous ne pouvez jamais vous fier à la parole de qui que ce soit ; après tout, les gens se trompent et «oublient» parfois même intentionnellement des choses s’ils veulent vous faire échouer. Puisque la menace est toujours présente, la seule personne en qui vous vous fiez pour repérer le danger est vous-même, même si vous n’êtes pas toujours le mieux placé pour cela.\n\nEffets en jeu : lorsque vous vous trouvez dans une situation potentiellement dangereuse, vous devez prendre toutes les précautions possibles pour repérer les menaces éventuelles. Si un autre membre de l’équipe l’a déjà fait, vous devez passer au moins autant de temps que lui pour compléter cette même tâche, même si cela agace vos coéquipiers.",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdhEvtl4EBtlK",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdhEvtl4EBtlK"
+}

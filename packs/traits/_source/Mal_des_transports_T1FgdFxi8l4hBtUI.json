@@ -1,0 +1,35 @@
+{
+  "name": "Mal des transports",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "C’est sûr que pouvoir transiter entre différents endroits est très pratique, mais ça ne rend pas la chose plaisante. Rouler la fenêtre ouverte ne vous est d’aucune aide; c’est juste que vous devrez nettoyer la voiture après coup.\n\nEffets en jeu : chaque fois que vous passez plus de trente minutes dans un véhicule en mouvement, subissez l’état Nauséeux (p. 57, SR6). Cet état persiste pendant les dix minutes suivant l’arrêt du véhicule. Les tests de récupération ne sont que temporaires et durent (succès nets) minutes.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209008,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T1FgdFxi8l4hBtUI",
+  "sort": 3100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T1FgdFxi8l4hBtUI"
+}

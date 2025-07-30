@@ -1,0 +1,35 @@
+{
+  "name": "Frappe névralgique",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte maîtrisant la Frappe névralgique n’est pas seulement en phase avec son flux de mana interne, il est aussi capable d’interrompre ce flux d’énergie vitale chez autrui, en frappant ses centres nerveux et les autres points critiques où se concentre le mana. L’adepte déclare vouloir utiliser ce pouvoir avant son test de Combat rapproché, puis lance les dés (et la cible se défend) comme d’ordinaire. Au lieu de déterminer les dommages après les tests d’attaque et de défense, l’adepte peut réduire l’Agilité ou la Réaction de la cible (au choix) de 1 par succès net. Si l’attribut ciblé est réduit à 0 ou moins, la cible subit l’état Paralysé (p. 83). Les points d’attributs perdus sont récupérés à hauteur de 1 point par heure de repos. Aucun dommage physique ou étourdissant n’est infligé par l’attaque, quels que soient les effets secondaires qu’elle aurait normalement dû engendrer (comme en frappant avec une électromatraque ou en attaquant à mains nues avec le pouvoir Frappe élémentaire).\n\nCe pouvoir peut être utilisé contre les créatures et les métahumains, mais est inefficace contre les adversaires qui ne possèdent pas de système nerveux fonctionnel ou d’énergie vitale biologique (drones, esprits et autres). Le meneur de jeu peut décider d’infliger un malus à la réserve de dés d’un adepte qui tenterait d’utiliser ce pouvoir sur une créature morphologiquement très différente d’un métahumain.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 1,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524642,
+    "modifiedTime": 1753795524642,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e42",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e42"
+}

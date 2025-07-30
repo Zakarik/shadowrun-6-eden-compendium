@@ -1,0 +1,35 @@
+{
+  "name": "Esprit d’équipe",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous faites partie d’une équipe, et vous savez comment veiller sur elle.\n\nEffets en jeu : vous pouvez dépenser de l’Atout à la place d’un autre personnage, sans surcoût. La dépense peut être partagée ou être à votre seule charge, pour tout bonus ou toute action. La limite d’une seule utilisation d’Atout par test s’applique néanmoins toujours, indépendamment de qui s’acquitte du coût.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsttR8l43BtPK",
+  "sort": 6800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsttR8l43BtPK"
+}

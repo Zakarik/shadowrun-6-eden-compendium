@@ -1,0 +1,42 @@
+{
+  "name": "Armure",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e54",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre magie imprègne le corps de la cible en le renforçant pour qu’il puisse mieux encaisser les dommages. Effectuez un test de Sorcellerie + Magie et ajoutez les succès nets au Score Défensif de la cible.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 4,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e54"
+}

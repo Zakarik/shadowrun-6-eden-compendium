@@ -1,0 +1,35 @@
+{
+  "name": "Résistance (élémentaire)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Grâce à la génétique et aux entraînements, vous avez développé une forte résistance et tolérance à certaines formes d’énergies néfastes (ou à l’absence d’énergie dans le cas du froid).\n\nEffets en jeu : chaque fois que vous choisissez ce trait, choisissez un type de dommages élémentaires (p. 113). Quand vous subissez une attaque qui inflige ce type de dommages, vous bénéficiez d’une remise d’Atout de 1 sur votre test de défense.",
+    "value": 0,
+    "explain": "Coût : 12 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsDNmfl48Bt5F",
+  "sort": 8700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsDNmfl48Bt5F"
+}

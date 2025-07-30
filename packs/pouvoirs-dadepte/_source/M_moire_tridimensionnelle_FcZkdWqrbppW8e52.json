@@ -1,0 +1,35 @@
+{
+  "name": "Mémoire tridimensionnelle",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Mémoire tridimensionnelle permet à un adepte de mémoriser une zone en détail, en ne l’observant qu’une seule fois pendant quelque temps (une action majeure minimum). Plus tard, l’adepte pourra effectuer un test de mémoire (Logique + Intuition), en ayant la possibilité de remplacer l’un de ces deux attributs mentaux par celui de Magie, s’il le souhaite. La difficulté de ce test varie selon l’ancienneté du souvenir (difficulté 1 le premier jour, 2 une semaine plus tard, 3 un mois plus tard, 4 un an plus tard ou plus). La zone mémorisée se limite à ce que l’adepte peut effectivement voir. Dépenser plus d’une action majeure est donc une bonne idée : si on n’ouvre pas une armoire ou n’inspecte l’intérieur d’un tiroir de bureau, par exemple, on ne saura pas ce qui se cache dedans.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524652,
+    "modifiedTime": 1753795524652,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e52",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e52"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Guérison rapide",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous récupérez de vos blessures plus rapidement que les autres, ce qui est extrêmement utile pour une profession dans laquelle vous vous exposez à des tirs ennemis.\n\nEffets en jeu : réduisez de moitié l’intervalle de tout test de récupération naturelle (p. 125), ce qui signifie que vous pouvez soigner des dommages étourdissants au bout d’une demi-heure et des dommages physiques au bout d’une demi-journée.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgZzNmflGfBt1F",
+  "sort": 9400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgZzNmflGfBt1F"
+}

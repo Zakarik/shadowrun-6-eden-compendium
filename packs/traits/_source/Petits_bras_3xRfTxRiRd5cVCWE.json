@@ -1,0 +1,35 @@
+{
+  "name": "Petits bras",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "À cause d’une dysplasie squelettique, vos bras sont plus courts que la normale pour votre métatype. En combat rapproché, cette perte d’Allonge impose un malus de −1 au Score Offensif, même quand vous portez une arme. Vous subissez également un malus de −1 à la réserve de dés pour tous vos tests d’Armes à feu et Combat rapproché, ainsi que ceux d’Athlétisme qui impliquent l’utilisation de vos bras.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "4BSIqdgd394gTKKN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007638154,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTxRiRd5cVCWE",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTxRiRd5cVCWE"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Endurance à la douleur",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La douleur n’est qu’une illusion de l’esprit. C’est soit ça, soit vous êtes né avec une analgésie congénitale. Quoi qu’il en soit, vous ne subissez pas comme les autres les effets secondaires des blessures et de la douleur.\n\nEffets en jeu : quand vous êtes blessé, réduisez de 1 point votre malus de blessures (minimum 0).",
+    "value": 0,
+    "explain": "Coût : 7 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgZzNmflG8Bt6F",
+  "sort": 9900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgZzNmflG8Bt6F"
+}

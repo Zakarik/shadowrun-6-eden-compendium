@@ -1,0 +1,35 @@
+{
+  "name": "Doigts de fée",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les adeptes dotés du pouvoir Doigts de fée sont incroyablement adroits et agiles de leurs mains. Le premier niveau de Doigts de fée octroie une remise d’Atout de 1 sur les tests tels que Furtivité (Escamotage), pour les tours de passe-passe ou pour faire les poches, Ingénierie (Crochetage) pour forcer les serrures ou Escroquerie (Représentation) pour certains types de manipulations délicates. Chaque niveau de Doigts de fée, à l’exception du premier, octroie un modificateur de +1 à la réserve de dés pour ce genre de tests et une action mineure bonus, qui ne peut être utilisée que pour couvrir le coût d’une action majeure/mineure parmi : Ramasser/Poser un objet, Recharger une arme, Utiliser un appareil simple et d’autres actions qui reposent sur l’adresse et la dextérité manuelle (Doigts de fée 3, par exemple, réduirait le coût de l’action majeure Recharger une arme à deux actions mineures, diminuant ainsi de moitié le temps que cela prendrait). Ce rabais ne s’applique pas aux actions destinées à Préparer une arme ; pour cela, voir Dégainement éclair (p. 76).",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524634,
+    "modifiedTime": 1753795524634,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e34",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e34"
+}

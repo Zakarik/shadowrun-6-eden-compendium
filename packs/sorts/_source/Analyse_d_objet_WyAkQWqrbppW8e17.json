@@ -1,0 +1,42 @@
+{
+  "name": "Analyse d’objet",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e17",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Bien sûr vous savez à quoi ressemble un commlink, mais cela ne signifie pas pour autant que vous pouvez identifier la fonction de cette étrange boîte noire avec une seule prise de connexion. Et que les esprits vous viennent en aide si vous êtes confronté à une machine des années 50. Analyse d’objet vous fournit des informations sur des objets inconnus en fonction du nombre de succès nets que vous obtenez (la Résistance d’objet de l’appareil est utilisée pour le test opposé). La première fois qu’un personnage tente d’utiliser un appareil en maintenant ce sort, il gagne un nombre de points d’Atout égal à ses succès nets obtenus à ce test (sans pouvoir dépasser la limite de gain de 2 points d’Atout par tour).",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 2,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023358475,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e17"
+}

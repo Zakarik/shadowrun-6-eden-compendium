@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Arme de poche/Pistolet léger/automatique",
+  "color": null,
+  "sorting": "a",
+  "_id": "cvYjQ16qdwXJdKuV",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751979833902,
+    "modifiedTime": 1751982831647,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!cvYjQ16qdwXJdKuV"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Balise astrale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Voir p. 77, SR6.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "shDN7gVW5SIMYs5j",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007110550,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTrRigd8cVCWA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTrRigd8cVCWA"
+}

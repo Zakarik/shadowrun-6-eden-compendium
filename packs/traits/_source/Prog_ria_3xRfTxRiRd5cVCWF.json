@@ -1,0 +1,35 @@
+{
+  "name": "Progéria",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La progéria est une affection extrêmement rare qui accélère fortement certains effets du vieillissement, diminuant votre espérance de vie. Malgré les progrès effectués en la matière grâce aux avancées en ingénierie génétique et en biotech, il vous reste moins de temps à vivre que les autres. La seule solution pour vous débarrasser de ce syndrome est de vous faire infecter au VVHMH. La faible stature, l’apparence juvénile et les rides dues à la progéria font de vous un « vieil enfant ». Les problèmes de développement de votre corps vous imposent un malus de −2 à la réserve de dés pour tous vos tests impliquant un de vos attributs physiques, ce qui réduit également votre initiative.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "4BSIqdgd394gTKKN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007639201,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTxRiRd5cVCWF",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTxRiRd5cVCWF"
+}

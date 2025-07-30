@@ -1,0 +1,35 @@
+{
+  "name": "Frappe chirurgicale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez un don pour accéder aux serveurs ni vu ni connu.\n\nEffets en jeu : quand vous possédez un compte utilisateur ou administrateur illégal sur un serveur, le Score de Surveillance n’augmente qu’une fois par minute au lieu d’une fois par round de combat.",
+    "value": 0,
+    "explain": "Coût : 11 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310699097,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlM",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlM"
+}

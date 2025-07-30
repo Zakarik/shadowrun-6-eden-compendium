@@ -1,0 +1,35 @@
+{
+  "name": "Recherché par DIEU",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre persona est sur la liste noire du DIEU. Vous n’êtes peut-être pas en tête, mais vous gravissez les échelons.\n\nEffets en jeu : pour chaque niveau de ce trait, votre seuil de Convergence diminue de 5 points. En clair, le DIEU déclenche une Convergence quand votre Score de Surveillance atteint 35 au niveau 1, 30 au niveau 2, 25 au niveau 3 et 20 au niveau 4. Dès qu’il fond sur vous, sa première réponse est une équipe d’intervention spéciale qui vous traite comme une menace extrême. Si vous effectuez des actions matricielles illé- gales durant un run, votre modificateur de Pression augmente du niveau de ce trait à son issue. Ce modificateur n’affecte que vous, il est donc possible que votre Pression personnelle augmente, mais pas celle de vos collègues.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma/Niveau (max niveau 4)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311868075,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlP",
+  "sort": 100004,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlP"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Talon d’Achille",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Que vous en soyez conscient ou non, il existe certains dommages matriciels auxquels vous êtes particulièrement vulnérable.\n\nEffets en jeu : choisissez un type de dommage parmi Pic de données, Pic de Résonance, entités de la Résonance et CI. Vous ne pouvez pas recourir à un test d’encaissement pour réduire les dommages matriciels provenant de la source en question. Si vous êtes un technomancien, vos sprites inscrits (et alliés) partagent votre vulnérabilité. Vous ne pouvez choisir ce trait qu’une seule et unique fois.",
+    "value": 0,
+    "explain": "Bonus : 12 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311896969,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlB",
+  "sort": 100002,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlB"
+}

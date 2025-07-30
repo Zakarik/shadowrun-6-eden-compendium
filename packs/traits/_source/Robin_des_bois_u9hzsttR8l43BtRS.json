@@ -1,0 +1,35 @@
+{
+  "name": "Robin des bois",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nQuelque chose vous pousse à aider les autres.\n\nEffets en jeu : chaque mois vous devez faire don d’au moins 1000¥ par niveau de ce trait. Les bénéficiaires ne peuvent faire partie ni de votre famille, ni de votre équipe. Vous pouvez utiliser cet argent pour acquérir des faveurs auprès de vos contacts ou travailler pour le peuple. Si vous ne pouvez pas distribuer cet argent, cela vous rend anxieux et vous fait vous sentir coupable. Vos adversaires bénéficient d’une remise d’Atout de 1 sur tous leurs tests opposés contre vous. Le maximum que vous devez payer par mois est de 1000¥ par niveau, il ne s’accumule pas en cas de retard.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma par niveau (3 niveaux maximum)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtRS",
+  "sort": 4600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtRS"
+}

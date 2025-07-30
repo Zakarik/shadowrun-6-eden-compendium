@@ -1,0 +1,35 @@
+{
+  "name": "Douleur chronique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous êtes fréquemment sujet à des douleurs violentes qui se déclarent sans prévenir.\n\nEffets en jeu : au début de chaque séance (après avoir réinitialisé votre Atout), faites un test de Constitution + Volonté (3 + le nombre de séances pendant lequel vous n’avez pas souffert des effets de ce trait). En cas d’échec, la douleur se déclare. Pendant toute la séance, vous subissez un malus de −1 à la réserve de dés sur tous vos tests, à l’exception de l’encaissement des dommages. Les drogues, pouvoirs d’adepte et autres effets réduisant les malus de blessure sont sans effet sur votre douleur chronique.",
+    "value": 0,
+    "explain": "Bonus : 15 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtPG",
+  "sort": 5700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtPG"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Froide détermination",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains adeptes protègent leur psyché à l’aide du mana et une dose d’assurance, se rendant ainsi étonnamment imperturbables. Pour chaque niveau de Froide détermination, ils peuvent ajouter +1 dé à tous les tests opposés sociaux destinés à résister aux tentatives d’Influence d’un adversaire, et à tous les tests pour résister au pouvoir de créature Peur (ils peuvent ajouter ces dés, mais n’y sont pas forcés, ce qui leur permet de profiter des tests de Leadership et d’Instruction, etc.).",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524645,
+    "modifiedTime": 1753795524645,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e45",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e45"
+}

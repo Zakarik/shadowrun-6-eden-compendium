@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "BGk68k4vmHvkZPuA",
+  "name": "Patches adhésifs",
+  "color": null,
+  "sorting": "a",
+  "_id": "f0u6chteVq2WHLsG",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!f0u6chteVq2WHLsG"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sensibilité thermique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes capable de percevoir les radiations infrarouges (la chaleur). La portée de ce sens est de (Intuition) mètres ; il est de nature non-visuelle, ce qui signifie que vous percevez les radiations dans toutes les directions. Il est affecté par les facteurs environnementaux, comme les obstacles ou autres. Les succès nets obtenus sur un test de Perception + Intuition (2) permettent de révéler la distance, le mouvement, la chaleur et l’emplacement des rayonnements infrarouges. Ce sens n’est pas affecté par les sorts d’illusion de type mana. Il permet de réduire l’état Aveuglé d’un niveau.",
+    "value": 0,
+    "explain": "Coût : 7 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "Qwx6dFpR3wBl0mrX",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006098066,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1sOrRigPvQBClG",
+  "sort": 103125,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1sOrRigPvQBClG"
+}

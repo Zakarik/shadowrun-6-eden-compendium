@@ -1,0 +1,35 @@
+{
+  "name": "Glabre",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Être chauve est une chose, être glabre en est une autre. Votre corps ne possède plus aucun poil, cheveu ou follicule (même si les pores de votre peau existent bel et bien). Cela affecte votre biome dermal et votre apparence dans son ensemble. Vous avez plus de mal à transpirer et vos interactions sociales sont parfois étranges. Quand vous interagissez socialement avec un métahumain pour la première fois, votre réserve de dés subit un malus de −1. Vous ressortez davantage en vision et sur les capteurs thermographiques, qui bénéficient d'une remise d'Atout de 1 sur leurs tests de Perception pour vous détecter.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "vIQxa9im0vYpljDZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752008187805,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fxcWxdRfcQFWJ",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fxcWxdRfcQFWJ"
+}

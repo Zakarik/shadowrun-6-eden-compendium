@@ -1,0 +1,35 @@
+{
+  "name": "Subsistance",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains adeptes sont capables de surmonter les besoins de leur corps, que ce soit grâce à la discipline, en canalisant le champ de mana de la planète, en se nourrissant de la lumière du soleil, en mangeant littéralement des déchets ou en méditant pour dissiper la faim et la fatigue. Le pouvoir Subsistance permet à un adepte de recevoir de quoi subsister et se reposer avec un repas par jour et trois heures de sommeil, là où la plupart des métahumains auraient besoin de trois repas complets et de huit bonnes heures de repos. Réduisez le coût du style de vie de l’adepte de 250 nuyens/mois (ne plus avoir besoin de manger autant fait toute une différence pour un squatter, mais pas pour quelqu’un qui se nourrit presque exclusivement de caviar et d’œufs de caille).",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524660,
+    "modifiedTime": 1753795524660,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e60",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e60"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Combat en aveugle",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte doté de ce pouvoir combine ses autres sens pour compenser cette absence de vue par des réflexes accrus, que ce soit dû à une lésion permanente, à des malus temporaires ou à un simple bandeau. En Combat rapproché, un adepte qui utilise Combat en aveugle empêche son adversaire de gagner de l’Atout en raison de modificateurs de vision (comme l’obscurité, les flash-paks, les gaz lacrymogènes ou les autres malus qui reposent sur la vision), mais il reste vulnérable aux embuscades et aux attaques-surprises.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524629,
+    "modifiedTime": 1753795524629,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e29",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e29"
+}

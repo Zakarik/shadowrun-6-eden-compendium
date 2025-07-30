@@ -1,0 +1,42 @@
+{
+  "name": "Overclock",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e68",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Permet de brièvement amplifier la puissance d’un appareil électronique. Effectuez un test de Sorcellerie + Magie contre la Résistance d’objet. Pour chaque succès net, vous pouvez augmenter un attribut de l’appareil (Indice d’Appareil, Attaque, Traitement de données, Firewall ou Corruption) de 1 point. À la fin du sort, l’appareil subit des dommages matriciels égaux aux succès nets utilisés, résistés avec le Firewall.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 4,
+    "type": "physical",
+    "range": "line_of_sight",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e68"
+}

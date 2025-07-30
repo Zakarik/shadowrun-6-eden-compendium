@@ -1,0 +1,35 @@
+{
+  "name": "Balise astrale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quand les gens parlent de personnes ayant une « âme radieuse », ils pensent que c’est une bonne chose. Vous ne partagez pas cet avis. À cause de votre aura éclatante, on vous voit dans l’espace astral comme le nez au milieu de la figure. Vous avez du mal à cacher ou à masquer votre aura.\n\nEffets en jeu : vous êtes considéré comme Inexpérimenté pour tous vos tests de Furtivité sur le plan astral. Vous ne pouvez jamais choisir la métamagie Camouflage. Les tests d’Observation astrale effectués contre vous bénéficient d’une remise d’Atout de 1 et leurs seuils sont réduits de 1. Les tests de pistage astral effectués contre vous bénéficient d’une remise d’Atout de 2 et leurs seuils sont réduits de moitié.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hhsDNmfl48Bt1F",
+  "sort": 9000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hhsDNmfl48Bt1F"
+}

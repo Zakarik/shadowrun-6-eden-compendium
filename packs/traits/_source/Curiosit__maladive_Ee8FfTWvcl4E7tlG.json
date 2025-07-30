@@ -1,0 +1,35 @@
+{
+  "name": "Curiosité maladive",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Dès que vous tombez sur un fichier protégé, vous n’avez plus qu’une obsession : y accéder.\n\nEffets en jeu : quand vous découvrez un fichier crypté ou protégé par une bombe matricielle, vous ne pouvez ni gagner ni dépenser d’Atout sur les tests autres que ceux visant à décrypter, déminer la bombe et accéder au fichier. Après chaque heure durant laquelle vous avez ignoré le fichier, faites un test de Sang-froid dont le seuil est égal à 2 + le niveau de ce trait. En cas de réussite, vous passez à autre chose et pouvez à nouveau gagner et dépenser de l’Atout. Après chaque essai infructueux, vous gagnez un dé bonus pour vos prochains tests de Sang-froid visant à surmonter votre curiosité. Les seules limites au nombre de dés ainsi gagnés sont le temps et votre niveau de malchance. Mais franchement, autant jeter un œil à ce que cachent ces protections, non ?",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma/Niveau (max niveau 3)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311564901,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlG",
+  "sort": 100391,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlG"
+}

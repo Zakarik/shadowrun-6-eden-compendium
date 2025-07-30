@@ -1,0 +1,35 @@
+{
+  "name": "Dégainement éclair",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le pouvoir Dégainement éclair permet à un adepte d’utiliser l’action mineure Dégainer rapidement avec des armes plus grandes qu’un pistolet ou une arme de jet de petite taille. Les armes de petite taille qui sont déjà utilisables dans ce cadre ne nécessitent plus de faire usage d’un holster, d’une augmentation ou d’un trait dédié.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524633,
+    "modifiedTime": 1753795524633,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e33",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e33"
+}

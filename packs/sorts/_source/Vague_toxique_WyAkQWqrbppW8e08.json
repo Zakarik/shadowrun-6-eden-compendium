@@ -1,0 +1,42 @@
+{
+  "name": "Vague toxique",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e08",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces sorts projettent de l’acide sur leurs cibles, infligeant des dommages immédiats ainsi que des dommages Chimiques (p. 114) et en soumettant les cibles à l’état Corrodé (p. 55) avec un indice égal aux succès nets du test de Lancement de sorts. Flot acide n’affecte qu’une cible tandis que Vague toxique est un sort à effet de zone.",
+    "category": "combat",
+    "duration": "instantaneous",
+    "drain": 6,
+    "type": "physical",
+    "range": "line_of_sight_area",
+    "damage": "physical",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "DbOxiOV3L3HGhzwX",
+  "sort": 100391,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753019104000,
+    "modifiedTime": 1753023775219,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e08"
+}

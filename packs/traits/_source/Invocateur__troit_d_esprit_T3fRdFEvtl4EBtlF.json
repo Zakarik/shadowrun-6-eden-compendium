@@ -1,0 +1,35 @@
+{
+  "name": "Invocateur étroit d’esprit",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Chaque niveau de ce trait vous contraint à abandonner la capacité d’invoquer et lier l’un des dix types d’esprits standard (air, bêtes, terre, feu, gardien, guide, aînés, plantes, ouvrier, eau). Vous pouvez toujours bannir tous les types d’esprits. Ce trait peut être choisi jusqu’à cinq fois en sélectionnant un type d’esprit différent.",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma par niveau",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdFEvtl4EBtlF",
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdFEvtl4EBtlF"
+}

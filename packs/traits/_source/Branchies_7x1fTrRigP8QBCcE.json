@@ -1,0 +1,35 @@
+{
+  "name": "Branchies",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les branchies vous permettent d’extraire l’oxygène dans un environnement qui n’est pas le vôtre à la base. Une créature terrestre peut ainsi respirer sous l’eau, mais cela fonctionne aussi dans l’autre sens. Choisissez un type d’environnement : air, eau douce ou eau de mer. Les branchies peuvent se situer dans le cou, dans la zone pectorale supérieure ou sous les bras (la partie supérieure dans le cas des nartaki). \n\nBranchies (air) : Ces branchies vous seront utiles surtout si vous respirez nativement sous l’eau. Vous avez besoin d’un air dense et souffrez toujours d’un état Fatigué I quand vous êtes à l’air libre ; en altitude ou en cas d’air raréfié, l’état devient Fatigué II (le maître de jeu décide où se trouve la démarcation). \n\nBranchies (eau douce) : Grâce à ces branchies, vous pouvez plonger en eau douce jusqu’à une profondeur égale à (Constitution × 20) mètres. \n\nBranchies (eau de mer) : Grâce à ces branchies, vous pouvez plonger dans l’eau de mer jusqu’à une profondeur égale à (Constitution × 20) mètres.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "YFqt4X2dDSmvEatU",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006460449,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1fTrRigP8QBCcE",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1fTrRigP8QBCcE"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Cyber‑psychose",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVos très nombreuses augmentations ont fait de vous un peu plus qu’un simple métahumain. Dans votre cas, cela se traduit par un certain détachement, parfois perturbé par de brusques explosions d’émotions inappropriées.\n\nEffets en jeu : vous ne pouvez choisir ce trait que si votre score d'Essence est de 1 ou moins. Chaque fois que votre réserve d’Atout atteint zéro, vous commencez à perdre le contact avec votre situation et votre environnement. Soit vous devenez détaché et apathique, soit vous êtes empli d’une émotion intense qui semble sortir de nulle part. Jusqu’à ce que vous regagniez de l’Atout, votre nombre d’actions mineures par round diminue de 1 par niveau de ce trait. Si le niveau de ce dernier est supérieur au nombre d’actions mineures actuellement à votre disposition, votre action majeure se transforme alors en 4 actions mineures, desquelles vous soustrayez les actions mineures qui restent à enlever.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma par niveau (3 niveaux maximum)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtPE",
+  "sort": 5900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtPE"
+}

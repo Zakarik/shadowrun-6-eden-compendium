@@ -1,0 +1,35 @@
+{
+  "name": "Queue vestigiale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Une queue (ou un moignon de queue) pousse à la base de votre colonne vertébrale. Elle peut être écailleuse comme celle d’un lézard, poilue comme celle d’un chat ou d’un chien ou nue comme celle d’un rat. Elle peut trahir votre humeur quand vous ressentez une émotion intense comme la joie, la tristesse ou la peur. Réprimer cette démonstration nécessite un test de Charisme + Volonté (2). Ce trait est incompatible avec toutes les versions de queue fonctionnelle et toute modification bioware affectant la queue.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "vIQxa9im0vYpljDZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752008189719,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fxcWxdRfcQFWL",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fxcWxdRfcQFWL"
+}

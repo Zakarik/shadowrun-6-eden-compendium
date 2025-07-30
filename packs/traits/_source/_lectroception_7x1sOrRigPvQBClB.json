@@ -1,0 +1,35 @@
+{
+  "name": "Électroception",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Toutes les créatures peuvent, dans une certaine mesure, percevoir les champs électriques comme ceux produits par des appareils, moteurs ou systèmes de sécurité. Ce sens métagénique fonctionne à une distance égale à (Constitution + Intuition) mètres. Pour l’utiliser, faites un test de Perception + Intuition et comparez le nombre de succès sur la table d’Électroception. Il s’agit d’un trait passif ; vous n’émettez aucun signal en vous en servant.\n\nLes individus dotés de compétences en électricité, opérations matricielles et similaires peuvent développer une compétence de connaissance appelée «technoception» qui leur permet d’obtenir des informations supplémentaires, tel qu’indiqué dans la table Électroception.\n\nSUCCÈS |-------| ÉLECTROCEPTION |--------| TECHNOCEPTION\n1---------| \nÉlectroception : Présence et direction des sources de champs électriques \nTechnoception : Présence et direction des signaux sans fil\n2---------| \nÉlectroception : Taille, intensité (Bruit) et type (artificiel ou naturel) relatifs de la source électrique\nTechnoception : Puissance des signaux sans fil\n3---------|\nÉlectroception : Position exacte s’il s’agit d’une source biologique artificielle‑ment augmentée\nTechnoception : Présence d’implants cybernétiques ou d’équipement en mode sans fil actif\n4---------| \nÉlectroception : Orientation personnelle et hauteur ou profondeur à 5 mètres près par rapport au champ magnétique terrestre, type si la source est biologique (type de métahumain, taille de l’animal, etc.) \nTechnoception : Type de l’appareil détecté (marqueur RFID, commlink, drone), détection d’activités technomanciennes dans les environs\n5+---------| \nTechnoception : Présence de nanites, de marqueurs furtifs, identification d’un technomancien.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "Qwx6dFpR3wBl0mrX",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006089450,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1sOrRigPvQBClB",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1sOrRigPvQBClB"
+}

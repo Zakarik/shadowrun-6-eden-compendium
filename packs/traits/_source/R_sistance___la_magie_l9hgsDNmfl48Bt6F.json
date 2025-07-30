@@ -1,0 +1,35 @@
+{
+  "name": "Résistance à la magie",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Il se peut que vous soyez né sous une lune rouge, que vous vous soyez injecté des substances étrangères dans le corps ou qu’une partie de votre âme ait été absorbée par un esprit ou un vampire. Que ce soit une bonne chose ou non, le mana semble avoir des difficultés à se connecter à vous. Que ce soit un Éclair mana qui risque de vous griller le cerveau ou une Sphère de feu pour vous incinérer vivant, ou même un sort de soins pour refermer vos blessures, la magie a plus de mal à vous affecter.\n\nEffets en jeu : Vous bénéficiez d’une remise d’Atout de 1 sur tous les tests de résistance à la magie. Cependant, quand on vous lance un sort de Santé, considérez que votre Essence est inférieure de 2 points à sa valeur réelle.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsDNmfl48Bt6F",
+  "sort": 8600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsDNmfl48Bt6F"
+}

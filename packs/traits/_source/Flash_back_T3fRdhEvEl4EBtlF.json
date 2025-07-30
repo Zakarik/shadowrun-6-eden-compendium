@@ -1,0 +1,35 @@
+{
+  "name": "Flash-back",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous n’avez pas réussi à ignorer les effets d’un traumatisme que vous avez subi, à tel point que certains déclencheurs vous forcent à revivre de nouveau l’expérience.\n\nEffets en jeu : lorsque vous sélectionnez ce trait, choisissez un événement qui sera au cœur des flash-back (un événement précis en jeu peut mener à l’obtention de ce trait). Déterminez ensuite un ou plusieurs déclencheurs des flash-back. Ils doivent faire appel à tous les sens et être précis, afin que les flash-back ne soient pas invoqués trop souvent. Lorsque le personnage se retrouve face à un déclencheur, il doit réaliser un test de Sang-froid (4) ou plonger dans un flash-back. Un flash-back dure trois minutes. Lorsqu’il commence, le personnage fait un test de Sangfroid (3) ; s’il réussit, il reconnaît qu’il est dans un flashback et est capable de le supporter. Il reçoit un malus de –4 à sa réserve de dé pour tout test avec un attribut physique pendant la durée du flash-back. S’il rate le second test, il ne peut rien faire d’autre que réagir au flash-back.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdhEvEl4EBtlF",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdhEvEl4EBtlF"
+}

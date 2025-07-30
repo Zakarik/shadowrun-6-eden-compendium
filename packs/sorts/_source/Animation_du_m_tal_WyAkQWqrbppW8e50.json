@@ -1,0 +1,42 @@
+{
+  "name": "Animation du métal",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e50",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un morceau de métal s’anime et se déplace selon les instructions du lanceur de sorts. Effectuez un test de Sorcellerie + Magie contre la Résistance d’objet de l’objet/matériau animé. Vous pouvez modeler ½ mètre cube de matière par succès net. Le matériau peut se déplacer en fonction de sa forme, généralement pas plus vite que 5 mètres par round de combat à moins qu’il soit doté de roues. L’objet est généralement incapable de mouvements coordonnés. Il peut cependant frapper une cible immobile ou inconsciente infligeant 4P dommages. Commander la substance animée nécessite une action mineure. Utilisez les succès nets du test de Lancement de sorts +4 contre Constitution + Force pour savoir si l’objet est empêché d’agir pour répondre à cet ordre.",
+    "category": "manipulation",
+    "duration": "limited",
+    "drain": 6,
+    "type": "physical",
+    "range": "line_of_sight",
+    "damage": "physical",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e50"
+}

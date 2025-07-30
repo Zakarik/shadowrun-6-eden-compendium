@@ -1,0 +1,35 @@
+{
+  "name": "Attribut physique amélioré",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Choisissez un attribut physique (Constitution, Agilité, Réaction ou Force) quand vous achetez ce pouvoir. Cet attribut bénéficie d’une augmentation permanente égale au niveau de ce pouvoir. Le rang de l’attribut augmenté est limité à son rang actuel × 1,5 (arrondir au supérieur) et la limite d’augmentation est de +4.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 1,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524602,
+    "modifiedTime": 1753795524602,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e02",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e02"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Brume astrale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vos métagènes ont muté pour catalyser voire absorber les sentiments négatifs et les émotions les plus sombres, perturbant le mana ambiant dans votre entourage. Vous êtes le centre d’un faible creux mana mobile (p. 160, Voies occultes), orienté vers vous. Le rayon de ce creux est égal à votre Essence +1 mètres. Si vous passez au moins dix heures par jour au même endroit, le phénomène s’étend à un rythme de 2 mètres par semaine, avec un maximum de 10 mètres. Pour les personnages non-Éveillés, le bonus de ce trait est de 8 points de Karma. Pour les individus Éveillés, le bonus est de 15 points de Karma, et le rayon d’effet est égal à leur attribut de Magie.",
+    "value": 0,
+    "explain": "Bonus : 8 ou 15 points de Karma, voir description",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "shDN7gVW5SIMYs5j",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007112938,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTrRigd8cVCWC",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTrRigd8cVCWC"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pas de côté",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les adeptes maîtrisant le Pas de côté sont des experts pour éviter de peu les attaques, grâce aux mouvements les plus précis et efficaces possibles. Chaque rang de Pas de côté octroie une remise d’Atout de 1 lorsqu’ils se défendent avec des actions mineures telles que Bloquer ou Esquiver (le bonus n’est pas attribué pour les tests de Défense de routine, seulement ceux qui nécessitent une action du type de celles qui sont listées). Ces bonus se combinent aux dés supplémentaires offerts par Bloquer et Esquiver, ainsi qu’à Sens du combat et aux modificateurs similaires.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524654,
+    "modifiedTime": 1753795524654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e54",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e54"
+}

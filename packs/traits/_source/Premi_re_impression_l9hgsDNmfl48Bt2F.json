@@ -1,0 +1,35 @@
+{
+  "name": "Première impression",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous savez vous faire remarquer et marquer les esprits dès la première rencontre. Les personnes que vous rencontrez pour la première fois sont séduites par votre esprit, votre charme et vos flatteries et se montrent moins vigilantes.\n\nEffets en jeu : quand vous rencontrez quelqu’un pour la première fois, vous gagnez 2 points d’Atout pour vos tests sociaux et votre Pression ainsi que votre Réputation sont ignorées pour cette première rencontre.",
+    "value": 0,
+    "explain": "Coût : 12 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsDNmfl48Bt2F",
+  "sort": 9000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsDNmfl48Bt2F"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Résistance à la douleur",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e32",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Bien qu’il ne permette pas de soigner, ce sort permet à la cible d’ignorer les effets des dommages et de continuer comme si elle ne souffrait pas. Le lanceur de sort effectue un test de Sorcellerie + Magie (5 - Essence), ce qui fournit donc un succès automatique si la cible a une Essence de 6 : pour chaque succès net, la cible réduit de 1 le malus à sa réserve de dés à cause des dommages.",
+    "category": "health",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": true,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "rczjYlNm1pBWGSVU",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023636786,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e32"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Tremblements des mains",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Tics nerveux, caféinomanie ou maladresse congénitale, peu importe la raison : vous seriez incapable de tracer une ligne droite même si votre vie en dépendait.\n\nEffets en jeu : vous ne pouvez pas dépenser de l’Atout pour des tests utilisant l’Agilité et qui nécessitent l’utilisation de vos mains.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgstNi8l43Bt5f",
+  "sort": 6500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgstNi8l43Bt5f"
+}

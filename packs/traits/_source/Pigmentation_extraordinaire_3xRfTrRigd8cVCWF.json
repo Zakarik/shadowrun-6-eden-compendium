@@ -1,0 +1,35 @@
+{
+  "name": "Pigmentation extraordinaire",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre peau adopte une teinte inhabituelle, affichant souvent une couleur ou des motifs très marqués. Cela vous fait vraiment sortir du lot, ce qui offre un bonus de +1 à la réserve de dés pour les recherches matricielles et les tests de mémoire vous concernant. Incompatible avec d’autres modifications de la peau.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "shDN7gVW5SIMYs5j",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007116080,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTrRigd8cVCWF",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTrRigd8cVCWF"
+}

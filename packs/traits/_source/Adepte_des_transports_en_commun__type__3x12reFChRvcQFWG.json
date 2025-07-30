@@ -1,0 +1,35 @@
+{
+  "name": "Adepte des transports en commun (type)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez tellement utilisé ce moyen de vous déplacer que vous en connaissez les rouages et les caractéristiques sur le bout des doigts. À tel point que vous avez désormais quelques atouts dans votre manche.\n\nEffet en jeu: au moment d’acquérir ce trait, choisissez un type de transport en commun (aérien, train, métro, tram, etc.). Une fois par jour, au prix d’un test d’Escroquerie + Charisme (4) réussi, gagnez l’un des avantages suivants:\n• Augmentez la classe dans laquelle vous voyagez sans coût supplémentaire.\n• Bénéficiez d’avantages réservés à la classe affaires pendant 12 heures (par exemple: tickets pour des repas et boissons gratuits, salon VIP, chambre d’hôtel offerte).\n• Embarquez sans problème un objet personnel interdit ou illégal à bord du véhicule de transport. Vous pouvez le récupérer une fois à destination. L’objet en question ne peut pas être plus grand qu’un drone de petite taille. Dépensez 1 point d’Atout pour que cet objet soit accessible à bord du véhicule.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x12reFChRvcQFWG",
+  "sort": 5400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x12reFChRvcQFWG"
+}

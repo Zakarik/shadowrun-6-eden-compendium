@@ -1,0 +1,35 @@
+{
+  "name": "Configuration rapide",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous n’avez pas votre pareil pour reconfigurer votre cyberdeck à la volée.\n\nEffets en jeu : quand vous effectuez l’action Reconfigurer les attributs matriciels, vous pouvez intervertir n’importe quel nombre d’attributs matriciels et de programmes en une seule action mineure. Si vous êtes en situation de combat ou de cybercombat, une fois par round vous gagnez un point d’Atout quand vous utilisez l’action Reconfigurer les attributs matriciels.",
+    "value": 0,
+    "explain": "Coût : 3 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310516859,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlJ",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlJ"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Silence",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e48",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La cible est soumise au silence et ne peut faire le moindre bruit même si elle le veut. Cela peut être idéal pour des individus essayant de ne pas être remarqués ou une bonne méthode pour semer la confusion parmi des gens en train de dialoguer. Silence impose à la cible l’état Silencieux (voir p. 57) avec un indice égal aux succès nets obtenus au test de Sorcellerie + Magie. Cet indice agit comme un seuil pour toute tentative visant à entendre le personnage.",
+    "category": "illusion",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "DE7yIBPKeBfTG7Vl",
+  "sort": 100196,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023666102,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e48"
+}

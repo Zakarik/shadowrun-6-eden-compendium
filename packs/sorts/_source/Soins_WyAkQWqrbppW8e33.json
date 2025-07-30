@@ -1,0 +1,42 @@
+{
+  "name": "Soins",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e33",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un run s’accompagne souvent de bosses, de contusions et de blessures par balles et la magie est peut-être la méthode la plus rapide et la plus efficace pour les soigner. Quand on lance ce sort, il faut effectuer un test de Sorcellerie + Magie (5 - Essence), ce qui fournit donc un succès automatique si la cible a une Essence de 6. Il permet de récupérer 1 case de dommages au choix étourdissants, physiques ou de surplus par succès net. Les blessures ne peuvent être traitées qu’une seule fois par un sort de Santé (y compris Soins purificateurs, Soins refroidissants et Soins réchauffants).",
+    "category": "health",
+    "duration": "permanent",
+    "drain": 3,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": true,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "rczjYlNm1pBWGSVU",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023676382,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e33"
+}

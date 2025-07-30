@@ -1,0 +1,35 @@
+{
+  "name": "Gremlins",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les commlinks plantent, les armes s’enraient, les systèmes électriques disjonctent. Tout ce qui peut se détraquer de technologique a dysfonctionné au moins une fois entre vos mains.\n\nEffets en jeu : à chaque fois que vous utilisez un appareil, lancez 2d6. Si vous obtenez un 1 sur l’un des dés, l’appareil ne fonctionne pas correctement et on peut considérer qu’il s’agit d’une complication. L’appareil peut être rapidement réparé avec une action mineure et utilisé de nouveau. Si vous obtenez deux 1, l’appareil a subi une panne catastrophique et ce jet est considéré comme un échec critique. L’appareil est en panne pour de bon et il se peut que vous subissiez un choc électrique ou un biofeedback.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsZNjfl43Bt0a",
+  "sort": 8500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsZNjfl43Bt0a"
+}

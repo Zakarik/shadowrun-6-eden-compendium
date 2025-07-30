@@ -1,0 +1,42 @@
+{
+  "name": "Masque",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e46",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le sort modifie les caractéristiques critiques d’une personne, son apparence, son odeur, le son de sa voix et ainsi de suite. On effectue un test de Sorcellerie + Magie et on note le nombre de succès obtenus ; ces succès servent de seuil quand des individus tentent de déjouer cette illusion ce qui nécessite un test de Volonté + Intuition. Masque n’affecte que les êtres vivants.",
+    "category": "illusion",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": true,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "DE7yIBPKeBfTG7Vl",
+  "sort": 100782,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023598035,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e46"
+}

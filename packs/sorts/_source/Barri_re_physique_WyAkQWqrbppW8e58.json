@@ -1,0 +1,42 @@
+{
+  "name": "Barrière physique",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e58",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Barrière physique crée un mur là où vous voulez qu’il soit avec un indice de Structure égal à (Magie + succès d’un test de Sorcellerie + Magie). Le sort de base génère une barrière de deux mètres sur deux et de deux centimètres d’épaisseur. Extension de zone peut permettre d’ajouter deux mètres en longueur et en largeur (mais pas en épaisseur) à chaque fois qu’on choisit cet effet.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 6,
+    "type": "physical",
+    "range": "line_of_sight_area",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e58"
+}

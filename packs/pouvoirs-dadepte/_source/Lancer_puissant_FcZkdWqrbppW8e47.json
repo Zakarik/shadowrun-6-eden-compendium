@@ -1,0 +1,35 @@
+{
+  "name": "Lancer puissant",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les adeptes maîtrisant le Lancer puissant sont incroyablement dangereux avec des armes de jet. Pour chaque niveau de ce pouvoir, ajoutez +1 à la VD ou +2 au Score Offensif aux armes de jet infligeant des dommages directs (non-explosifs). Choisissez le type de bonus lors de l’achat du premier niveau de pouvoir. Ces bonus ne peuvent pas ajouter un Score Offensif d’une arme qui n’en a pas et ne peut pas aller au-delà du double de la VD de base ou du SO d’une attaque. Cela signifie que les valeurs d’attaque d’un couteau de lancer (2P, 10/9/3/—/—) sont plafonnées, quel que soit le nombre de points de pouvoir investis dans le Lancer puissant, à (4P, 20/18/6/—/—). Un seul niveau de Lancer puissant peut être utilisé en même temps que le pouvoir Maîtrise des projectiles (p. 79), ce qui signifie que les bonus sont plafonnés à +2 de VD et +1 de Score Offensif ou +1 de VD et +3 de Score Offensif.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524647,
+    "modifiedTime": 1753795524647,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e47",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e47"
+}

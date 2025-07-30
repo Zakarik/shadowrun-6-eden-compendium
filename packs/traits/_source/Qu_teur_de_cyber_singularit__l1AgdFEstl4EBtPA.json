@@ -1,0 +1,35 @@
+{
+  "name": "Quêteur de cyber-singularité",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous pensez que davantage de cyberware vous rapproche d’un état de véritable harmonie entre l’homme et la machine. Plutôt qu’une impression d’avoir sacrifié une partie de vous-même, chaque paire de membres cybernétiques vous donne un sentiment de plénitude sans équivoque.\n\nEffets en jeu : vous gagnez +1 en Volonté pour chaque paire de membres cybernétiques (deux bras ou deux jambes) implantée sur vous, jusqu’à un maximum de +2.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1AgdFEstl4EBtPA",
+  "sort": 3700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1AgdFEstl4EBtPA"
+}

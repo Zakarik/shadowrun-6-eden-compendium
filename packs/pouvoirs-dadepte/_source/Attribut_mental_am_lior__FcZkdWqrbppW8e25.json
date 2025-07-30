@@ -1,0 +1,35 @@
+{
+  "name": "Attribut mental amélioré",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Sélectionnez un attribut mental (Intuition, Logique, Charisme ou Volonté) lorsque vous achetez ce pouvoir. Cet attribut augmente progressivement d’un nombre égal au niveau de ce pouvoir, jusqu’à un maximum d’augmentation de +4 ou 1,5 fois le niveau actuel de cet attribut.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 1,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524625,
+    "modifiedTime": 1753795524625,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e25",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e25"
+}

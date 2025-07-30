@@ -1,0 +1,35 @@
+{
+  "name": "Traits Insectoïdes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous présentez des traits insectoïdes comme des yeux composés, une peau chitineuse ou des ailes vestigiales. Ceux‑ci ne restent que cosmétiques, vous n’en tirez rien de plus qu’un bon costume pour Halloween. Vos yeux composés n’altèrent pas vraiment votre vision, la chitine ne vous offre aucune protection et vos ailes ne vous permettent pas de voler, ni même de planer. Vous ressemblez à une forme hybride d’esprit insecte, attendez‑vous donc à susciter la suspicion ou l’hostilité partout où vous irez. Vous ne pouvez pas gagner ou dépenser d’Atout en situation sociale. Certains individus peuvent réagir avec haine et violence et doivent réussir un test de Sang‑froid (4) pour résister à l’envie de vous attaquer (verbalement ou physiquement). Ces effets ne s’appliquent pas quand vous rencontrez un esprit insecte ou tentez de vous infiltrer dans une ruche ou un nid.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "vIQxa9im0vYpljDZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752008190761,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fxcWxdRfcQFWM",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fxcWxdRfcQFWM"
+}

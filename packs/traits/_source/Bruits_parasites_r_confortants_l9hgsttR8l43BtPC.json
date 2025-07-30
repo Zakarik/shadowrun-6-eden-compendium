@@ -1,0 +1,35 @@
+{
+  "name": "Bruits parasites réconfortants",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous êtes habitué au Bruit, et vous le trouvez même réconfortant.\n\nEffets en jeu : quand vous êtes soumis au Bruit, vous bénéficiez d’une remise d’Atout de 1 (avec un coût minimum de 1). Cela ne s’applique qu’aux actions matricielles. Il est possible de réduire le Bruit en partie, mais s’il est totalement annulé ce trait ne s’applique plus.",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsttR8l43BtPC",
+  "sort": 7600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsttR8l43BtPC"
+}

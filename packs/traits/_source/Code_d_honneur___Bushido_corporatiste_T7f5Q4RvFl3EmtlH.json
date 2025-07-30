@@ -1,0 +1,35 @@
+{
+  "name": "Code d'honneur : Bushido corporatiste",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ceci est une variante de la qualité Code d'honneur : Bushido trouvée à la page 77 de SR6. Les détenteurs de cette qualité honorent les valeurs fondamentales de droiture, de courage, de compassion, de respect, d'honnêteté, d'honneur, de loyauté et de maîtrise de soi, mais filtrent toutes ces valeurs à travers les besoins de leur corporation d'origine. Cela signifie que leur loyauté est définie comme une loyauté envers la corp : s'ils doivent trahir d'autres personnes pour maintenir cette loyauté, tant pis. De même, ils sont honnêtes avec les personnes de leur corporation, mais ils mentiront sans hésitation aux personnes extérieures si cela sert les intérêts de l'entreprise.\n\nEffets en jeu : Vous ne pouvez pas dépenser ni gagner d'Atout pendant vingt-quatre heures après avoir enfreint un principe de votre code. Si le même principe est enfreint plusieurs fois ou de nouveau pendant cette période de vingt-quatre heures, chaque infraction ajoute quarante-huit heures à la période initiale. Si un principe différent est enfreint, il s'ajoute à toute infraction actuelle et les mêmes règles s'appliquent aux violations supplémentaires.\nNote : Un ancien employé de Renraku a peut-être enfreint ce code de manière permanente, les entraînant ainsi sur le chemin de la qualité des Limites de l'Honneur (p. 130, Firing Squad).",
+    "value": 0,
+    "explain": "Bonus : 10 Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7f5Q4RvFl3EmtlH",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7f5Q4RvFl3EmtlH"
+}

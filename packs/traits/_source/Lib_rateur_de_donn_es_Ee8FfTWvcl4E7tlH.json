@@ -1,0 +1,35 @@
+{
+  "name": "Libérateur de données",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes intimement convaincu que toutes les données devraient être rendues publiques, du moins celles que les puissants cherchent à garder secrètes.\n\nEffets en jeu : vous ne pouvez ni gagner ni dépenser d’Atout sur un test lié à la vente de données de valeur et vous ne pouvez pas participer à un test d’équipe visant ce même objectif. Si vous diffusez des données importantes avec l’accord de tous les participants au run durant lequel vous les avez acquises (ce qui impliquera généralement de les dédommager avec des nuyens ou des faveurs), vous et tous les membres de l’équipe n’ayant pas demandé de compensation gagnez 1point de Karma bonus. Cette récompense en Karma ne s’applique qu’une seule fois par run et uniquement si la valeur des données est au moins de 5 000¥.",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311689693,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlH",
+  "sort": 100049,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlH"
+}

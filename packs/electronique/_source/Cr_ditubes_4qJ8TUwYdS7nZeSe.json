@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "HMWyjIMmgTKtc3v7",
+  "name": "Créditubes",
+  "color": null,
+  "sorting": "a",
+  "_id": "4qJ8TUwYdS7nZeSe",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752262582547
+  },
+  "_key": "!folders!4qJ8TUwYdS7nZeSe"
+}

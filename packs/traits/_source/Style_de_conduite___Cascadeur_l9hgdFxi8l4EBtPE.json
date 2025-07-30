@@ -1,0 +1,35 @@
+{
+  "name": "Style de conduite : Cascadeur",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le légendaire Evel Knievel est votre idole et vous adorez\nlittéralement les cascades dans les tridéos. Que personne\nne vienne vous dire que ce sont des trucages ou des ORA!\n\nEffets en jeu : le coût des actions d’Atout suivantes est réduit de moitié (la nouvelle valeur est placée entre parenthèses):\n• Demi-tour (1 point d’Atout)\n• Tokyo Drift (1 point d’Atout)\n• Auto-stop (2 points d’Atout)\n• Par ici la sortie (3 points d’Atout).",
+    "value": 0,
+    "explain": "Coût : 9 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209004,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgdFxi8l4EBtPE",
+  "sort": 4300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgdFxi8l4EBtPE"
+}

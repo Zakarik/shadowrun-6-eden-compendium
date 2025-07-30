@@ -1,0 +1,35 @@
+{
+  "name": "Code d'honneur",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez un code. Vous vivez en fonction de ce code. Vous mourrez en fonction de ce code. Il existe de nombreux codes de l’honneur qui ont chacun des principes qui doivent être respectés pour maintenir l’équilibre de votre âme, de votre cœur, de votre qi, etc.\n\nEffets en jeu : vous ne pouvez dépenser ou gagner de l’Atout pendant vingt-quatre heures après avoir enfreint un principe de votre code. Si le même principe n’est pas respecté plusieurs fois, chaque infraction ajoute quarante-huit heures de plus à la période initiale. Si un principe différent n’est pas respecté, les périodes s’additionnent.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "ljhgsDNmfl48Bt2F",
+  "sort": 8900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!ljhgsDNmfl48Bt2F"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Frappe à distance",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte maîtrisant la Frappe à distance peut projeter sa force physique sur de courtes distances en canalisant le mana afin d’infliger des dommages, ce qui lui permet de frapper une cible sans la toucher physiquement. La portée d’une Frappe à distance correspond à la Magie de l’adepte en mètres. L’attaque inflige des dommages et a un Score Offensif identique à celui des attaques de Combat à mains nues de l’adepte (en incluant les modificateurs de types surnaturels ou découlant d’un investissement en Essence, comme Mains mortelles, Frappe élémentaire ou Ossature renforcée, mais pas les modifications purement externes, comme le coup de poing américain ou les électro-gants).\n\nL’adepte attaque avec Combat rapproché, comme si c’était une attaque de Combat à mains nues classique, mais la cible peut y résister soit comme une attaque de Combat rapproché, soit comme une attaque à distance (en utilisant Esquiver ou Bloquer, au choix). Les modificateurs de couverture s’appliquent normalement, et le coup ne peut pas traverser les objets solides ou transpercer les barrières de mana.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 2,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524640,
+    "modifiedTime": 1753795524640,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e40",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e40"
+}

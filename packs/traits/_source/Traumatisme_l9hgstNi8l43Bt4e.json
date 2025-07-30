@@ -1,0 +1,35 @@
+{
+  "name": "Traumatisme",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Il y a une situation sociale que vous ne supportez pas. Tant que vous y êtes confronté, vous ne pouvez plus gagner ou dépenser de l’Atout à moins de réussir un test de Charisme (2).\n\nEffets en jeu : choisissez un traumatisme social précis.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgstNi8l43Bt4e",
+  "sort": 6600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgstNi8l43Bt4e"
+}

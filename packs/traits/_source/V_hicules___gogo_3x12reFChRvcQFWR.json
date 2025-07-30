@@ -1,0 +1,35 @@
+{
+  "name": "Véhicules à gogo",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "À l’image d’un face qui dispose de contacts, un rigger peut investir dans de nombreux ateliers de désossage, casses, surplus et revendeurs d’occasion. Grâce à eux, il peut avoir accès à divers moyens de transport en dehors de son propre véhicule.\n\nEffet en jeu: pour 3 points de Karma: Trajet gratuit. Votre personnage trouve toujours un moyen de se déplacer. Une fois par jour au prix d’un test d’Influence + Charisme (4) réussi, il obtient un trajet gratuit à bord d’un véhicule (transport en commun, auto-stop, bus de fêtards, etc.) qui l’amène près de la destination de son choix.\n\nPour 6 points de Karma: Véhicule de remplacement. Quand il utilise Trajet gratuit, le personnage peut choisir de dépenser 2 points d’Atout pour disposer gratuitement d’un véhicule du marché similaire au sien, utilisable comme bon lui semble pendant une journée.\n\nPour 9 points de Karma: Transport alternatif. Au prix d’un test d’Influence + Charisme (4) réussi, le personnage peut dépenser 4 points d’Atout pour obtenir l’accès à un moyen de transport spécial (avion, bateau, sous-marin, etc.) utilisable comme bon lui semble pendant une journée. Le maître de jeu a le dernier mot sur ce qui est accessible.\n\nNote: Si le PJ rend un véhicule endommagé, il doit payer pour les réparations ou les effectuer lui-même. Un remboursement en faveurs est tout à fait possible. Tous les effets liés au trait Véhicules à gogo sont cumulables.",
+    "value": 0,
+    "explain": "Coût : 3, 6 ou 9 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x12reFChRvcQFWR",
+  "sort": 3800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x12reFChRvcQFWR"
+}

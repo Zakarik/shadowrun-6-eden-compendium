@@ -1,0 +1,35 @@
+{
+  "name": "Manoeuvre emblématique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez une action spéciale, que vous répétez encore et encore pour une simple raison: elle fonctionne à tous les coups. Et aussi, elle pète la classe. Du coup, ça fait deux raisons.\n\nEffet en jeu: Choisissez une combinaison de deux actions ou bonus d’Atout, ainsi qu’une compétence ou un test de défense. Inventez un nom et une description pour votre Manœuvre emblématique, quelque chose comme « Ivan le Fou » ou « Boogie du Rat du Diable ». Vous pouvez combiner les deux dépenses d’Atout sur un seul test (en payant le coût total de chacune), mais uniquement en utilisant la compétence choisie. Vous devez annoncer et dépenser votre Atout avant d’effectuer le test. Les actions ou bonus d’Atout pouvant normalement être choisis après le lancer de dés sont éligibles, mais dans le cadre de ce trait vous devez tout de même les annoncer avant de lancer les dés. Prenons par exemple une Manœuvre emblématique permettant de combiner les bonus d’Atout « Relancer tous les dés ratés » et « Relancer un dé » lors d’un test de défense. Quand vous effectuez un tel test, vous pouvez annoncer votre Manœuvre emblématique, dépenser 4 points d’Atout pour relancer vos échecs et 1 point d’Atout (ou plus) pour forcer votre attaquant à relancer un dé (ou plus). Normalement, vous pourriez attendre de voir combien de succès vous avez obtenu avant de décider de relancer vos dés ratés, ou de vous assurer que votre attaquant a au moins obtenu un succès pour le forcer à relancer un dé, mais comme il s’agit de votre Manœuvre emblématique, vous devez tout dépenser à l’avance.\n\nVous pouvez acquérir ce trait plusieurs fois. À chaque nouvelle occurrence, créez une nouvelle manœuvre.\n\nNote: bien que ce trait puisse sembler réservé aux riggers et autres pilotes, il est possible d’inventer une Manœuvre emblématique pour n’importe quelle combinaison de compétence et d’action ou bonus d’Atout. Vous en trouverez quelques exemples ci-dessous. Vous pouvez les renommer comme il vous plaît, et la plupart pourraient s’appliquer à une compétence différente. Soyez créatif!\nExemples :\n• Essaie de me suivre: combine Quitte ou double (ajouter le dé libre) et Tokyo Drift (empêche les poursuivants de gagner du terrain) lors d’un test de Pilotage.\n• Torrent de Pruneaux: combine Quitte ou double (ajouter le dé libre) et Placement parfait (attaquer plusieurs cibles, chacune avec votre réserve de dés complète) lors d’un test d’Ingénierie.\n• Sourire enjôleur: combine Ajouter 1 au résultat d’un dé et Haranguer (faire gagner de l’Atout à une cible) lors d’un test d’Influence.\n• Ça poisse ou ça casse: combine Relancer un dé ou plus et Les 2 obtenus par la cible comptent comme des 1 lors d’un test d’Armes à feu.\n• Tu vas te blesser avec ce truc: combine Ajouter son rang d’attribut Atout à sa réserve de dés (avec 6 explosifs) et Arracher (s’emparer d’une arme de mêlée sur un blocage réussi) lors d’un test de Combat rapproché.\n• Ventre à terre: combine Compteurs à zéro (annule tous les avantages liés à la position) et Surenchère (augmente le seuil pour tous les participants à la poursuite) lors d’un test d’Athlétisme.\n• Grâce divine: combine Acheter 1 succès automatique et Relancer un dé lors d’un test de Biotech.\n• Une puissance à décorner un troll: combine Ajouter son rang d’attribut Atout à sa réserve de dés (avec 6 explosifs) et Acheter 1 succès automatique lors d’un test d’Enchantement.\n• Projectile magique: combine Relancer un dé et Réduire de 1 point l’Atout d’un adversaire lors d’un test de Sorcellerie.\n• Esquive à la Matrix: combine Ajouter son rang d’attribut Atout à sa réserve de dés (avec 6 explosifs) et Relancer un dé lors d’un test de défense.\n• Requête polie: combine Relancer un dé et Ajouter 1 au résultat d’un dé lors d’un test de Conjuration.\n• Larmes de crocodile: combine Quitte ou double (ajoute le dé libre) et Se mettre quelqu’un dans la poche (s’attirer les bonnes grâces d’une cible) lors d’un test d’Influence.\n• Ça doit être mon imagination: combine Inspiration soudaine (Furtivité) et Ajouter son rang d’attribut Atout à sa réserve de dés (avec 6 explosifs) lors d’un test de Furtivité.\n• La morsure du fouet: combine Viser les organes vitaux (+3 dégâts) et Réduire de 1 point l’Atout d’un adversaire lors d’un test d’Armes exotiques.",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3E3fReFChRvcQFWH",
+  "sort": 4800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3E3fReFChRvcQFWH"
+}

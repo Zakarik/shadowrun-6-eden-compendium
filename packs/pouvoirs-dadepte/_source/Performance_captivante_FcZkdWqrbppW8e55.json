@@ -1,0 +1,35 @@
+{
+  "name": "Performance captivante",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Performance captivante permet à un adepte d’envelopper une performance artistique de son pouvoir magique, afin de fasciner l’audience et, en réalité, de la faire plonger dans un état relaxant et hypnotique. En utilisant une action mineure pour canaliser son pouvoir (en plus de l’action nécessaire pour se produire avec son instrument, danser, chanter, etc.), l’adepte peut effectuer un test de compétence appropriée/spécialisation + Magie. Les succès engrangés viennent s’ajouter à ceux des tests de Furtivité de quiconque tente d’accomplir une action sans se faire remarquer de l’audience, au cours de la performance. Le public hypnotisé peut être distrait et envoûté pendant un maximum de (Charisme + Magie) x succès nets minutes, mais des spectateurs attaqués, ouvertement menacés ou assez secoués pour sortir de leur transe (un bruit vraiment fort, un système anti-incendie, un flash-pak qui se déclenche ou des détonations, etc.) reprennent aussitôt leurs esprits. Performance captivante est normalement une spécialité d’Escroquerie/Représentation, mais les maîtres de jeu peuvent autoriser Influence/Leadership pour un discours galvanisant, Athlétisme/Gymnastique pour une démonstration impressionnante ou même Combat rapproché/à mains nues pour la réalisation d’un kata, Furtivité/Escamotage pour distraire avec des tours de magie ou d’autres combinaisons adaptées au personnage, définies lorsque ce pouvoir est acheté. Il peut être acheté plusieurs fois pour différentes combinaisons de compétences/spécialisations.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "minor_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524655,
+    "modifiedTime": 1753795524655,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e55",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e55"
+}

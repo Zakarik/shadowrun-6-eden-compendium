@@ -1,0 +1,195 @@
+{
+  "id": "shadowrun-6-eden-compendium",
+  "title": "Shadowrun-6-eden-compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "label": "Armes",
+      "type": "Item",
+      "name": "armes",
+      "path": "packs/armes",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "name": "npcs",
+      "label": "NPCs",
+      "path": "packs/npcs",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Accessoires",
+      "type": "Item",
+      "name": "accessoires",
+      "path": "packs/accessoires",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Munitions",
+      "type": "Item",
+      "name": "munitions",
+      "path": "packs/munitions",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Traits",
+      "type": "Item",
+      "name": "traits",
+      "path": "packs/traits",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Protections",
+      "type": "Item",
+      "name": "protections",
+      "path": "packs/protections",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Électronique",
+      "type": "Item",
+      "name": "electronique",
+      "path": "packs/electronique",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Cyberware",
+      "type": "Item",
+      "name": "cyberware",
+      "path": "packs/cyberware",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Bioware",
+      "type": "Item",
+      "name": "bioware",
+      "path": "packs/bioware",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Magiques",
+      "type": "Item",
+      "name": "magiques",
+      "path": "packs/magiques",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Produits chimiques",
+      "type": "Item",
+      "name": "produits-chimiques",
+      "path": "packs/produits-chimiques",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Outils",
+      "type": "Item",
+      "name": "outils",
+      "path": "packs/outils",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Matériel de survie",
+      "type": "Item",
+      "name": "materiel-de-survie",
+      "path": "packs/materiel-de-survie",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Sorts",
+      "type": "Item",
+      "name": "sorts",
+      "path": "packs/sorts",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Pouvoirs d'adepte",
+      "type": "Item",
+      "name": "pouvoirs-dadepte",
+      "path": "packs/pouvoirs-dadepte",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "./LICENSE"
+}

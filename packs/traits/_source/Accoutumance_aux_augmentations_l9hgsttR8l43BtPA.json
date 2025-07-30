@@ -1,0 +1,35 @@
+{
+  "name": "Accoutumance aux augmentations",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVotre corps s’est particulièrement bien adapté à vos augmentations, ce qui vous permet de réduire le coût en Essence de celles à venir.\n\nEffets en jeu : pour chaque niveau de ce trait, vous générez 0,1 point d’Essence réservé à l’achat d’augmentations supplémentaires. Concrètement le « vide d’Essence » ainsi créée n’augmente pas votre score mais est ponctionné en priorité à chaque fois que vous vous faites installer une nouvelle augmentation.",
+    "value": 0,
+    "explain": "Coût : 2 points de Karma par niveau (10 niveaux maximum) Vous ne pouvez acquérir ce trait que si votre score d’Essence est de 3 ou moins.",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsttR8l43BtPA",
+  "sort": 7800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsttR8l43BtPA"
+}

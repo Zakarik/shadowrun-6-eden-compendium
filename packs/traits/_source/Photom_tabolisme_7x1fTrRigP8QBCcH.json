@@ -1,0 +1,35 @@
+{
+  "name": "Photométabolisme",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre épiderme et votre développement folliculaire ont muté pour intégrer des chloroplastes pourvoyant à vos besoins énergétiques par photosynthèse. Le coût en PS de votre Infrastructure (p. 171) diminue de 1. Vous bénéficiez également d’une remise d’Atout de 1 sur tous vos tests d’Escroquerie et d’Influence à la lumière du jour, même partielle. Quand vous êtes dans l’obscurité ou les ténèbres, ces mêmes tests subissent un malus de −2 à la réserve de dés. Photométabolisme est incompatible avec le trait Nocturne.",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "YFqt4X2dDSmvEatU",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006428828,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1fTrRigP8QBCcH",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1fTrRigP8QBCcH"
+}

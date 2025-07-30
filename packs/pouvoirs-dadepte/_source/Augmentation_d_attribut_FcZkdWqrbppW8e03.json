@@ -1,0 +1,35 @@
+{
+  "name": "Augmentation d’attribut",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le mana s’écoule dans votre corps et augmente vos capacités innées ce qui vous permet d’atteindre un niveau supérieur. Quand vous achetez ce pouvoir, il doit être appliqué à un attribut physique spécifique (Constitution, Agilité, Réaction ou Force) ; si ce pouvoir est acheté plusieurs fois, vous pouvez soit augmenter le niveau lié à un attribut déjà choisi (max 6), ou vous pouvez choisir un autre attribut. Il ne peut être utilisé avec des attributs mentaux ou spéciaux.\nQuand ce pouvoir est activé, effectuez un test de Magie + niveau d’Augmentation d’Attribut. Chaque succès augmente temporairement le rang de l’attribut spécifié de 1 point jusqu’au maximum d’augmentation de +4. Cela n’affecte que les réserves de dés aussi votre rang en Initiative, vos Moniteurs d’états, votre Score Défensif et ainsi de suite ne sont pas modifiés. L’effet dure (succès nets) rounds de combat et quand il se termine, vous subissez un Drain égal au niveau de ce pouvoir, auquel vous résistez normalement.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524603,
+    "modifiedTime": 1753795524603,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e03",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e03"
+}

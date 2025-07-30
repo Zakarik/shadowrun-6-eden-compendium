@@ -1,0 +1,35 @@
+{
+  "name": "Portier serviable",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous savez comment partager vos accès matriciels illégaux avec d’autres personas.\n\nEffets en jeu : quand vous acquérez un accès utilisateur ou administrateur illégal, vous pouvez le partager avec un nombre de personas supplémentaires égal au nombre de succès nets obtenus sur le test. Vous ne pouvez accorder cet accès qu’aux personas qui l’acceptent consciemment, ce qui requiert de leur part une action mineure libre. Si une persona qui bénéficie des effets de ce trait est dépourvue d’attribut Corruption, son Score de Surveillance augmente de 2D6 à la fin de chaque round de combat.",
+    "value": 0,
+    "explain": "Coût : 9 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311014193,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RdhWvtl4EvtlK",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RdhWvtl4EvtlK"
+}

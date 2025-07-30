@@ -1,0 +1,35 @@
+{
+  "name": "Néoténie",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre apparence physique est restée bloquée au stade infantile ou adolescent, mettant fin à votre croissance. Cet état implique plusieurs inconvénients. Votre Moniteur de dommages physique est égal à 6 + (Constitution / 2, arrondi à l’inférieur). Le maximum de tous vos attributs physiques est réduit de 1. Vous subissez un malus de −1 à la réserve de dés pour vos tests sociaux pour lesquels l’âge (apparent) entre en jeu. Si vous êtes dépourvu de SIN, il vous est impossible de prouver votre âge si nécessaire. Les indispensables retouches augmentent le prix de tout équipement porté (armures comprises) de dix pour cent.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "4BSIqdgd394gTKKN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007637084,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTxRiRd5cVCWD",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTxRiRd5cVCWD"
+}

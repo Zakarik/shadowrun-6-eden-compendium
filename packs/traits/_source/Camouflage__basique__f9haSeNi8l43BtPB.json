@@ -1,0 +1,35 @@
+{
+  "name": "Camouflage (basique)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces traits provoquent une pigmentation cutanée qui s’adapte à l’environnement, à la manière d’un caméléon. Ils sont incompatibles avec toute autre modification dermique.\n\nAprès cinq minutes d’exposition à un environnement aux motifs colorés et contrastés, vous pouvez prendre une minute pour que votre peau s’adapte à votre décor. Elle peut conserver cette coloration pendant quatre heures au maximum. Si vous vous déplacez (à plus d’un mètre par round), votre peau retrouve sa pigmentation d’origine pendant toute la durée du mouvement. Lorsqu’il est activé et si plus de quarante pour cent du corps est exposé, le camouflage procure un bonus de +1 à la réserve de dés pour tous les tests de Furtivité. À quatre‑vingts pour cent d’exposition le bonus passe à +2.",
+    "value": 0,
+    "explain": "Coût : 5 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "UamIrk3QcoyTELnC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004493347,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f9haSeNi8l43BtPB",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f9haSeNi8l43BtPB"
+}

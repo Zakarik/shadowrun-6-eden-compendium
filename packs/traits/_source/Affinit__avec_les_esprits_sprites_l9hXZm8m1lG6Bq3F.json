@@ -1,0 +1,35 @@
+{
+  "name": "Affinité avec les esprits/sprites",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez gagné le respect d’un groupe précis d’esprits/sprites.\n\nGrâce à vos actions et à des faveurs, vous avez une bonne réputation ce qui les pousse à vous traiter avec considération.\n\nEffets en jeu : choisissez un type d’esprits ou de sprites quand vous optez pour ce trait. Vous bénéficiez d’une remise d’Atout de 1 lors de vos tests de Conjuration ou de Technomancie pour le type d’esprits/sprites que vous avez choisi. Ce trait peut être choisi plusieurs fois en optant pour un autre type d’esprits/sprites à chaque fois.",
+    "value": 0,
+    "explain": "Coût : 14 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1751985503471,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hXZm8m1lG6Bq3F",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hXZm8m1lG6Bq3F"
+}

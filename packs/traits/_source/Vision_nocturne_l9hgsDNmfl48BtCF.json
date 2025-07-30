@@ -1,0 +1,35 @@
+{
+  "name": "Vision nocturne",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Grâce à l’augmentation naturelle de cellules à bâtonnet dans vos yeux, à l’implantation de ces mêmes cellules ou une augmentation qui accroît la luminosité des données perçues, vous êtes capable de voir dans des circonstances dans lesquelles les autres seraient aveugles.\n\nEffets en jeu : vous voyez clairement, quel que soit le niveau de luminosité à l’exception de l’obscurité totale (voir Environnement et visibilité, p. 115).",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsDNmfl48BtCF",
+  "sort": 8000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsDNmfl48BtCF"
+}

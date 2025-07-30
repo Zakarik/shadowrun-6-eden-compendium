@@ -1,0 +1,42 @@
+{
+  "name": "Contrôle des actes",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e59",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le lanceur de sorts agit comme un véritable marionnettiste et prend le contrôle d’une autre personne pour la faire danser selon sa propre volonté. Effectuez un test de Sorcellerie + Magie contre Volonté + Logique. La cible est consciente de ce qui se passe, mais elle ne peut rien y faire. Pour la commander, le lanceur de sort utilise le même type d’action que celle qu’il lui demande d’effectuer. Ce sort peut être transformé en sort à effet de zone avec l’effet Extension de zone. Une fois le sort lancé, l’effet affecte les individus qui n’y ont pas résisté même s’ils quittent la zone d’effet initiale.",
+    "category": "manipulation",
+    "duration": "limited",
+    "drain": 4,
+    "type": "mana",
+    "range": "line_of_sight",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e59"
+}

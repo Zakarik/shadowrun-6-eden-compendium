@@ -1,0 +1,35 @@
+{
+  "name": "Piquants",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Cette combinaison de poils et d’excroissances épaisses riches en kératine ressemble aux épines d’un porc-épic, à raison d’environ un follicule sur 100. Ces piquants mesurent en général moins de 30 centimètres. Ils procurent un bonus de +2 au SD contre toute forme de Combat rapproché. De plus, quand un attaquant cherche à saisir ou immobiliser un individu doté de tels piquants, il doit résister à des dommages de 2P modifiés par les succès nets obtenus lors de son attaque. Ce trait peut être utilisé de manière offensive avec les caractéristiques suivantes : Armes exotiques (piquants) + Agilité, VD 3P, SO 6+FOR/—/—/—/—, ce qui peut se révéler très efficace. Les bras, les jambes ou le dos de l’utilisateur doivent être exposés pour que ces bénéfices s’appliquent. Ce trait est incompatible avec d’autres modifications de la peau ou de la pilosité, naturelles ou artificielles.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "jPQ4s5W8fii68SGZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752005160008,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "791sO4RigPv3BCmC",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!791sO4RigPv3BCmC"
+}

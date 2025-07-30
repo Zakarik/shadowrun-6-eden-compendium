@@ -1,0 +1,42 @@
+{
+  "name": "Antidote",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e28",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce sort libère du mana qui va parcourir le corps afin de trouver et de purger les toxines. Effectuez un test étendu de Sorcellerie + Magie (Virulence, 1 round), chaque succès réduisant la Virulence de la toxine d’un point. Si la virulence de la toxine est réduite à zéro, elle est éliminée. Chaque jet est une action majeure, mais le Drain n'est subi qu'une fois, lors de la première action, le sort n'étant lancé qu'une fois.",
+    "category": "health",
+    "duration": "permanent",
+    "drain": 5,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "rczjYlNm1pBWGSVU",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023390355,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e28"
+}

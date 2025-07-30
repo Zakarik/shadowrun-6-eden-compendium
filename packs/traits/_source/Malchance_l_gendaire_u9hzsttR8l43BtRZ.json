@@ -1,0 +1,35 @@
+{
+  "name": "Malchance légendaire",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nLa chance semble vous fuir, et même quand ce n’est pas le cas cela ne fait pas une grande différence.\n\nEffets en jeu : vous ne pouvez gagner qu’un seul point d’Atout par tour.",
+    "value": 0,
+    "explain": "Bonus : 25 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtRZ",
+  "sort": 5100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtRZ"
+}

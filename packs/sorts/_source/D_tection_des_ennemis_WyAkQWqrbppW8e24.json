@@ -1,0 +1,42 @@
+{
+  "name": "Détection des ennemis",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e24",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce sort permet au sujet de savoir si quiconque situé à portée du sort a des intentions hostiles envers lui. Ce sort ne fonctionne que sur des gens, pas des choses, et il ne détecte que des individus dont l’hostilité est dirigée contre le sujet pas ceux qui ont une haine généralisée pour toute la métahumanité (si c’était le cas, toute la population des barrens ferait réagir le sort). Idéal pour détecter des embuscades !",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 4,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023546590,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e24"
+}

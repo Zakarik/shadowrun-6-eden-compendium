@@ -1,0 +1,42 @@
+{
+  "name": "Trait de feu",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e15",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un classique. Quand vous songez à blesser des gens avec la magie, la première chose qui vous vient à l’esprit c’est d’utiliser le feu. Ce sont les sorts qui peuvent vous le permettre. Trait de feu n’affecte qu’un individu à la fois. Les deux sorts infligent des dommages élémentaires de Feu (p. 114) et imposent l’état Enflammé (p. 56) avec un indice égal aux succès nets obtenu au test de Lancement de sorts.",
+    "category": "combat",
+    "duration": "instantaneous",
+    "drain": 5,
+    "type": "physical",
+    "range": "line_of_sight",
+    "damage": "physical_special",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "DbOxiOV3L3HGhzwX",
+  "sort": 100782,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023769336,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e15"
+}

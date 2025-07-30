@@ -1,0 +1,35 @@
+{
+  "name": "Passage sans traces",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quand vous marchez sur de la poussière, de la neige, de la terre, de l’eau ou toute autre substance, vous laissez peu d’empreintes comme si vous n’étiez jamais passé par là. Vous ne déclenchez pas les câbles déclencheurs, les dalles de pression ou les autres pièges qui s’activent par contact ou pression de vos pieds. Les tests auditifs pour vous entendre vous déplacer et les tests de Plein air pour remarquer vos traces ne peuvent gagner de point d’Atout ni en utiliser.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524612,
+    "modifiedTime": 1753795524612,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e12",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e12"
+}

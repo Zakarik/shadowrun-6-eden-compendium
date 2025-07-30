@@ -1,0 +1,42 @@
+{
+  "name": "Invisibilité supérieure",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e45",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le sort Invisibilité supérieure octroie l’état Invisible (supérieur) qui fonctionne également contre les caméras et les autres appareils technologiques.",
+    "category": "illusion",
+    "duration": "sustained",
+    "drain": 4,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "DE7yIBPKeBfTG7Vl",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023568238,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e45"
+}

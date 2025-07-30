@@ -1,0 +1,35 @@
+{
+  "name": "Réverbérant",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certaines personnes possèdent une sensibilité à la Résonance, même si elles sont incapables de s’en servir.\n\nEffets en jeu : par le biais d’une action de Perception matricielle réussie, vous êtes capable de détecter et d’analyser des éléments que seules les entités dotées de l’attribut Résonance peuvent normalement percevoir.",
+    "value": 0,
+    "explain": "Coût : 5 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311078996,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlK",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlK"
+}

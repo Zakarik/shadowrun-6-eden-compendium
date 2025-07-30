@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "RClSaEHdCVPdjXXq",
+  "name": "Imagerie",
+  "color": null,
+  "sorting": "a",
+  "_id": "PQBMkPvODfNwZXKK",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752262521452
+  },
+  "_key": "!folders!PQBMkPvODfNwZXKK"
+}

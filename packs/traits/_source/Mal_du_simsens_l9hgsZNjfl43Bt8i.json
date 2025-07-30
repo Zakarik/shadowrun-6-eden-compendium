@@ -1,0 +1,35 @@
+{
+  "name": "Mal du simsens",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quelque part dans votre cerveau vous avez des fils qui se croisent. À chaque fois que vous vous connectez à la Matrice en RV, vous êtes désorienté au point d’en être nauséeux.\n\nEffets en jeu : vous ne pouvez pas gagner ou dépenser de l’Atout quand vous accédez à la Matrice en RV. Vous subissez également l’état Nauséeux pendant une heure après vous être déconnecté de la Matrice.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsZNjfl43Bt8i",
+  "sort": 7700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsZNjfl43Bt8i"
+}

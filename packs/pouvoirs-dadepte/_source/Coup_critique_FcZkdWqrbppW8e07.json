@@ -1,0 +1,35 @@
+{
+  "name": "Coup critique",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Augmentez la VD de vos attaques de mêlée de 1 point par niveau du pouvoir. Ce pouvoir est compatible avec d’autres améliorations d’armes et des pouvoirs d’adepte à moins que le contraire ne soit indiqué. Le niveau maximum de ce pouvoir est 3.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 1,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524607,
+    "modifiedTime": 1753795524607,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e07",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e07"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Endetté",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Parfois, pour avoir de l’argent, vous devez en emprunter. Vous avez contracté une dette pour pouvoir accéder aux Ombres.\n\nEffets en jeu : quand vous dépensez du Karma pour obtenir de l’argent, chaque point vous rapporte 5 000 nuyens au lieu de 2 000. Cela augmente également votre dette de 5 000 nuyens auprès de quelqu’un de très dangereux. Vous devez payer des intérêts égaux à 500 nuyens par mois et par point. Si vous ne payez pas les intérêts, les prêteurs viennent vous voir. Si vous payez votre dette, vous pouvez vous débarrasser de ce trait, sans avoir besoin de dépenser de Karma. Ce trait ne peut être obtenu qu’au cours de la création d’un personnage.",
+    "value": 0,
+    "explain": "Bonus : aucun",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "lfhgsDNmfl48Bt5F",
+  "sort": 8600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!lfhgsDNmfl48Bt5F"
+}

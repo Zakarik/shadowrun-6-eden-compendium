@@ -1,0 +1,35 @@
+{
+  "name": "Crachat corrosif",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Comme avec le pouvoir de créature Salive corrosive, vous pouvez porter une attaque à distance avec Armes exotiques (crachat), VD 2P (chimique) × Niveau dans ce trait, SO 4/6/4/—/—. Si l’attaque inflige des dommages, la cible subit également l’état Corrodé à un niveau égal à celui de ce trait.",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma par niveau (2 niveaux maximum)",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "CwM7cjap6OUZpa4s",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752005148504,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "751sOvRigPvQBCmA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!751sOvRigPvQBCmA"
+}

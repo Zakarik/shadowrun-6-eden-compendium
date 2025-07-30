@@ -1,0 +1,35 @@
+{
+  "name": "Hallucinations",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nL’esprit peut être une chose fragile, capable de générer des visions de choses qui n’existent pas quand il est sollicité à l’extrême.\n\nEffets en jeu : en situation de stress, vous devez réussir un test de Volonté + Logique (3) ou être sujet à des visions hallucinatoires. Celles-ci peuvent être issues d’expériences passées, de cauchemars ou même des médias. Elles peuvent également occulter une chose bien réelle. Ces manifestations vous paraissent tout aussi réelles que le monde qui vous entoure et doivent être traitées de manière appropriée. Ces visions n’existent que dans votre esprit. Elles n’ont aucune composante astrale ou matricielle. Les visions persistent jusqu’à ce que vous réussissiez un autre test de Volonté + Logique (3) ; c’est au maître du jeu de déterminer quand ce test intervient. Un autre personnage peut vous aider à surmonter vos visions grâce à un test d’Influence (Leadership) + Charisme (fonctionne comme un test d’équipe).",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPE",
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPE"
+}

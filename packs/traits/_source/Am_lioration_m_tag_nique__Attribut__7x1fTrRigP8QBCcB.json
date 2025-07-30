@@ -1,0 +1,35 @@
+{
+  "name": "Amélioration métagénique (Attribut)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous présentez une expression génétique qui améliore les gènes associés au développement d’un attribut physique ou mental donné. En termes de jeu, la valeur maximale pour l’un des attributs de votre personnage (voir Attributs des métatypes, p. 67, SR6) augmente de 1. Ce trait ne peut être acquis qu’une seule fois par attribut et est cumulable avec le trait Attribut exceptionnel (p. 73, SR6).",
+    "value": 0,
+    "explain": "Coût : 15 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "YFqt4X2dDSmvEatU",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006395368,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1fTrRigP8QBCcB",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1fTrRigP8QBCcB"
+}

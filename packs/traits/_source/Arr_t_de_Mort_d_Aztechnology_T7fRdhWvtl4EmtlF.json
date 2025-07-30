@@ -1,0 +1,35 @@
+{
+  "name": "Arrêt de Mort d’Aztechnology",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "À un certain moment, vous avez fait quelque chose de suffisamment grave pour que le Grand A soit maintenant activement à votre recherche. Vos biométries sont enregistrées et signalées avec la plus haute priorité. Si un agent/employé d'Aztechnology (ou affilié) découvre votre véritable identité, il agira pour vous faire soit détenir, soit éliminer.\n\nEffets en jeu : En plus de la description ci-dessus, toute personne affiliée à Aztechnology tentant de vous identifier via biométries obtient un bonus de +2 au pool de dés pour tous les tests associés et +1 Edge. Et à moins que vous ne soyez déguisé avec succès ou ayez caché votre identité, vous ne pourrez pas obtenir de Edge lors des tests sociaux avec des individus affiliés à Aztechnology.",
+    "value": 0,
+    "explain": "Bonus : 10 Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7fRdhWvtl4EmtlF",
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7fRdhWvtl4EmtlF"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Glandes odorantes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous possédez des glandes odorantes qui produisent une odeur nauséabonde et tenace dont il est difficile de se débarrasser sans moyens magiques. L’odeur persiste sur les objets pendant 24 heures et vous rend plus facile à traquer. Les tests de Plein air (Pistage) bénéficient d’un bonus de +1 à la réserve de dés et d’une remise d’Atout de 1 dans l’heure qui suit votre passage. Les individus qui interagissent avec vous reçoivent un bonus de +2 à la réserve de dés pour tous leurs tests de mémoire et d’Influence (Enseignement) pour vous décrire.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "4BSIqdgd394gTKKN",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007629882,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTxRiRd5cVCWA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTxRiRd5cVCWA"
+}

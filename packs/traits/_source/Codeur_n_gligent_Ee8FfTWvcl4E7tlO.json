@@ -1,0 +1,35 @@
+{
+  "name": "Codeur négligent",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous codez vite, mais il ne faut pas y regarder de trop près. Vous n’êtes pas du genre à perdre votre temps à corriger de bugs.\n\nEffets en jeu : quand vous faites un test de programmation, quel qu’il soit, divisez l’intervalle normal par deux. Chaque fois que le programme est utilisé, il génère une complication, quel que soit le nombre de 1 obtenu. Un échec critique fait rebooter l’appareil sur lequel il est lancé, à moins qu’il ne s’agisse d’un serveur : dans ce cas, celui-ci supprime le programme.",
+    "value": 0,
+    "explain": "Bonus : 3 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311504232,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlO",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlO"
+}

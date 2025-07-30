@@ -1,0 +1,35 @@
+{
+  "name": "ELT-x",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nELT-x est une abréviation d’épilepsie du lobe temporal avec complications. On la pensait autrefois liée à la pose d’implants move-by-wire, mais il a depuis été constaté qu’elle pouvait apparaître chez toute personne dotée d’implants invasifs. Les individus souffrant d’ELT-x subissent parfois des crises d’épilepsie sous la pression, en raison du stress causé par ces implants.\n\nEffets en jeu : quand vous êtes confronté à une situation suffisamment stressante, faites un test de Constitution + Volonté (4). En cas d’échec, vous êtes pris de convulsions épileptiques pendant (5 – succès) minutes. L’ELT-x peut être traitée grâce à l’AEXD qui confère +3 à la réserve de dés lors du test de résistance visant à prévenir l’apparition d’une crise. Les dommages causés à votre système nerveux demeurent même si l’implant à l’origine de l’affection est retiré. La chirurgie cérébrale ou la thérapie génique permettent de guérir complètement la maladie, mais il faut toujours dépenser le Karma nécessaire pour se débarrasser de ce trait.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma. L’effet provient du stress métabolique et neurologique d’une implantation excessive de cyberware, vous devez donc posséder des augmentations ayant causé la perte d’au moins 3 points d’Essence.",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPC",
+  "sort": 2400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPC"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Style de conduite : As du combat",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Pour vous, une vitesse élevée et des virages serrés ne\nsont pas encore assez dangereux. Que ce soit lors d’une\nfusillade dans les airs, dans un combat de motards ou\nsur l’autoroute pendant une escarmouche face aux 405\nHellhounds, vous savez mêler mobilité et force de frappe.\n\nEffets en jeu : le coût des actions d’Atout suivantes est réduit de moitié (la nouvelle valeur est placée entre parenthèses):\n• Assaut (2 points d’Atout)\n• Ciblage automatique (3 points d’Atout)\n• Feu croisé (3 points d’Atout)\n• Quitte ou double (1, 2 ou 3 points d’Atout lors des tests d’Ingénierie [Armes de véhicule]) ou sur lors tests d’Ingénierie [Armes de véhicule]).",
+    "value": 0,
+    "explain": "Coût : 12 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209003,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgdFxi8l4EBtPD",
+  "sort": 4400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgdFxi8l4EBtPD"
+}

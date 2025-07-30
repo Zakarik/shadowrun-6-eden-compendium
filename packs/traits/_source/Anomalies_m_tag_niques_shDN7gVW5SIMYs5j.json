@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "TT7HYMa8ijXaF2w3",
+  "name": "Anomalies métagéniques",
+  "color": "#444072",
+  "sorting": "a",
+  "_id": "shDN7gVW5SIMYs5j",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752008268117
+  },
+  "_key": "!folders!shDN7gVW5SIMYs5j"
+}

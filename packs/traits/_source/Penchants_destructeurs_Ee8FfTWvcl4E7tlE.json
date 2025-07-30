@@ -1,0 +1,35 @@
+{
+  "name": "Penchants destructeurs",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes au hacking ce qu’un cyberzombie est au combat : vous vous complaisez dans la destruction.\n\nEffets en jeu : vous ne pouvez pas gagner ou dépenser d’Atout sur les actions matricielles ou formes complexes dépourvues du potentiel de causer des dommages matriciels. La seule exception est l’action Forcer l’accès.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311835835,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlE",
+  "sort": 100007,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlE"
+}

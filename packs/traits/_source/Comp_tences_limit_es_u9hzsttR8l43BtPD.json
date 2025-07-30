@@ -1,0 +1,35 @@
+{
+  "name": "Compétences limitées",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nMaîtriser une compétence spécifique ne vous a jamais emballé.\n\nEffets en jeu : ce trait ne peut être acquis et ne s’applique que lors de la création de personnage. Vous ne pouvez pas démarrer avec une compétence à son rang de départ maximum. Si vous utilisez les règles de système de parcours de vie, vous devez réduire la compétence maximisée de 1 et assigner ce point à une compétence différente.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtPD",
+  "sort": 6000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtPD"
+}

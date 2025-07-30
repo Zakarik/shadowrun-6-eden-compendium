@@ -1,0 +1,35 @@
+{
+  "name": "Archiviste compulsif",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes l’équivalent matriciel d’un syllogomane. Vous répugnez à supprimer quoi que ce soit et conservez des fichiers incriminants plus longtemps que nécessaire sur vos appareils. De plus, plutôt que de les effacer, vous en conservez des copies sur des puces que vous stockez dans des caches secrètes. Vous ne consultez quasiment jamais ces fichiers, mais la seule pensée de les supprimer vous fait vous sentir mal. Évidemment, quelqu’un finira par tomber dessus, qu’il s’agisse d’un hacker quelconque fouillant votre commlink à la recherche de données juteuses ou d’un petit fouineur tombé par hasard sur une de vos planques ; la question n’est pas « si », mais « quand ».\n\nEffets en jeu : chaque fois que le maître de jeu effectue un test de Pression à la fin d’un run, votre score personnel de Pression augmente de +1 pour chaque tranche de 50 points de Karma total que vous avez gagné (arrondi à l’inférieur). Le Karma non dépensé lors de la création de personnage n’est pas compris dans ce total. Ce modificateur n’affecte que vous, il est donc possible que votre Pression personnelle augmente, mais pas celle de vos collègues.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311315575,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlF",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlF"
+}

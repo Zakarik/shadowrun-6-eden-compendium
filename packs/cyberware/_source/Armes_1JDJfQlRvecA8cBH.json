@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "DEV2H2fo2oLKxUSO",
+  "name": "Armes",
+  "color": null,
+  "sorting": "a",
+  "_id": "1JDJfQlRvecA8cBH",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752236311406
+  },
+  "_key": "!folders!1JDJfQlRvecA8cBH"
+}

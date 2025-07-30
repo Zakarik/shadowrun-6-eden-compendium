@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "UamIrk3QcoyTELnC",
+  "name": "Salive et sécrétions",
+  "color": "#724040",
+  "sorting": "a",
+  "_id": "CwM7cjap6OUZpa4s",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752008317110
+  },
+  "_key": "!folders!CwM7cjap6OUZpa4s"
+}

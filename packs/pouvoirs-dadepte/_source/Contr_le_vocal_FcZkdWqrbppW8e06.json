@@ -1,0 +1,35 @@
+{
+  "name": "Contrôle vocal",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous pouvez contrôler la modulation et le timbre de votre voix pour lui donner l’intonation de votre choix : forte, douce, résonante ou comme celle d’une personne que vous voulez imiter. Vous bénéficiez d’une remise d’Atout de 1 quand vous tentez un test d’Escroquerie ou d’Influence pour lequel vous utilisez votre voix.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524606,
+    "modifiedTime": 1753795524606,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e06",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e06"
+}

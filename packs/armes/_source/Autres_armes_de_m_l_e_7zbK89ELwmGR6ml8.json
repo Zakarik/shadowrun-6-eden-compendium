@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "Yfsg8ItgHla7H4kn",
+  "name": "Autres armes de mêlée",
+  "color": "#370ab2",
+  "sorting": "a",
+  "_id": "7zbK89ELwmGR6ml8",
+  "description": "",
+  "sort": 400000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751825013988,
+    "modifiedTime": 1752154451309,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!7zbK89ELwmGR6ml8"
+}

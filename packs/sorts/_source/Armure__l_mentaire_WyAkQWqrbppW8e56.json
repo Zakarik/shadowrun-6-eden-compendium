@@ -1,0 +1,42 @@
+{
+  "name": "Armure élémentaire",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e56",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Comme le sort d’Armure, effectuez un test de Sorcellerie + Magie et ajoutez les succès nets au Score Défensif de la cible. De plus, il ajoute un bonus supplémentaire. Quand vous le lancez, vous choisissez un élément contre lequel la cible sera protégée. En fonction de votre choix, la cible ne peut plus subir certains états comme cela est indiqué dans la table Protection contre les éléments.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 5,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e56"
+}

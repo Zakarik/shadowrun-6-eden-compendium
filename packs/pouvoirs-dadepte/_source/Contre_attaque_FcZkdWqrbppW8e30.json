@@ -1,0 +1,35 @@
+{
+  "name": "Contre-attaque",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte maîtrisant Contre-attaque peut passer facilement de la défense à l’attaque en Combat rapproché, prenant son adversaire par surprise après avoir réussi à se défendre contre une attaque. Si le personnage réussit une action Bloquer (p. 46, SR6) et que, lors de son action majeure suivante, il attaque l’adversaire qu’il a bloqué, il peut dépenser une action mineure supplémentaire afin de lui porter une contre-attaque dévastatrice. Il ajoute un nombre de dés égal à son niveau de Contre-attaque, plus les succès nets obtenus sur le test de Blocage, à son jet d’attaque.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "minor_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524630,
+    "modifiedTime": 1753795524630,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e30",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e30"
+}

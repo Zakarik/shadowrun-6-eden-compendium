@@ -1,0 +1,35 @@
+{
+  "name": "Élan",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains adeptes sont capables d’atteindre un niveau de concentration avec lequel les ordinaires non augmentés ne peuvent pas rivaliser. Le pouvoir Élan les aide à aller de succès en succès, quels que soient les efforts fournis pour réaliser une tâche ; chaque niveau d’Élan leur permet d’ignorer un niveau du modificateur de -1 à la réserve de dés, qui diminuerait progressivement leur réserve s’ils faisaient un test étendu (p. 39, SR6). Par exemple, Élan 2 permettrait à un adepte d’utiliser sa réserve complète pour le premier, deuxième et troisième intervalle d’un test étendu, avant de jeter les dés avec un malus de -1 seulement pour le quatrième, -2 pour le cinquième, etc.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524635,
+    "modifiedTime": 1753795524635,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e35",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e35"
+}

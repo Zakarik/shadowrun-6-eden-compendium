@@ -1,0 +1,42 @@
+{
+  "name": "Sens du combat",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e26",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le sujet a une plus grande perception des dangers possibles et peut y réagir plus rapidement. Les succès nets du test de Lancement de sorts s’ajoutent aux réserves de dés de défense et pour les tests de surprise (voir p. 112) tant que le sort est maintenu.",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 5,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 100391,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023654901,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e26"
+}

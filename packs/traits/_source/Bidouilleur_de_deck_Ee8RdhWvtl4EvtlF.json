@@ -1,0 +1,35 @@
+{
+  "name": "Bidouilleur de deck",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre cyberdeck custom n’est jamais achevé : il y a toujours de la place pour une nouvelle amélioration !\n\nEffets en jeu : quand vous dépensez du Karma pour construire ou améliorer votre matériel, chaque point de Karma vaut 5 000¥ (au lieu de 4 000). Les composants que vous construisez vous-même (en dépensant du Karma plutôt que de l’argent pour chacun de ses composants) sont plus modulaires que la moyenne. Quand vous utilisez un cyberdeck ou cyberhack de votre conception, vous pouvez utiliser l’action Reconfigurer les attributs matriciels pour échanger vos attributs matriciels.",
+    "value": 0,
+    "explain": "Coût : 6 points de karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310212829,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RdhWvtl4EvtlF",
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RdhWvtl4EvtlF"
+}

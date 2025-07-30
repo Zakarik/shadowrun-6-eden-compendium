@@ -1,0 +1,35 @@
+{
+  "name": "Regard dément",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Aussi appelé yeux globuleux, ce trait rend vos cavités oculaires moins profondes, ce qui donne à vos yeux un aspect bulbeux et plus imposant. Vos iris sont soit d’un rouge sanglant, orange citrouille ou jaune fluorescent. Vos yeux sont plus sensibles aux irritations ; les modificateurs liés à la fumée, la cendre ou toute autre substance en suspension dans l’air augmentent de 1.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "shDN7gVW5SIMYs5j",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007117880,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTrRigd8cVCWH",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTrRigd8cVCWH"
+}

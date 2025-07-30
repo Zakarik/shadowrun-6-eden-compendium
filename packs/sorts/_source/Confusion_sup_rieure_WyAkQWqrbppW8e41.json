@@ -1,0 +1,42 @@
+{
+  "name": "Confusion supérieure",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e41",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Confusion supérieure produit le même effet que Confusion, mais il affecte aussi les caméras, les microphones et les autres formes de technologie. Le sort de base n’affecte qu’un seul individu, mais l’effet d’Extension de zone peut être utilisé pour le transformer en sort à effet de zone (en commençant par une zone de 2 mètres de rayon pour +1 en Drain). Quand il s’agit d’un sort à effet de zone, on peut utiliser l’effet Déplacement de zone.",
+    "category": "illusion",
+    "duration": "sustained",
+    "drain": 4,
+    "type": "physical",
+    "range": "line_of_sight",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": true,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "DE7yIBPKeBfTG7Vl",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023457153,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e41"
+}

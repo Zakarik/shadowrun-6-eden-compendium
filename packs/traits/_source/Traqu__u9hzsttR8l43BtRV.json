@@ -1,0 +1,35 @@
+{
+  "name": "Traqué",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nQuelqu’un veut vous voir mort, et il a les moyens de sa politique.\n\nEffets en jeu : quand votre Pression est de 15 ou plus, les assassins vous rattrapent. Vous vous en tirez toujours d’un cheveu, mais jamais indemne. Au début de chaque séance (après avoir réinitialisé votre Atout), faites un test de Constitution pour résister à des dommages de (7+1 par niveau de ce trait) P. Vous pouvez traiter ces blessures avec tout moyen à court terme (premiers soins, médikit, sorts, etc.) mais ne pouvez bénéficier de soins longue durée avant le début de la séance.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma par niveau (5 niveaux maximum)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtRV",
+  "sort": 4300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtRV"
+}

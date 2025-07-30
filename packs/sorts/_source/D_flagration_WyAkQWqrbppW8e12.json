@@ -1,0 +1,42 @@
+{
+  "name": "Déflagration",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e12",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Petit sort très fourbe ; la magie ne touche pas la cible, mais agit sur l’air pour donner le coup. C’est une véritable démonstration de la puissance d’érosion du vent appliquée à la tête de la cible. Frappe à distance cible un seul individu à la fois tandis que Déflagration est un sort à effet de zone.",
+    "category": "combat",
+    "duration": "instantaneous",
+    "drain": 4,
+    "type": "physical",
+    "range": "line_of_sight_area",
+    "damage": "physical",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "DbOxiOV3L3HGhzwX",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753019108000,
+    "modifiedTime": 1753023479112,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e12"
+}

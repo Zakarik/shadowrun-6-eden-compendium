@@ -1,0 +1,35 @@
+{
+  "name": "Magnétoception",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Comme l’Électroception, la Magnétoception vous permet de percevoir les changements dans les champs magnétiques proches. Vous pouvez ressentir ces derniers, ce qui vous indique leur présence, direction et intensité. Pour ce faire, vous devez effectuer un test de Perception + Intuition (3) avec une portée égale à (Constitution + Intuition) mètres. Les individus dotés de ce trait sont particulièrement doués pour se repérer et bénéficient d’une remise d’Atout de 1 pour tous leurs tests de Plein air (Orientation).",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "Qwx6dFpR3wBl0mrX",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006091353,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1sOrRigPvQBClC",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1sOrRigPvQBClC"
+}

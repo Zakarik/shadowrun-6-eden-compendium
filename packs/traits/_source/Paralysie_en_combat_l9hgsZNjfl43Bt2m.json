@@ -1,0 +1,35 @@
+{
+  "name": "Paralysie en combat",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quel que soit le nombre de fois que votre samouraï des rues vous a amené au stand de tir, vous ne pouvez pas vous empêcher de rester paralysé dès que ça commence à tirer.\n\nEffets en jeu : votre Score d’Initiative est réduit de moitié au début d’un combat. Vous ne pouvez pas choisir les actions Se déplacer et Sprinter au premier round et vous agissez en dernier au cours de ce round.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsZNjfl43Bt2m",
+  "sort": 7300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsZNjfl43Bt2m"
+}

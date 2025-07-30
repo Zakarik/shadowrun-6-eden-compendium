@@ -1,0 +1,35 @@
+{
+  "name": "Queue préhensile",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces traits se traduisent par une queue qui pousse à la base de votre colonne vertébrale. Elle peut être écailleuse (comme un lézard), poilue (comme un singe) ou glabre (comme celle d’un opossum) et est parfaitement développée et fonctionnelle. Pour bénéficier de tous les effets indiqués, vous devez adapter vos vêtements pour laisser votre queue libre. Il vous est pénible de rester trop longtemps dans certaines positions ; tant que vous êtes assis sur votre queue, vous subissez un malus de −1 à la réserve de dés pour toutes vos actions. Ces traits sont mutuellement exclusifs et incompatibles avec toute autre modification caudale. Cette version fonctionne comme une queue stabilisatrice, si ce n’est que vous la contrôlez comme un membre supplémentaire. Vous pouvez ramasser des objets avec, bien que l’absence de doigts rende délicate toute manipulation précise. Une tâche basique qui ne nécessite normalement pas de test (comme presser un bouton ou tirer un levier) requiert un test de Constitution + Agilité (3) pour être accomplie. La Force effective de cette queue est égale à la moitié de votre score de Force (arrondi à l’inférieur) mais elle peut supporter votre poids si vous vous suspendez avec. Une queue préhensile n’octroie pas d’attaque supplémentaire.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004573942,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f91Zd4RigPv3BCqJ",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f91Zd4RigPv3BCqJ"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Violateur de garantie",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Si on vous laisse un peu de temps, vous pouvez apporter des modifications peu orthodoxes à n’importe quel appareil du marché.\n\nEffets en jeu : si vous disposez du kit adéquat, vous pouvez améliorer n’importe quel appareil sorti d’usine grâce à un test étendu d’Électronique (Matériel électronique) + Logique ou Ingénierie + Logique (à la discrétion du MJ), avec un seuil égal à l’indice de l’appareil (ou 4, le plus haut des deux) et un intervalle de 1 heure. L’appareil reçoit un nombre de « points d’amélioration » égal à votre score de Logique. Chaque fois que vous utilisez une action avec cet appareil, vous pouvez sacrifier une action mineure supplémentaire pour activer les améliorations et ajouter un dé libre pour chaque point d’amélioration dépensé. Les points d’amélioration disparaissent une fois utilisés. Si n’importe lequel d’un de ces dés libres obtient un 1, l’appareil cesse de fonctionner une fois l’action résolue. Lorsque tous les points d’amélioration sont dépensés, il tombe en panne de la même manière. Dans les deux cas, remettre un appareil en état de marche nécessite un nouveau test étendu d’Électronique ou Ingénierie comme ci-dessus, mais avec un intervalle de 1 minute. En plus de refonctionner, l’appareil regagne un nombre de points d’amélioration égal à votre score de Logique. Ce trait ne peut pas être utilisé sur les appareils générant une persona, comme les commlinks, les cyberdecks ou les CCR. Les augmentations, drones et véhicules sont également inéligibles. À la discrétion du maître de jeu, tout autre appareil (armes comprises) peut bénéficier de ce trait. Juste pour être clair : utiliser ce trait sur un appareil, quel qu’il soit, annule la garantie constructeur.\n\nNote : vous devriez préparer quelques phrases de jargon technique pour décrire la manière dont votre science étrange améliore les équipements grâce à ce trait. Vous n’êtes pas obligé, mais ce sera bien plus amusant pour tout le monde si vous le faites.",
+    "value": 0,
+    "explain": "Coût : 13 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311153514,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlN",
+  "sort": 103125,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlN"
+}

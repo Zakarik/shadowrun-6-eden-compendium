@@ -1,0 +1,35 @@
+{
+  "name": "Allergie (Substance, Sévérité)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Il peut s’agir d’une allergie aux pollens qui fait couler votre nez et vous fait éternuer ou d’une puissante réaction anaphylactique à l’une de ces rares cacahuètes naturelles. Quoi qu’il en soit, vous subissez une certaine gêne à cause d’une substance du Sixième Monde.\n\nEffets en jeu : choisissez un allergène et une sévérité pour déterminer la valeur de Karma. Vous ne pouvez pas gagner ou dépenser de l’Atout tant que vous êtes soumis à votre allergène. Pour chaque niveau de sévérité, vous subissez également les effets secondaires indiqués.\n\nFaible : vous subissez un malus de -2 à votre réserve de dés pour tout test avec un attribut physique tant que l’allergène vous affecte.\n\nModérée : vous subissez un malus de -4 à votre ré- serve de dés pour tout test avec un attribut physique tant que l’allergène vous affecte.\n\nGrave : vous subissez un malus de -4 à votre réserve de dés pour tout test avec un attribut physique tant que l’allergène vous affecte. Vous subissez également 1 case de dommages physiques auxquels vous ne pouvez pas résister par minute d’exposition à l’allergène.\n\nExtrême : vous subissez un malus de -6 à votre réserve de dés pour toutes vos actions et subissez 1 case de dommages physiques auxquels vous ne pouvez pas ré- sister par 30 secondes d’exposition à l’allergène.\n\n| ALLERGÈNE       | SÉVÉRITÉ      | MODIFICATEUR | \n|--------------------|-----------------|----------------|\n| Commun             | Extrême         | —              |\n| Saisonnier          | Grave               | –3             |\n| Peu commun     | Moyenne        | –6             |\n| Rare                      | Faible              | –9             |",
+    "value": 0,
+    "explain": "Bonus : 2 à 20 points de Karma. Le bonus le plus élevé de 20 points de Karma est pour une allergie mortelle à une substance commune.",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgaDNmfl48Bt0F",
+  "sort": 9200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgaDNmfl48Bt0F"
+}

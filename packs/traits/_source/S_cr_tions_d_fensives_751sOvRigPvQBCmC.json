@@ -1,0 +1,35 @@
+{
+  "name": "Sécrétions défensives",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre peau exsude un liquide protecteur en situation stressante ou dangereuse, à l’instar de certaines espèces de grenouilles. Ces sécrétions sont acides et provoquent une sensation de brûlure ou autre réaction cutanée en cas de contact. Si un individu non protégé touche votre peau nue, il subit un malus de −1 à la réserve de dés pour tous ses tests lors des 24 heures suivantes, à moins de se faire soigner grâce à un médikit et un test réussi de Biotech (Médecine) (2). Ce trait est sans effet sur les esprits. Des contacts successifs augmentent la pénalité à la réserve de dés, jusqu’à un maximum de −4.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "CwM7cjap6OUZpa4s",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752005161628,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "751sOvRigPvQBCmC",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!751sOvRigPvQBCmC"
+}

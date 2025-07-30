@@ -1,0 +1,35 @@
+{
+  "name": "Mentalité binaire",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Il y a des gens qui sont doués pour certaines choses, mais pas pour d’autres et on n’y peut rien… du moins vous en êtes persuadé. Cet état d’esprit bride vos capacités.\n\nEffets en jeu : choisissez Électronique ou Piratage. Vous êtes convaincu que peu importent vos efforts, vous ne parviendrez jamais à vous faire à cette compétence. Quand vous l’utilisez dans le cadre d’actions matricielles ou de formes complexes, vous ne pouvez pas utiliser de bonus ou d’actions d’Atout dont le coût excède 2 points.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311750829,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlC",
+  "sort": 100025,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlC"
+}

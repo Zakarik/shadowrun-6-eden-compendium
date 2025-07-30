@@ -1,0 +1,35 @@
+{
+  "name": "Obsession",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certaines personnes allègent leur souffrance en se gavant de substances illicites. Vous avez choisi une autre solution : un comportement que vous ne pouvez pas vous empêcher d’adopter, moins nocif, mais tout aussi toxique. Cela peut prendre n’importe quelle forme, des addictions psychologiques, comme les jeux d’argent ou les jeux vidéo de la Matrice, en passant par les «troubles obsessionnels compulsifs», comme ranger des objets dans un certain ordre ou se laver les mains de façon répétitive.\n\nEffets en jeu : vous devez pratiquer chaque jour l’activité choisie pendant un temps déterminé par le niveau de ce trait. Ne pas le faire provoque en vous un état de manque vous infligeant un malus de –2 à votre réserve de dé pour tous vos tests ; augmentez ce malus de 1 point à chaque fois que s’écoule une autre période égale au temps de sevrage. Comme avec le trait Addiction, tant que vous êtes en manque, vous ne pouvez d’aucune manière gagner ou dépenser de l’Atout. Cependant, comme pour le trait modifié Addiction décrit p 127, les personnages ne souffrent pas des effets des traits négatifs Anxiété, Dépression ou Paranoïa lorsqu’ils cèdent à leur obsession (le joueur et le maître de jeu doivent se mettre d’accord pour déterminer si le personnage est capable de faire d’autres actions en même temps que son obsession).",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma par niveau",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdhEvtl4EBtlH",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdhEvtl4EBtlH"
+}

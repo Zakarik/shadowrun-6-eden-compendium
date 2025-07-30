@@ -1,0 +1,35 @@
+{
+  "name": "Chevelure changeante",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La couleur de vos cheveux change en fonction de votre état émotionnel, ce qui permet aux observateurs d’effectuer un test de Jauger les intentions (p. 106, SR6) avec un bonus de +2 à la réserve de dés. Ce trait est incompatible avec toute modification capillaire, ainsi qu’avec les traits Plumes et Écailles.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "shDN7gVW5SIMYs5j",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007114187,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTrRigd8cVCWD",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTrRigd8cVCWD"
+}

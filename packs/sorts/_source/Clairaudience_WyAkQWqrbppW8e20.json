@@ -1,0 +1,42 @@
+{
+  "name": "Clairaudience",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e20",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La personne sur laquelle ce sort est lancé gagne la capacité d’entendre des sons distants. Le sujet peut choisir et déplacer la zone dans laquelle il écoute ; la dimension de cette zone est déterminée selon les règles normales des effets de zone et peut être ajustée avec Extension de zone et déplacée avec Déplacement de zone. Le sujet ne peut entendre que les sons dans la zone ciblée tant que le sort fait effet (et non les sons proches de la zone) et toute augmentation de l’ouïe dont il pourrait bénéficier n’a aucun effet.",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023445967,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e20"
+}

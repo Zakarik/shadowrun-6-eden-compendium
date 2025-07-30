@@ -1,0 +1,35 @@
+{
+  "name": "Mauvais souvenirs",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous ne pouvez pas supporter ces tridéos où le personnage principal «combat ses démons intérieurs» parce qu’ils vous touchent personnellement. Des trucs horribles vous sont arrivés et vous hantent encore aujourd’hui, en surgissant lorsque vous vous y attendez le moins ; et au pire moment.\n\nEffets en jeu : lorsque vous prenez (ou obtenez) ce trait, choisissez le sujet de vos Mauvais souvenirs. Lorsque vous êtes forcé de faire face à ce sujet, vous ne pouvez gagner au maximum qu’un seul point d’Atout par tour au lieu de deux.",
+    "value": 0,
+    "explain": "Bonus : 3 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdhEvtl4EBtlG",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdhEvtl4EBtlG"
+}

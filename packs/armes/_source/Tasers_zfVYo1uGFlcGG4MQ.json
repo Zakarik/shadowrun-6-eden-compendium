@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "godhpqHpuZ6Ia8wY",
+  "name": "Tasers",
+  "color": null,
+  "sorting": "a",
+  "_id": "zfVYo1uGFlcGG4MQ",
+  "description": "",
+  "sort": 328125,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751880968991,
+    "modifiedTime": 1752154483539,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!zfVYo1uGFlcGG4MQ"
+}

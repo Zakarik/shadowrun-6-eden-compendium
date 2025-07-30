@@ -1,0 +1,42 @@
+{
+  "name": "Contrôle des pensées",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e60",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce sort permet au lanceur d’entrer dans la tête de sa cible pour lui imposer sa volonté. Effectuez un test de Sorcellerie + Magie contre Volonté + Logique. Contrairement à Contrôle des actes, il n’est pas certain que la victime soit consciente qu’on utilise ce sort contre elle. Plus les pensées du lanceur sont proches de celles de la victime, moins cette dernière est susceptible de remarquer l’intrusion. À la discrétion du MJ, la victime peut effectuer un test de Logique + Intuition après la fin du sort pour savoir si elle peut se rendre compte qu’elle a été soumise à ses effets ; le seuil est alors basé sur la différence entre ses pensées normales et celles qu’elle a eues pendant qu’elle était contrôlée. Bien que le lanceur de sorts ait une forte influence sur les pensées de la cible, certains instincts sont très difficiles à neutraliser. Une victime va ainsi souvent résister à des pensées telles que « Je devrais sauter du sommet de ce bâtiment » ou « Je devrais attaquer mon meilleur ami/épouse/partenaire. » Avec de telles pensées, le MJ peut décider que la victime effectue un autre test de Volonté + Logique afin de résister à ce type de suggestion et elle peut utiliser de l’Atout avant le test si la pensée est trop étrangère à son attitude normale ou si elle viole ses instincts de base.",
+    "category": "manipulation",
+    "duration": "limited",
+    "drain": 4,
+    "type": "mana",
+    "range": "line_of_sight",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e60"
+}

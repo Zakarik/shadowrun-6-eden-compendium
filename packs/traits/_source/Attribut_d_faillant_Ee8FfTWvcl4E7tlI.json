@@ -1,0 +1,35 @@
+{
+  "name": "Attribut défaillant",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un de vos attributs matriciels est défaillant, vous êtes comme ça et vous n’y pouvez rien.\n\nEffets en jeu : choisissez un attribut matriciel entre Traitement de données et Firewall. Peu importe l’appareil que vous utilisez (même si vous possédez un persona incarné), cet attribut ne peut jamais être augmenté par des cyberprogrammes, des formes complexes, des échos ou des pouvoirs de sprite. Vous ne pouvez choisir ce trait qu’une seule et unique fois.",
+    "value": 0,
+    "explain": "Bonus : 7 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311376897,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlI",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlI"
+}

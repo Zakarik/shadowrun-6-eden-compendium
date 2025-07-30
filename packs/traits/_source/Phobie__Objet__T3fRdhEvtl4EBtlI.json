@@ -1,0 +1,35 @@
+{
+  "name": "Phobie (Objet)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez une réaction négative immédiate à la vue d’un certain objet, d’une certaine chose ou d’un certain phénomène, au point de faire tout ce qui est en votre pouvoir pour éviter la chose en question.\n\nEffets en jeu : vous n’irez jamais volontairement près (dans le sens où le sujet serait assez proche pour que vous pensiez qu’il peut vous nuire immédiatement) de la source de votre phobie et si vous y êtes forcé, vous ne pourrez pas gagner ou dépenser de l’Atout et vous subirez un malus de –2 dés à votre réserve de dé pour tout test, à l’exception des tests de résistance aux dommages, tant que votre Phobie vous paralyse. Vous devrez également faire un test de Sang-froid (3) toutes les cinq minutes ou interrompre toute activité, vous mettre en boule et espérer que le sujet de votre Phobie s’en aille.",
+    "value": 0,
+    "explain": "Bonus : Courant : 12 points de Karma ; Inhabituel : 9 points de Karma ; Rare : 6 points de Karma ; Extrêmement rare : 3 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdhEvtl4EBtlI",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdhEvtl4EBtlI"
+}

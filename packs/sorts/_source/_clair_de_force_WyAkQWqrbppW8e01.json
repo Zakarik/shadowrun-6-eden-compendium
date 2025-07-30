@@ -1,0 +1,42 @@
+{
+  "name": "Éclair de force",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e01",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Version plus extrême de Frappe à distance, Éclair de force inflige à une cible des dommages physiques.",
+    "category": "combat",
+    "duration": "instantaneous",
+    "drain": 4,
+    "type": "physical",
+    "range": "line_of_sight",
+    "damage": "physical",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "e0F7dwZ4Pg64MLCl",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753019001000,
+    "modifiedTime": 1753023494126,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e01"
+}

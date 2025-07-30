@@ -1,0 +1,35 @@
+{
+  "name": "Heuristique éblouissante",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez un don pour tirer le meilleur parti de votre puissance de calcul.\n\nEffets en jeu : si vous dépensez une action mineure pour préparer et calibrer votre puissance de calcul disponible immédiatement avant d’utiliser une action matricielle, vous recevez pour ce test un bonus à la réserve de dés égal à la moitié de votre attribut Traitement de données (arrondi au supérieur). Si vous n’utilisez pas immédiatement une action matricielle, le bonus est perdu. Ce trait ne peut être utilisé que par un persona s’exécutant sur un cyberdeck.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310786766,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RdhWvtl4EvtlC",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RdhWvtl4EvtlC"
+}

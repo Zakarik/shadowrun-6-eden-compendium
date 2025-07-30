@@ -1,0 +1,35 @@
+{
+  "name": "Autosatisfaction",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La curiosité est un vilain défaut, mais ce n’est pas ça qui va vous arrêter, pas vrai ?\n\nEffets en jeu : quand vous réussissez à décrypter un fichier ou à désamorcer une bombe matricielle, gagnez un point d’Atout. Cet effet ne se déclenche pas si le cryptage ou la bombe ont été placés uniquement dans ce but : vous ne gagnez de l’Atout que dans les situations qui comptent, à la discrétion du maître de jeu.",
+    "value": 0,
+    "explain": "Coût : 3 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310157165,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlL",
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlL"
+}

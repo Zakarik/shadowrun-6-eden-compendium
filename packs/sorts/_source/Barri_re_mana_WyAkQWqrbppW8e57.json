@@ -1,0 +1,42 @@
+{
+  "name": "Barrière mana",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e57",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce sort crée une barrière mana sur le plan physique ou astral, au choix du magicien, dont les effets sont décrits p. 164. Pour lancer une Barrière mana, effectuez un test de Sorcellerie + Magie ; l’indice de Structure du mur astral que vous créez est égal à (succès nets + Magie du lanceur). De base, ce sort génère une barrière de deux mètres sur deux et de deux centimètres d’épaisseur. Extension de zone peut permettre d’ajouter deux mètres en longueur et en largeur (mais pas en épaisseur) à chaque fois qu’on choisit cet effet. Le lanceur de sort peut choisir comme il le souhaite la forme de sa barrière.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 5,
+    "type": "mana",
+    "range": "line_of_sight_area",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e57"
+}

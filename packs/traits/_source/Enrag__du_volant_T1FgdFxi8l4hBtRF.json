@@ -1,0 +1,35 @@
+{
+  "name": "Enragé du volant",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ça fait si longtemps que vous affrontez les routes du Sixième Monde que vous êtes constamment à cran quand vous êtes au volant. Dès que quelqu’un vous cause du tort, vous n’avez qu’une idée en tête: lui rendre la monnaie de sa pièce.\n\nEffets en jeu : si le véhicule ou drone que vous pilotez subit des dommages, vous ne pouvez obtenir et dépenser de l’Atout que lors de tests opposés contre la cible qui les a occasionnés, jusqu’à ce que celle-ci soit détruite ou que la rencontre soit terminée.",
+    "value": 0,
+    "explain": "Bonus : 7 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209005,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T1FgdFxi8l4hBtRF",
+  "sort": 3400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T1FgdFxi8l4hBtRF"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Lard",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces couches de graisse dense et de tissus hautement vascularisés servent d’isolant thermique et offrent une remise d’Atout de 1 pour résister aux dommages et aux attaques à base de froid. Ce trait annule tous les états Frigorifié (p. 56, SR6) de source non-magique.\n\nEffets en jeu : Ce trait offre une protection contre les attaques de froid.",
+    "value": 0,
+    "explain": "Coût : 3 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "UamIrk3QcoyTELnC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004548830,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f9haSeNi8l43BtPH",
+  "sort": 118750,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f9haSeNi8l43BtPH"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "PIHpeauteur",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous comprenez le système de score de Persona Interne d'Horizon et êtes capable de le manipuler avec n'importe quel faux SIN Horizon.\n\nEffets en jeu : Lorsque vous utilisez un SIN Horizon sur des propriétés d'Horizon, vous obtenez un Edge sur tous les tests sociaux.",
+    "value": 0,
+    "explain": "Coût : 6 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7f5dcWvtl4EmtlF",
+  "sort": 2000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7f5dcWvtl4EmtlF"
+}

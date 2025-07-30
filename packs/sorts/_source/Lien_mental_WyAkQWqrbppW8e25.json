@@ -1,0 +1,42 @@
+{
+  "name": "Lien mental",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e25",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les commlinks et les sms ? C’est du passé. Projeter ses pensées dans celles d’un autre est la méthode de communication ultime ! Dès le premier succès à votre test de Sorcellerie + Magie, vous établissez un lien et vous pouvez partager une communication mentale avec le sujet du sort sous la forme qui vous paraît la plus sensée. Le lanceur de sorts et le sujet doivent rester à portée l’un de l’autre pour que le lien continue à fonctionner ; s’ils s’écartent trop avant de revenir à portée, ils peuvent reprendre leur communication tant que le sort a été maintenu sans interruption.",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 100782,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023575955,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e25"
+}

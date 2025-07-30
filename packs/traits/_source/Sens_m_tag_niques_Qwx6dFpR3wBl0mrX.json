@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "UamIrk3QcoyTELnC",
+  "name": "Sens métagéniques",
+  "color": "#724d40",
+  "sorting": "a",
+  "_id": "Qwx6dFpR3wBl0mrX",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752008324388
+  },
+  "_key": "!folders!Qwx6dFpR3wBl0mrX"
+}

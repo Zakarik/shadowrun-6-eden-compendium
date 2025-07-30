@@ -1,0 +1,42 @@
+{
+  "name": "Fantasme",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e42",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Avec ce sort, l’utilisateur projette une image dans la zone d’effet (avec les sons et les odeurs qui vont avec). Il peut s’agir de l’image d’un dragon qui attaque, d’un jardin bucolique ou celle d’un individu ; quoi qu’il en soit, cela doit être quelque chose que le lanceur de sorts a déjà vu et le fantasme doit rester dans sa ligne de vue. Le lanceur de sorts effectue un test de Sorcellerie + Magie : les succès nets forment le seuil à atteindre pour tout test de Volonté + Intuition visant à déjouer cette illusion. Fantasme n’affecte que les êtres vivants qui voient l’illusion.",
+    "category": "illusion",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "line_of_sight_area",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": true,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "DE7yIBPKeBfTG7Vl",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023561193,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e42"
+}

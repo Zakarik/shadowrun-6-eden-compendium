@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "godhpqHpuZ6Ia8wY",
+  "name": "Pistolets de poche",
+  "color": null,
+  "sorting": "a",
+  "_id": "qshnBGw26rl5knNW",
+  "description": "",
+  "sort": 325000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751881550070,
+    "modifiedTime": 1752154477090,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!qshnBGw26rl5knNW"
+}

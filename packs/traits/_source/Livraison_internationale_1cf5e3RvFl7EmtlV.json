@@ -1,0 +1,35 @@
+{
+  "name": "Livraison internationale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Wuxing n'est pas étranger à l'utilisation de son réseau mondial d'expédition et de ses privilèges extraterritoriaux pour transporter des cargaisons que les gouvernements locaux considèrent comme illégales. Vous avez une connexion chez Wuxing qui vous permet de déplacer une quantité raisonnable de marchandises entre les grandes villes sans craindre qu'elles ne soient saisies par les autorités locales.\n\nEffets en jeu : La définition de « quantité raisonnable » est à la discrétion du maître de jeu, bien que généralement la valeur marchande des biens ne doit pas atteindre six chiffres. Les « grandes villes » sont celles comptant au moins un million d'habitants. Le temps nécessaire pour arriver est d'environ un jour pour chaque 4 000 kilomètres parcourus (minimum un jour).",
+    "value": 0,
+    "explain": "Coût : 4 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "1cf5e3RvFl7EmtlV",
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!1cf5e3RvFl7EmtlV"
+}

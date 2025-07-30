@@ -1,0 +1,35 @@
+{
+  "name": "Peau glissante",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "En situation de stress ou de fatigue, des glandes de sudation situées sous votre peau produisent un lubrifiant qui recouvre votre corps d’un film huileux et luisant. Celui-ci ne gêne en rien vos actions mais vous rend plus difficile à agripper, ce qui augmente votre SD de 4 contre les attaques de lutte si plus de la moitié de votre surface cutanée est exposée. Ce trait est incompatible avec d’autres modifications de la peau ou de la pilosité, naturelles ou artificielles, à l’exception de Sécrétions défensives.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "CwM7cjap6OUZpa4s",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752005168476,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "751sOvRigPvQBCmB",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!751sOvRigPvQBCmB"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Cornes perforantes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces cornes peuvent servir d’arme avec les caractéristiques suivantes : Combat rapproché (mains nues) avec une VD de 3P et un SO de 7+FOR/—/—/—/— ; la VD est modifiée par la Force.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004570654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f99aS4RigPv3BtPD",
+  "sort": 1700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f99aS4RigPv3BtPD"
+}

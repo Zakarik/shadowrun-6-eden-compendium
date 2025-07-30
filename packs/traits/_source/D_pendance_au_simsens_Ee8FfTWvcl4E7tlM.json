@@ -1,0 +1,35 @@
+{
+  "name": "Dépendance au simsens",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous vous êtes inséré la BTL de trop. D’accord, il y en avait peut-être plus d’une. Ou alors une CI bien vicieuse vous a littéralement grillé le cerveau. Désormais la vie perçue à travers vos propres sens vous paraît presque irréelle. Dès que vous arrêtez d’utiliser le simsens, les problèmes commencent à pleuvoir.\n\nEffets en jeu : Lorsque vous utilisez la VR chaud, vous vous sentez bien. La VR froid est presque aussi bonne — bien que vous puissiez toujours dépenser de l'Atout, vous ne pouvez pas en gagner. Cela n'empêche pas votre Atout de se rafraîchir au début d'une session. Le mode AR vous aide à vous en sortir lorsque vous devez vous déplacer dans le monde physique, mais cela ne se sent pas bien. Pendant que vous êtes en mode AR, vous ne pouvez ni gagner ni dépenser d’Atout sur des actions Matricielles. Toute action d'Atout ou boost sur des actions non-Matricielles coûte 1 point d'Atout supplémentaire que d'habitude. Lorsque vous ne pouvez même pas utiliser le mode AR, vous êtes dans une mauvaise situation. Vous commencez à avoir des tremblements, et tout commence à sembler irréel. Jusqu'à ce que vous puissiez revenir à l'utilisation du mode AR ou VR, vous gagnez la condition État Détendu. Les personnages éveillés ne peuvent pas prendre cette qualité.",
+    "value": 0,
+    "explain": "Bonus : 16 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311638822,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlM",
+  "sort": 100098,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlM"
+}

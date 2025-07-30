@@ -1,0 +1,35 @@
+{
+  "name": "Focus vivant",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Focus vivant permet à un adepte de concentrer son mana interne et de l’utiliser comme une batterie, afin de maintenir un sort lancé sur lui (ce qui agit comme un focus de maintien). En utilisant ce pouvoir pour maintenir un sort, il retire ce fardeau au lanceur de sort sans que cela ne requière de test, mais l’adepte subit, comme d’ordinaire, le malus de -2 à la réserve de dés, par le fait de maintenir ce sort. L’adepte suit les règles normales de maintien de sort et s’il n’est plus en mesure de le faire, le mage peut décider de continuer de le maintenir lui-même ou d’y mettre fin. Les niveaux supplémentaires de Focus vivant permettent aux adeptes de maintenir un sort supplémentaire par rang de Focus vivant ou peuvent être investis pour réduire le malus de maintien de sort (chaque rang supplémentaire de Focus vivant, destiné à maintenir un sort, peut diminuer le malus de 1). Ces bonus sont choisis au moment de chaque utilisation du pouvoir. Par exemple, Focus vivant 3 permet à un adepte de maintenir un sort à lui seul sans aucun malus, trois sorts pour un malus total de -6 ou deux sorts pour un malus total de -3.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 1,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524639,
+    "modifiedTime": 1753795524639,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e39",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e39"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Focus métamagique",
+  "type": "focus",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Lien : Puissance x 3\nCoût : Puissance x 9000\nDIsponibilité : (Puissance)L\n\nUtilisé pour amplifier diverses capacités métamagiques ; un focus différent doit être utilisé pour chaque talent métamagique.",
+    "rating": 1
+  },
+  "effects": [],
+  "folder": "XBOBogKiq31g0DEI",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1752239293360,
+    "modifiedTime": 1752247161338,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Y1F41EpRePfV1pWD",
+  "sort": 103125,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Y1F41EpRePfV1pWD"
+}

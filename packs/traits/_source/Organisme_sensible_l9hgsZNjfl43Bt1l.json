@@ -1,0 +1,35 @@
+{
+  "name": "Organisme sensible",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Il peut s’agir d’un talent arcanique latent qui ne s’est pas encore manifesté ou juste d’un système immunitaire hyperactif. Votre corps ne tolère pas que quelque chose de non naturel lui soit greffé ou implanté.\n\nEffets en jeu : le coût en Essence est doublé pour tout cyberware, bioware et nanoware. Vous ne pouvez avoir ce trait si vous avez un indice de Magie ou de Résonance.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsZNjfl43Bt1l",
+  "sort": 7400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsZNjfl43Bt1l"
+}

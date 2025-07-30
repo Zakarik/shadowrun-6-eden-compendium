@@ -1,0 +1,42 @@
+{
+  "name": "Analyse de la véracité",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e19",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le sujet du sort peut sentir si la cible dit la vérité ou tout du moins si elle croit la dire. Avec au moins 1 succès net, vous le savez. Notez que le sujet du sort doit pouvoir entendre directement ce qui est dit pour pouvoir l’évaluer ; des déclarations écrites, des enregistrements ou des transmissions audio/vidéo ne peuvent être analysés. Parce que c’est le mana, voilà pourquoi.",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023361767,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e19"
+}

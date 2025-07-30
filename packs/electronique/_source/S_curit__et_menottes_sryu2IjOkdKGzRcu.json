@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Sécurité et menottes",
+  "color": null,
+  "sorting": "a",
+  "_id": "sryu2IjOkdKGzRcu",
+  "description": "",
+  "sort": 1000000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1752263110641,
+    "modifiedTime": 1752263113588,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!sryu2IjOkdKGzRcu"
+}

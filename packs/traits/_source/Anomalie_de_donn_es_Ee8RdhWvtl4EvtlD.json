@@ -1,0 +1,35 @@
+{
+  "name": "Anomalie de données",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Lorsque vous ne voulez pas être remarqué sur la Matrice, vous connaissez quelques astuces supplémentaires qui vous aident à rester caché.\n\nEffets en jeu : quand vous êtes en mode silencieux, vous bénéficiez d’une remise d’Atout de 1 pour résister à chaque test de Perception matricielle réalisé pour vous détecter ou n’importe quelle icône de votre réseau.",
+    "value": 0,
+    "explain": "Coût : 5 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310218377,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RdhWvtl4EvtlD",
+  "sort": 1700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RdhWvtl4EvtlD"
+}

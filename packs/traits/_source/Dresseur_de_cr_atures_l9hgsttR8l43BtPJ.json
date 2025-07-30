@@ -1,0 +1,35 @@
+{
+  "name": "Dresseur de créatures",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous êtes un expert en dressage d’animaux et de créatures non pensantes et pouvez leur faire suivre des ordres précis.\n\nEffets en jeu : avant toute chose, la créature doit être apprivoisée. Cela requiert une semaine de travail et un test réussi d’Influence + Charisme contre son Intuition + Volonté. Une fois apprivoisée, vous pouvez commencer à l’entraîner. Chaque tentative prend une semaine et demande un nouveau test ; une réussite vous permet d’enseigner une nouvelle commande à la créature. Chacune ne peut apprendre qu’un nombre maximum de commandes égal à sa Logique × 2. Pour chaque commande vous devez définir un déclencheur et une action spécifique. Le premier peut consister en un son, un geste ou autre que la créature doit être capable de percevoir. Une fois l’ordre donné, elle exécute l’action prédéfinie. Donner un ordre à une créature requiert une action mineure.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsttR8l43BtPJ",
+  "sort": 6900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsttR8l43BtPJ"
+}

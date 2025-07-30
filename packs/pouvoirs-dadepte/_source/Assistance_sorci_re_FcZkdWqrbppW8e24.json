@@ -1,0 +1,35 @@
+{
+  "name": "Assistance sorcière",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte doté de ce pouvoir peut canaliser sa magie innée, afin d’aider un mage à proximité à lancer un sort. L’adepte doit toucher le lanceur de sort et dépenser une action majeure pour établir une connexion de mana entre eux. Il devra maintenir le contact physique et dépenser une action mineure pendant chaque round consécutif pour garder cette connexion active. Un magicien qui lance un sort alors qu’une telle connexion est maintenue bénéficie d’une remise d’Atout égale au rang d’Assistance sorcière de l’adepte pour n’importe quel test de Sorcellerie (y compris Contresort et Magie rituelle). À chaque fois qu’un lanceur de sort utilise cette remise, l’adepte doit résister au Drain sous forme de dommages étourdissants, égaux à la valeur de la remise effectivement utilisée.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524624,
+    "modifiedTime": 1753795524624,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e24",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e24"
+}

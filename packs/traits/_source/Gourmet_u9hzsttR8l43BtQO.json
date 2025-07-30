@@ -1,0 +1,35 @@
+{
+  "name": "Gourmet",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nLa nourriture vulgaire est une insulte à votre palais raffiné.\n\nEffets en jeu : chaque fois que vous mangez de la nourriture indigne d’un style de vie élevé ou plus, vous subissez l’état Nauséeux pendant une heure. Les fast foods, les plats instantanés, les produits Stuffer Shack et en général tout ce qui coûte moins de 20¥ par portion provoquera chez vous un profond inconfort.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtQO",
+  "sort": 5400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtQO"
+}

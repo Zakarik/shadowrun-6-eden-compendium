@@ -1,0 +1,35 @@
+{
+  "name": "Accro au combat",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous êtes toujours prêt pour une bonne bagarre et vous avez du mal à vous refréner, même s’il sera plus sage d’éviter le combat.\n\nEffets en jeu : quand quelqu’un tente de vous pousser à recourir à la violence, il bénéficie d’une remise d’Atout de 1 sur ses tests d’Influence ou d’Escroquerie contre vous. Vous ne pouvez pas gagner ou dépenser d’Atout sur l’action Jauger les intentions, mis à part en combat. À moins d’avoir subi au moins 6 cases de dommages (éventuellement réparties sur des moniteurs de condition différents), vous ne pouvez pas fuir un affrontement sans subir de pénalité. En cas de fuite, vous ne pouvez plus gagner ou dépenser d’Atout ; cet effet prend fin dès que vous entrez à nouveau dans un combat ou au début de la prochaine séance.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtPA",
+  "sort": 6300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtPA"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Invocateur timide",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Que ce soit dû à une mauvaise expérience dans le passé ou aux spécificités de son éducation arcanique, le magicien est frappé de stupeur à chaque fois qu’il invoque un esprit. L’esprit, qui sent son malaise, prend le dessus et exécute souvent les ordres du conjurateur à la lettre : il ne fera rien de plus, mais il se peut qu’il ait envie de faire bien moins (en cours de route, l’esprit fera preuve d’un comportement capricieux ou arrogant, selon la tradition du magicien). Un invocateur timide doit être très précis dans sa formulation, à moins d’être prêt à ce que l’esprit le fasse tourner en rond.\n\nEffets en jeu : les esprits invoqués par le magicien font en sorte de mal interpréter ses ordres (à la discrétion du maître de jeu). Si le magicien veut s’assurer qu’il n’y a aucune faille dans ses instructions, il doit se poser avant la conjuration et faire un test étendu de Conjuration + Intuition (8, 5 min) pour bien formuler ses prochains ordres.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdFEvtl4EBtlG",
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdFEvtl4EBtlG"
+}

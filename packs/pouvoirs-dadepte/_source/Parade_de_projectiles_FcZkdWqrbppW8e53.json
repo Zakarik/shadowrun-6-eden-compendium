@@ -1,0 +1,35 @@
+{
+  "name": "Parade de projectiles",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Grâce à ses réflexes surnaturels et sa coordination œil-main, un adepte maîtrisant la Parade de projectiles bénéficie d’une protection supplémentaire contre les armes à projectiles et les armes de jet non explosives (pour clarifier, les balles comptent comme explosives, compte tenu de la façon dont elles sont projetées). Lorsque l’adepte est attaqué de cette manière, il peut utiliser l’action mineure Bloquer (p. 46, SR6), qui lui permet d’ajouter sa compétence en Combat rapproché à son test de Défense, bien que ce ne soit pas un combat au corps à corps. Si les succès nets de l’adepte au test pour Bloquer excèdent la base de dommages du projectile ou de l’arme de jet, il peut, s’il le souhaite, rattraper l’arme au lieu de la dévier.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524653,
+    "modifiedTime": 1753795524653,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e53",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e53"
+}

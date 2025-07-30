@@ -1,0 +1,35 @@
+{
+  "name": "Porteur sain (type)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Bonne nouvelle mon pote ! Tu n’es pas infecté par le VVHMH ! Malheureusement le virus fait partie de toi désormais et tu courras toujours le risque de le transmettre à d’autres. \n\nEffet en jeu : vous pouvez choisir ce trait deux fois, une pour chacune des souches II et III. Il est possible d’être Infecté par l’une et d’être porteur de l’autre. En revanche vous ne pouvez pas être infecté par une souche dont vous êtes déjà porteur. Un personnage exposé à vos fluides corporels doit effectuer un test de résistance à la maladie (voir p. 104) pour chacune des souches concernées. Un individu contaminé par un porteur double ne peut développer qu’un seul des deux types de virus ; le cas échéant il devient Infecté au premier et porteur du second. Vous souffrez d’un malus de −2 à la réserve de dés pour tous vos tests sociaux face aux personnes conscientes de votre état. De plus votre Réputation diminue de 1 point pour chaque souche du virus VVHMH dont vous êtes porteur.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "xi1vwNvFRZh3rhCD",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752008657681,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fxFrChRfcQFWA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fxFrChRfcQFWA"
+}

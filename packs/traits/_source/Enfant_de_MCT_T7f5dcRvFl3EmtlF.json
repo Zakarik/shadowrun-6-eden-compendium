@@ -1,0 +1,35 @@
+{
+  "name": "Enfant de MCT",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez été élevé pour considérer MCT au-dessus de toutes les autres corporations. Même si vous n'êtes plus citoyen ou que vous avez été qualifié de criminel, vous refusez de travailler contre votre ancienne famille. Vous allez même jusqu'à donner des informations lorsque vous apprenez des nouvelles sur d'autres travaillant contre la corporation.\n\nEffets en jeu : Cette qualité devient de plus en plus intéressante pour les factions de MCT à mesure que les disputes internes s'intensifient, et l'information fournie pourrait être ignorée ou tracée pour savoir qui a des langues fourchues.",
+    "value": 0,
+    "explain": "Coût : 4 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7f5dcRvFl3EmtlF",
+  "sort": 2700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7f5dcRvFl3EmtlF"
+}

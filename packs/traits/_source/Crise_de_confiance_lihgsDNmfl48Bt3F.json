@@ -1,0 +1,35 @@
+{
+  "name": "Crise de confiance",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "À cause d’un syndrome de l’imposteur, d’un échec traumatisant ou tout simplement de trop de rejets, vous doutez constamment de vos capacités.\n\nEffets en jeu : au cours d’une rencontre, le runner doit effectuer un test de Volonté (2) avec une action mineure. En cas d’échec, il ne peut gagner ou dépenser de l’Atout pendant toute la rencontre.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "lihgsDNmfl48Bt3F",
+  "sort": 8800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!lihgsDNmfl48Bt3F"
+}

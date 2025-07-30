@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "TT7HYMa8ijXaF2w3",
+  "name": "Tares métagéniques",
+  "color": "#4b7240",
+  "sorting": "a",
+  "_id": "vIQxa9im0vYpljDZ",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": "YXRhL30UpQBOrt4l",
+    "modifiedTime": 1752008290891
+  },
+  "_key": "!folders!vIQxa9im0vYpljDZ"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Venin naturel",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous possédez un venin naturel similaire à celui de nombreuses autres espèces. Pour en déterminer le coût et les effets, consultez la liste qui suit. \n\nVecteur : contact (3), inhalation (3), injection (1), crachat (5). Rapidité : 1 round (3), Immédiate (5). \nVirulence : 1 par niveau ; niveau max : 8. \nEffet : Étourdissant (3), Physique (5). \n\nL’effet inclut toujours les états Désorienté et Empoisonné, le niveau de ce dernier étant égal à la Virulence du venin. L’effet choisi détermine si les dommages sont physiques ou étourdissants. Le coût en Karma de ce trait est égal à la somme des coûts de Vecteur, Rapidité, Virulence et Effet. \n\nExemple : Vecteur : injection et crachat (6) ; Rapidité : 1 round (3) ; Virulence : 6 (6) ; Effet : Étourdissant ; Coût total en Karma : 18. \n\nInjection nécessite des Crocs (voir plus bas). \nContact nécessite une attaque de Combat rapproché (mains nues) pour toucher ou peut être combinée avec des Piquants, une Langue de crapaud, des Griffes rasoir ou des Épines. \nCrachat requiert Armes exotiques (crachat), SO 5/—/—/—/—.",
+    "value": 0,
+    "explain": "Coût : voir description",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "CwM7cjap6OUZpa4s",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752005252887,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "751sOvRigPvQBCmD",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!751sOvRigPvQBCmD"
+}

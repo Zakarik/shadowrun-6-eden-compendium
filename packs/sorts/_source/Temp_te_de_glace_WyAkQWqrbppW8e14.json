@@ -1,0 +1,42 @@
+{
+  "name": "Tempête de glace",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e14",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quand tous les agents de sécurité corporatistes auxquels vous vous heurtez commencent à porter des sous-vêtements ignifuges, il est temps de changer un peu et d’utiliser un autre extrême dans le domaine des températures. Ces sorts affectent leurs cibles avec un froid glacial en infligeant des dommages élémentaires de Froid (p. 114) et imposent l’état Frigorifié (p. 56) pendant un nombre de rounds de combat égal aux succès nets du test de Lancement de sorts. Tempête de glace est un sort à effet de zone.",
+    "category": "combat",
+    "duration": "instantaneous",
+    "drain": 6,
+    "type": "physical",
+    "range": "line_of_sight_area",
+    "damage": "physical_special",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "DbOxiOV3L3HGhzwX",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023763257,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e14"
+}

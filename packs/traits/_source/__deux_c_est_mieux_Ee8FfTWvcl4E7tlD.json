@@ -1,0 +1,35 @@
+{
+  "name": "À deux c’est mieux",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Sans quelqu’un pour surveiller vos arrières, vous ne vous sentez pas assez en sécurité pour vous concentrer pleinement.\n\nEffets en jeu : quand vous êtes seul, vous ne pouvez gagner qu’un seul point d’Atout au maximum par tour de combat. Si vous vous trouvez dans l’espace astral, seuls les alliés actifs astralement sont pris en compte dans le cadre de ce trait, mais un esprit invoqué suffit à vous prémunir de cette pénalité. Si vous êtes en RV, seuls les alliés présents avec vous dans la Matrice vous font vous sentir moins seul, mais si vous gardez un programme agent, un sprite ou même un autostoppeur SimShare à proximité, vous pouvez remédier au problème.",
+    "value": 0,
+    "explain": "Bonus : 7 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311265839,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlD",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlD"
+}

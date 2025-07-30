@@ -1,0 +1,35 @@
+{
+  "name": "Canine/Féline",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce trait est particulièrement courant, avec toute une variété de déclinaisons canines et félines. Il s’accompagne d’un menton plus prononcé, de légères altérations dentaires (pas suffisantes pour en faire des armes) et même de changements dans la disposition des oreilles.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "vnl9zVyNZRQjW4Bt",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007852903,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fTRRXxd5cVFWH",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fTRRXxd5cVFWH"
+}

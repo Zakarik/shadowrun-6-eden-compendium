@@ -1,0 +1,35 @@
+{
+  "name": "Décharge d’adrénaline",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous bénéficiez d’un surcroît d’énergie pour réagir plus vite que les autres. Pour chaque niveau de ce pouvoir, vous ajoutez 2 points à votre Score d’Initiative pendant (Magie) rounds de combat. Après ce nombre de rounds de combat, vous subissez un Drain égal au niveau du pouvoir auquel vous résistez normalement.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "minor_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524609,
+    "modifiedTime": 1753795524609,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e09",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e09"
+}

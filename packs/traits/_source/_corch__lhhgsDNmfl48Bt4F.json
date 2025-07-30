@@ -1,0 +1,35 @@
+{
+  "name": "Écorché",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Une expérience matricielle, de simsens ou de BTL a grillé vos neurones et vous êtes constamment sur les nerfs quand vous êtes connecté, même lorsque vous n’utilisez que la RA.\n\nEffets en jeu : vous ne pouvez dépenser de l’Atout quand vous êtes connecté à la Matrice. Cela inclut une connexion par l’intermédiaire d’un commlink, d’un smartlink et toute autre source de transmission de données.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "lhhgsDNmfl48Bt4F",
+  "sort": 8700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!lhhgsDNmfl48Bt4F"
+}

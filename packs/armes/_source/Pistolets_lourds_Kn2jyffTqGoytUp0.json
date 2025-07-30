@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "godhpqHpuZ6Ia8wY",
+  "name": "Pistolets lourds",
+  "color": null,
+  "sorting": "a",
+  "_id": "Kn2jyffTqGoytUp0",
+  "description": "",
+  "sort": 312500,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751884018092,
+    "modifiedTime": 1752154479988,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!Kn2jyffTqGoytUp0"
+}

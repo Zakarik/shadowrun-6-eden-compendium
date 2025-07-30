@@ -1,0 +1,42 @@
+{
+  "name": "Analyse de la magie",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e18",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Parfois, vous avez besoin de savoir quel est l’effet d’une magie sans percevoir l’astral. Considérez ce sort comme si vous utilisiez l’Observation astrale (voir p. 162). Le test s’oppose à 2 × le total des succès du test de compétence d’origine (Conjuration, Enchantement ou Sorcellerie) qui a généré l’effet magique que vous analysez.",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023360286,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e18"
+}

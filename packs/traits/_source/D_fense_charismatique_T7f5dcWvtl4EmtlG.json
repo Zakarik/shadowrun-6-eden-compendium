@@ -1,0 +1,35 @@
+{
+  "name": "Défense charismatique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Soit vous êtes trop beau pour être touché, soit votre esprit vif ou votre langue acérée déstabilisent le jeu de vos adversaires.\n\nEffets en jeu : Votre cote de défense est basée sur votre Charisme plutôt que sur votre Corps.",
+    "value": 0,
+    "explain": "Coût : 12 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7f5dcWvtl4EmtlG",
+  "sort": 2900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7f5dcWvtl4EmtlG"
+}

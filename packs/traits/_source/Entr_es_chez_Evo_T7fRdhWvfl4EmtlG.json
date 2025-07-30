@@ -1,0 +1,35 @@
+{
+  "name": "Entrées chez Evo",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez une connexion chez Evo qui vous fait partie des personnes qu'ils contactent lorsqu'ils veulent tester de nouveaux équipements.\n\nEffets en jeu : Avoir une relation avec Evo signifie que vous pouvez accepter ces lucratives (et dangereuses) missions de test de technologie. Cette qualité ouvre la possibilité pour Evo d'offrir du matériel au personnage à tester. Les pièces en question dépendent du maître de jeu, et elles doivent toujours comporter un potentiel d'échec ou de folie pour garder les choses intéressantes.",
+    "value": 0,
+    "explain": "Coût : 4 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7fRdhWvfl4EmtlG",
+  "sort": 2600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7fRdhWvfl4EmtlG"
+}

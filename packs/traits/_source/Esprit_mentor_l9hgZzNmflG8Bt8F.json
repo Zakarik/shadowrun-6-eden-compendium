@@ -1,0 +1,35 @@
+{
+  "name": "Esprit mentor",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous croyez qu’une autre force que vous-même vous aide à canaliser votre magie et que cette autre chose croit en vous. Que ce soit le totem du Loup, la divinité nordique Loki ou le Dieu chrétien, vous utilisez vos croyances pour modeler et focaliser plus facilement vos capacités arcaniques.\n\nEffets en jeu : vous gagnez les avantages indiqués avec la description de votre esprit mentor (voir p. 165). Si vous ne respectez pas ses dogmes, vous perdez la foi et le lien avec votre mentor et tous les avantages qu’il vous confère.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgZzNmflG8Bt8F",
+  "sort": 9700000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgZzNmflG8Bt8F"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Augmentation de réflexes",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e30",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "La cible augmente sa vitesse et réagit plus vite, ce qui lui permet de mieux anticiper les situations et de réagir plus vite aux actions des autres. Le lanceur de sorts effectue un test de Sorcellerie + Magie (5 - Essence), ce qui fournit donc un succès automatique si la cible a une Essence de 6. Le mage peut choisir le nombre de succès nets qu’il utilise pour augmenter à la fois le rang de Réaction et le nombre de dés d’initiative de la cible au taux de 1 point d’augmentation et de 1 dé d’initiative par succès net sans pouvoir dépasser 5 dés d’initiative. Chaque dé d’initiative gagné grâce à ce sort fournit une action mineure supplémentaire, tel que décrit p. 43. Pour chaque succès net utilisé après le premier, le Drain du sort est augmenté de 1 point. Les effets de ce sort ne s’appliquent pas en Réalité Virtuelle.",
+    "category": "health",
+    "duration": "sustained",
+    "drain": 5,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": true,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "rczjYlNm1pBWGSVU",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023414775,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e30"
+}

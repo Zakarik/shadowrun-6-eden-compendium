@@ -1,0 +1,35 @@
+{
+  "name": "Ennemi des drones",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains disent que les ordinateurs leur en veulent. Vous, c’est les drones. Il y a quelque chose chez vous qui énerve leurs algorithmes. Et personne ne croira que les drones de circulation vous font poireauter plus longtemps aux feux que les autres.\n\nEffets en jeu : en combat, les drones ont tendance à vous cibler quand ils ont le choix. Vos propres drones sont récalcitrants, peu importe combien de fois vous réinitialisez leur autopilote. À moins d’être en plongée à l’intérieur, vous ne pouvez pas dépenser d’Atout pour les piloter ni bénéficier de leur assistance (par exemple dans le cadre d’une équipe de mécanos ou quand vous utilisez un kit d’Ingénierie; voir p. 163). Pour tous les autres drones, c’est vous la seule cible de leur agressivité, c’est donc un problème difficile à prouver ou à cerner (le maître de jeu décide de la manière dont cela se traduit dans la partie).",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209004,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T1FgdFxi8l4hBtRE",
+  "sort": 3500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T1FgdFxi8l4hBtRE"
+}

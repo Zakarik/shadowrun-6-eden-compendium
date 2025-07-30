@@ -1,0 +1,42 @@
+{
+  "name": "Ténèbres",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e63",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Permet de diminuer le niveau de luminosité de la zone autour de vous. Pour chaque succès net, vous pouvez baisser le niveau de luminosité. Sort à effet de zone, ajustable avec Extension de zone et Déplacement de zone.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "physical",
+    "range": "line_of_sight_area",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023797833,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e63"
+}

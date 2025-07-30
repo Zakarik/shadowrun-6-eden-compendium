@@ -1,0 +1,35 @@
+{
+  "name": "Poche marsupiale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous développez une poche sur votre poitrine ou votre abdomen, exactement comme celles que les kangourous utilisent pour transporter leurs petits. Elle équivaut à un Compartiment de contrebande (p. 294, SR6).",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004570654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f91Zd4RigPv3BCcF",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f91Zd4RigPv3BCcF"
+}

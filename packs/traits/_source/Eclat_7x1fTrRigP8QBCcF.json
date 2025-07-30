@@ -1,0 +1,35 @@
+{
+  "name": "Eclat",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Aux yeux de tous les êtres pensants, vous êtes doté d’une grâce surnaturelle. Votre maintien solaire et votre voix profondément émouvante bouleversent et inspirent tous ceux à qui vous adressez la parole. Vous gagnez une remise d’Atout de 1 sur tous vos tests sociaux à vue non-agressive. Les possesseurs de ce trait sont particulièrement mémorables, ce qui octroie une remise d’Atout de 1 à tous ceux qui effectuent un test de mémoire pour se souvenir d’un tel individu ou de ses actions.",
+    "value": 0,
+    "explain": "Coût : 12 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "YFqt4X2dDSmvEatU",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006420813,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1fTrRigP8QBCcF",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1fTrRigP8QBCcF"
+}

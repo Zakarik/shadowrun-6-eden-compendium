@@ -1,0 +1,35 @@
+{
+  "name": "Déflagration fractale",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains hackers ne jurent que par leur attribut Attaque, mais pour donner un coup de fouet à vos Pics de données vous n’avez besoin que de mathématiques pures.\n\nEffets en jeu : dépensez une action mineure pour concentrer votre puissance de calcul dans une action Pic de données et augmenter sa VD de base de la moitié de votre attribut Traitement de données (arrondi à l’inférieur). Si vous n’utilisez pas un Pic de données immédiatement après cette action mineure, le bonus disparaît. Ce trait ne peut être utilisé que par un persona s’exécutant sur un cyberdeck.",
+    "value": 0,
+    "explain": "Coût : 9 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310587214,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RdhWvtl4EvtlH",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RdhWvtl4EvtlH"
+}

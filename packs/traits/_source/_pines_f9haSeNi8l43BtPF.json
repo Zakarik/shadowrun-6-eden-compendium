@@ -1,0 +1,35 @@
+{
+  "name": "Épines",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre peau est couverte d’excroissances pointues d’environ un centimètre de long évoquant des épines acérées comme celles des roses et de certains bougainvilliers ou rutacées. Les épines émergent d’une couche sous-cutanée et repoussent en quelques jours une fois brisées. En combat à mains nues, elles augmentent le SO de 1 et permettent aux attaques à mains nues d’infliger des dommages physiques plutôt qu’étourdissants. Elles ont l’inconvénient de vous placer en situation d’inconfort permanent qui vous impose un malus de −1 à la réserve de dés pour toutes vos autres activités physiques. Tous vos vêtements et armures doivent être fabriqués sur mesure, ce qui augmente leur coût de vingt pour cent.\n\nEffets en jeu : Ces épines servent d'arme défensive.",
+    "value": 0,
+    "explain": "Coût : 5 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "UamIrk3QcoyTELnC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004505250,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f9haSeNi8l43BtPF",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f9haSeNi8l43BtPF"
+}

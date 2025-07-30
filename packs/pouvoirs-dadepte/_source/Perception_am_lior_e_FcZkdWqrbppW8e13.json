@@ -1,0 +1,35 @@
+{
+  "name": "Perception améliorée",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vos sens sont aiguisés et vous informent suffisamment rapidement pour pouvoir en tirer profit. Bénéficiez d’une remise d’Atout de 1 quand vous Observez attentivement ou quand vous effectuez un test de Perception pour trouver quelque chose de caché ou pour entendre quelque chose que vous n’êtes pas supposé entendre.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.5,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524613,
+    "modifiedTime": 1753795524613,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e13",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e13"
+}

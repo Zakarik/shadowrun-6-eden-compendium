@@ -1,0 +1,35 @@
+{
+  "name": "Amélioration d’attribut matriciel",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes devenu extrêmement compétent vis-à-vis de certains aspects de la Matrice, ou vous avez amélioré votre persona par des moyens non conventionnels.\n\nEffets en jeu : choisissez un de vos attributs matriciels parmi Attaque, Corruption, Traitement de données et Firewall. Celui-ci est en permanence augmenté d’une valeur égale au niveau de ce trait. Cette amélioration s’applique aux attributs matriciels après toute reconfiguration éventuelle ; le bonus ne peut pas être transféré à un autre attribut. Vous pouvez choisir ce trait plusieurs fois pour améliorer plusieurs attributs à des stades différents. Tous les personnages peuvent l’acquérir : deckers, technomanciens voire samouraïs des rues qui souhaitent juste booster leur Firewall. Le score amélioré est considéré comme non augmenté en ce qui concerne les sources d’améliorations ultérieures issues de formes complexes, cyberprogrammes ou autres.",
+    "value": 0,
+    "explain": "Coût : 15 points de Karma/Niveau (max 3 par attribut Matrice)",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310224242,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RfTWvKl4EvtlF",
+  "sort": 1800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RfTWvKl4EvtlF"
+}

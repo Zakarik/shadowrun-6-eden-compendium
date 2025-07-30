@@ -1,0 +1,35 @@
+{
+  "name": "Hostilité des esprits/sprites",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez pu susciter leur courroux en raison de la manière dont vous les traitez, parce que vous avez tué un puissant et respecté membre de leur espèce ou parce que vous êtes né sous une mauvaise étoile.\n\nEffets en jeu : choisissez un type d’esprits ou de sprites quand vous optez pour ce trait. Les esprits/sprites de cette catégorie bénéficient d’une remise d’Atout de 1 pour résister à vos tentatives de Conjuration ou de Technomancie.",
+    "value": 0,
+    "explain": "Bonus : 12 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsZNjfl43Bt2c",
+  "sort": 8300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsZNjfl43Bt2c"
+}

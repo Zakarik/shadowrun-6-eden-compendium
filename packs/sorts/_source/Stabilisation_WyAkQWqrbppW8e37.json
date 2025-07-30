@@ -1,0 +1,42 @@
+{
+  "name": "Stabilisation",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e37",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "C’est le sort à utiliser quand quelqu’un a encaissé du surplus de dommages. Le lanceur de sorts effectue un test de Sorcellerie + Magie (5 - Essence), ce qui fournit donc un succès automatique si la cible a une Essence de 6. Il permet de récupérer 1 case de surplus de dommages par succès net. Les blessures traitées peuvent ensuite être traitées par un sort de Santé comme Soins.",
+    "category": "health",
+    "duration": "permanent",
+    "drain": 2,
+    "type": "physical",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": true,
+    "withEssence": true,
+    "wildDie": false,
+    "isSustained": false
+  },
+  "effects": [],
+  "folder": "rczjYlNm1pBWGSVU",
+  "sort": 100391,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023725238,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e37"
+}

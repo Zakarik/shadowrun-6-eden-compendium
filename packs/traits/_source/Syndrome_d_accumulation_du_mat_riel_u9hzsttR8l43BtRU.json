@@ -1,0 +1,35 @@
+{
+  "name": "Syndrome d’accumulation du matériel",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nComme on dit : face à l’adversité, rien ne vaut une bonne séance de shopping. En tout cas, c’est ce que vous dites, vous !\n\nEffets en jeu : chaque mois vous devez dépenser au moins 1000¥ par niveau de ce trait en matériel. Si vous êtes dans l’impossibilité de le faire, cela vous rend triste ou anxieux. Vous perdez les bénéfices de toutes vos spécialités et maîtrises jusqu’à ce que vous puissiez satisfaire vos pulsions dépensières. Même si vous prenez du retard, le montant que vous devez dépenser par mois ne se cumule pas.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma par niveau (3 niveaux maximum)",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtRU",
+  "sort": 4400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtRU"
+}

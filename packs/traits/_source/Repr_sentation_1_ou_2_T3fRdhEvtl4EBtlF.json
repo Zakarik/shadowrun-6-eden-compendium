@@ -1,0 +1,35 @@
+{
+  "name": "Représentation 1 ou 2",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains professeurs des arcanes proposent des techniques supplémentaires, appelées représentations, à leurs étudiants pour compléter leur apprentissage. Bien que la plupart de ces étudiants, en devenant de plus en plus confiants, se défont petit à petit de ces techniques, d’autres les trouvent rassurantes ou utiles et les gardent.\n\nEffets en jeu : le magicien définit une action bien visible ou audible : des gestes, des mots à prononcer, des chants ou autre. Elle devra être réalisée à chaque fois qu’il utilisera ses pouvoirs arcaniques. Sinon, il peut également porter un costume ou une tenue spéciale (ou aucune). L’acte ou l’habit ne peut pas être classique ou insignifiant (ex. : des vêtements débraillés ou particulièrement originaux), il doit éveiller les soupçons des passants, même ceux des ordinaires, et leur indiquer que du mojo est à l’œuvre. Sous la forme simple de ce trait (1), le magicien n’est pas forcé d’utiliser sa représentation, mais s’il ne le fait pas, il devra subir un malus de -4 à sa réserve de dés pour tous les tests d’Astral, de Conjuration, d’Enchantement et de Sorcellerie. Sous sa forme la plus extrême (2), si le magicien est incapable d’utiliser sa représentation (ex. : s’il est bâillonné, que ses mains sont liées ou qu’il ne porte pas son habit), il lui sera difficile de pratiquer tout type de magie et il ne pourra pas utiliser les compétences Astral, Conjuration, Enchantement et Sorcellerie. L’autre inconvénient de ce trait, c’est qu’il indique aux ennemis que le magicien est la «personne dangereuse» et si les adversaires suivent la bonne vieille devise «butez le mage en premier», cela le met en danger de mort. Mais malgré ces inconvénients, ce trait lui octroie un avantage : une fois par jour, lorsque le magicien réalise sa représentation en utilisant ses pouvoirs arcaniques, il gagne une remise d’Atout de 1 pour ce test.",
+    "value": 0,
+    "explain": "Bonus : 5/8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T3fRdhEvtl4EBtlF",
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T3fRdhEvtl4EBtlF"
+}

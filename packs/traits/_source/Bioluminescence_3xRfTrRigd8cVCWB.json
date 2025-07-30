@@ -1,0 +1,35 @@
+{
+  "name": "Bioluminescence",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous générez de la lumière par diverses parties de votre corps, représentant généralement soixante pour cent de votre surface cutanée et capillaire. Cette luminescence est trop faible pour être perçue sous un éclairage normal ; elle n’est visible qu’en luminosité partielle et dans le noir. Le niveau de lumière produite annule jusqu’à deux succès obtenus sur une illusion physique qui tenterait de la dissimuler, Invisibilité supérieure comprise. Dans l’obscurité et les ténèbres complètes, on peut vous attaquer normalement, même en l’absence de vision adaptée. Le bon côté, c’est que vous êtes suffisamment lumineux pour permettre aux personnages dotés de vision nocturne de voir normalement tout ce qui se situe à cinq mètres de vous.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "shDN7gVW5SIMYs5j",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007111853,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTrRigd8cVCWB",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTrRigd8cVCWB"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Animal à sang froid",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Le sang qui coule dans vos veines est froid comme celui des poissons et des reptiles. Votre température corporelle est généralement la même que celle du lieu où vous vous trouvez, ce qui annule tout avantage lié à la vision thermographique. En dessous de 10 °C, vous devenez apathique et perdez votre capacité à réguler la température de votre corps. Considérez que vous subissez l’état Fatigué I (p. 56, SR6). En dessous de 0°C (32°F), vous tombez en léthargie et êtes traité comme subissant l’état Fatigué III (p. 56, SR6). Si la température est inférieure à −20°C (−4°F) vous devenez Figé (p. 56, SR6) et entrez en état d’hibernation. Vous subissez un malus de −2 à la réserve de dés pour tous vos tests pour résister aux attaques à base de froid.",
+    "value": 0,
+    "explain": "Bonus : 5 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "vIQxa9im0vYpljDZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752008185458,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fxcWxdRfcQFWG",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fxcWxdRfcQFWG"
+}

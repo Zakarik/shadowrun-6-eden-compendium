@@ -1,0 +1,35 @@
+{
+  "name": "Résistance à la magie du sang",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Pour une raison ou une autre, la magie du sang ne fonctionne tout simplement pas bien sur vous.\n\nEffets en jeu : Tous les praticiens de la magie du sang ont une pénalité de -2 pour effectuer des rituels ou des sorts contre vous, et ils ne peuvent obtenir qu'1 Edge en votre présence par tour de combat (remplaçant le maximum normal de 2).",
+    "value": 0,
+    "explain": "Bonus : 12 Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174369,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7fRdhWvtl4EmtlG",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7fRdhWvtl4EmtlG"
+}

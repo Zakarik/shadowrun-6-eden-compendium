@@ -1,0 +1,35 @@
+{
+  "name": "Plumes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vos poils et vos cheveux sont remplacés par des plumes, comme ceux d’une poule ou d’un autre oiseau de même taille. Celles‑ci peuvent être fines et duveteuses (et partiellement résistantes à l’eau, comme celles des canards) ou cotonneuses et de couleur vive, mais elles ne vous confèrent aucun réel avantage. Incompatible avec Pilosité étrange (voir ci‑dessus) ou Écailles (voir ci‑dessous).",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "vIQxa9im0vYpljDZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752008188821,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fxcWxdRfcQFWK",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fxcWxdRfcQFWK"
+}

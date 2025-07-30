@@ -1,0 +1,35 @@
+{
+  "name": "La loi du plus fort",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "À un certain moment de votre vie, vous avez soit effectué plusieurs missions pour S-K qui ont été couronnées de succès, soit vous avez réalisé au moins une mission contre S-K, ce qui a eu un effet durable sur la corporation. Dans le cas de cette dernière, vous avez réussi à exécuter la mission avec un talent exceptionnel, ou vous avez échappé aux tentatives de S-K pour vous traquer. Quoi qu'il en soit, vous avez laissé une impression sur les personnes en charge. Ils ne vous apprécient peut-être pas (surtout si vous avez tué quelqu'un), mais ils vous respectent néanmoins sur un plan professionnel.\n\nEffets en jeu : Vous gagnez 1 point d'Atout situationnel sur les tests sociaux avec les employés de Saeder-Krupp lorsque vous êtes dans la zone géographique sélectionnée pour cette qualité. Les zones géographiques locales seraient une seule agglomération et ses alentours ; les zones régionales seraient un petit pays ou une portion significative d'un pays plus grand (Suisse, Nouvelle-Angleterre) ; les zones globales sont, eh bien, partout.",
+    "value": 0,
+    "explain": "Coût : 2 Karma (local), 4 Karma (régional), 6 Karma (global)",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7f5Q4RvFl3EmtlD",
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7f5Q4RvFl3EmtlD"
+}

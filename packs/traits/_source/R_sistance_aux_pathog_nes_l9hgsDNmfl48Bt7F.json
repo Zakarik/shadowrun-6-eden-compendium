@@ -1,0 +1,35 @@
+{
+  "name": "Résistance aux pathogènes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quand vous affirmez ne jamais avoir été malade de votre vie, il est fort probable que ce soit vrai. Vous avez un système immunitaire très performant qui a maîtrisé l’art de combattre tout ce qui peut tenter d’envahir votre corps et de vous rendre malade.\n\nEffets en jeu : vous bénéficiez d’une remise d’Atout de 1 sur tous vos tests de résistance aux pathogènes.",
+    "value": 0,
+    "explain": "Coût : 12 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsDNmfl48Bt7F",
+  "sort": 8500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsDNmfl48Bt7F"
+}

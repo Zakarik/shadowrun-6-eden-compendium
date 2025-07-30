@@ -1,0 +1,35 @@
+{
+  "name": "Ego surhumain",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nPuisque vous êtes plus rapide, plus fort et plus résistant que la plupart des gens, qui peut dire que vous n’êtes pas un superhéros ? Les runners dotés de capacités surhumaines conférées par la magie ou des augmentations peuvent commencer à se sentir supérieurs aux simples métahumains.\n\nEffets en jeu : vous considérez les métahumains ordinaires comme indignes de vous. Vous n’avez aucun scrupule à tuer ces êtres inférieurs. Votre sentiment d’invincibilité vous pousse à ne pas prendre leurs attaques au sérieux. Vous ne gagnez pas d’Atout lors de vos tests de défense. Vous ne pouvez pas acquérir un trait qui vous empêcherait de tuer un autre métahumain ou qui vous ferait voir les autres comme autre chose que des êtres inférieurs, comme Robin des bois ou Code d’honneur.",
+    "value": 0,
+    "explain": "Bonus : 12 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPB",
+  "sort": 2500000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPB"
+}

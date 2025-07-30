@@ -1,0 +1,35 @@
+{
+  "name": "Overdrive étendu",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous savez comment tirer le maximum de vos augmentations quand le besoin s’en fait sentir.\n\nEffets en jeu : quand vous amplifiez une de vos augmentations (p. 290, SR6), vous pouvez maintenir l’effet pendant un round par niveau de ce trait (au lieu d’être limité à un seul test). Vous devez utiliser le Dé libre pour chaque test impliquant l’attribut amplifié.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma par niveau",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "v9hgsttR8l43BtPA",
+  "sort": 6100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!v9hgsttR8l43BtPA"
+}

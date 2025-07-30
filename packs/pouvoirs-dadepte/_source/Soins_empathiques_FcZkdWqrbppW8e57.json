@@ -1,0 +1,35 @@
+{
+  "name": "Soins empathiques",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les adeptes peuvent, en temps de crise, lier leur santé à celle d’un blessé et transférer les plaies de la cible à leur propre corps en utilisant cette façon puissante, mais douloureuse, de canaliser le mana. L’adepte commence le processus de Soins empathiques par un contact physique avec la cible et un test de Magie + Volonté (seuil de 5 - Essence de la cible).\n\nL’adepte retire 1 case de surplus de dommages ou de dommages physiques à la cible par succès obtenu sur le test, et subit en contrepartie 1 case de dommages étourdissants pour la première case de dommages transférée, puis des dommages physiques à hauteur du nombre de cases restantes au fil des prochaines actions. Les dommages sont transférés à la vitesse d’1 case par action majeure. Le contact physique doit être maintenu durant le processus. Les blessures ne peuvent être affectées qu’une seule fois avec Soins empathiques (mais utiliser Soins empathiques ne compte pas dans la limite d’un sort de Soins par blessure).",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 0.75,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524657,
+    "modifiedTime": 1753795524657,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e57",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e57"
+}

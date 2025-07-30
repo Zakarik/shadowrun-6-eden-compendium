@@ -1,0 +1,35 @@
+{
+  "name": "En réseau",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes connu pour votre capacité à trouver les personnes connectées dans votre communauté et à les introduire à des gens qui les aident à étendre leur réseau.\n\nEffets en jeu : Lorsque vous gagnez un nouveau contact dont la note de connexion est de 4 ou moins, augmentez immédiatement cet indice de 1.",
+    "value": 0,
+    "explain": "Coût : 4 Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T7f5Q4RvFl3EmtlB",
+  "sort": 2800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T7f5Q4RvFl3EmtlB"
+}

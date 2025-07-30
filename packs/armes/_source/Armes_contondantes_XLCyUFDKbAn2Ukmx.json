@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "Yfsg8ItgHla7H4kn",
+  "name": "Armes contondantes",
+  "color": "#370ab2",
+  "sorting": "a",
+  "_id": "XLCyUFDKbAn2Ukmx",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751817002594,
+    "modifiedTime": 1752154439136,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!XLCyUFDKbAn2Ukmx"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Écailles",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre corps est recouvert à soixante pour cent au moins d’une peau écailleuse comme celle d’un lézard, d’un serpent ou d’un poisson, y compris les parties les plus visibles et utilisées (visage, mains, etc.). Le renouvellement normal de votre épiderme peut causer irritations et démangeaisons, évidentes pour un observateur. Une fois par mois, vous entamez une mue complète qui dure vingt‑quatre heures et gêne toute concentration, vous imposant un malus de −2 à la réserve de dés pour toutes vos actions. Vos écailles peuvent prendre toutes les formes et couleurs, ce qui vous rend particulièrement mémorable pour les autres, bien qu’elles ne vous offrent aucun avantage. Ce trait est incompatible avec tout autre trait ou augmentation affectant la peau.",
+    "value": 0,
+    "explain": "Bonus : 6 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "vIQxa9im0vYpljDZ",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752008186707,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x1fxcWxdRfcQFWH",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x1fxcWxdRfcQFWH"
+}

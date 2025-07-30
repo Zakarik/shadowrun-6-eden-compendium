@@ -1,0 +1,42 @@
+{
+  "name": "Détection de la magie",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e22",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Personne n’a envie de fouiller toute une décharge pour trouver un anneau magique parmi les détritus, mais parfois il faut bien le faire. C’est pourquoi un mage entreprenant a développé ce sort qui alerte le lanceur dès qu’il détecte de la magie active à portée de ses sens. Cela inclut des focus, des réactifs, des sorts actifs, des runes, des préparations alchimiques, des esprits et des rituels actifs, mais n’inclut pas les Éveillés, les métacréatures, les signatures astrales, les préparations alchimiques qui ont été déclenchées ou qui ont perdu leur potentiel ou les effets des sorts permanents une fois qu’ils sont devenus permanents.",
+    "category": "detection",
+    "duration": "sustained",
+    "drain": 4,
+    "type": "mana",
+    "range": "touch",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "tJX57dvrDJkPGtd0",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023544009,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e22"
+}

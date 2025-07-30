@@ -1,0 +1,35 @@
+{
+  "name": "Perception astrale",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous gagnez la capacité de percevoir l’astral et vous suivez les règles qui s’y rapportent (voir p. 162). Quand vous utilisez ce pouvoir, vous êtes de nature duale et vous pouvez attaquer les formes astrales.",
+    "hasLevel": false,
+    "level": 0,
+    "choice": "",
+    "cost": 1,
+    "activation": "minor_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524614,
+    "modifiedTime": 1753795524614,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e14",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e14"
+}

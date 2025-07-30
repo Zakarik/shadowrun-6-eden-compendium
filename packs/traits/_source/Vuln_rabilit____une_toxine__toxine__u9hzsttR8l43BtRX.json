@@ -1,0 +1,35 @@
+{
+  "name": "Vulnérabilité à une toxine (toxine)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous êtes particulièrement sensible à une toxine commune.\n\nEffets en jeu : choisissez une toxine, comme le gaz lacrymogène/incapacitant, la gamma‑scopolamine, le narcoject, le gaz vomitif, les neuro‑stuns (tous types), le gaz poivre ou le Seven−7. Quand vous y êtes soumis, augmentez sa virulence de 2. Dans ce cas précis, vous ne pouvez pas gagner ou dépenser d’Atout sur vos tests de Résistance aux toxines.",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtRX",
+  "sort": 4100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtRX"
+}

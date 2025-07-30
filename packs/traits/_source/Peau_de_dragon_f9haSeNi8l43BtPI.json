@@ -1,0 +1,35 @@
+{
+  "name": "Peau de dragon",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre corps est couvert d’écailles qui dissipent rapidement flammes et chaleur. Vous bénéficiez d’une remise d’Atout de 1 pour résister aux attaques basées sur le feu. Ce trait annule tous les états Enflammé (p. 56, SR6) de source non-magique.\n\nEffets en jeu : Réduction des dommages infligés par le feu.",
+    "value": 0,
+    "explain": "Coût : 3 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "UamIrk3QcoyTELnC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004563962,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f9haSeNi8l43BtPI",
+  "sort": 109375,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f9haSeNi8l43BtPI"
+}

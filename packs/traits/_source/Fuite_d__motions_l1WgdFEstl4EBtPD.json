@@ -1,0 +1,35 @@
+{
+  "name": "Fuite d’émotions",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nIl arrive que les individus dotés d’une grande quantité de cyberware aient du mal à contenir leurs émotions ; les autres métahumains savent instinctivement ce que vous ressentez. C’est handicapant dans le cadre de négociations, escroqueries, jeux d’argent et toute autre interaction en face-à-face reposant sur une certaine dose de duperie.\n\nEffets en jeu : vous ne pouvez pas utiliser d’Atout lors de vos tests d’Escroquerie ou d’Influence.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPD",
+  "sort": 2300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPD"
+}

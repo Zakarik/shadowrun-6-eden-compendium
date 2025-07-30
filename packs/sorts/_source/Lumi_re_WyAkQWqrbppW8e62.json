@@ -1,0 +1,42 @@
+{
+  "name": "Lumière",
+  "type": "spell",
+  "_id": "WyAkQWqrbppW8e62",
+  "img": "systems/shadowrun6-eden/icons/compendium/gear/tech_bag.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Permet de modifier le niveau de luminosité de votre environnement à votre convenance. Pour chaque succès net obtenu, vous pouvez augmenter le niveau de luminosité de la zone autour de vous. C'est un sort à effet de zone ajustable avec Extension de zone et Déplacement de zone.",
+    "category": "manipulation",
+    "duration": "sustained",
+    "drain": 3,
+    "type": "physical",
+    "range": "line_of_sight_area",
+    "damage": "",
+    "alchemic": false,
+    "multiSense": false,
+    "isOpposed": false,
+    "withEssence": false,
+    "wildDie": false,
+    "isSustained": true
+  },
+  "effects": [],
+  "folder": "weXNZyaWfVFMESzU",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753016018248,
+    "modifiedTime": 1753023735118,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!items!WyAkQWqrbppW8e62"
+}

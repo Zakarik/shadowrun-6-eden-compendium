@@ -1,0 +1,35 @@
+{
+  "name": "Camouflage (dynamique)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces traits provoquent une pigmentation cutanée qui s’adapte à l’environnement, à la manière d’un camé‑ léon. Ils sont incompatibles avec toute autre modification dermique.\n\nCe trait modifie la teinte de votre peau pour s’accorder à l’environnement ambiant, avec un effet persistant. Vous recevez les mêmes bonus à la Furtivité qu’avec le trait Camouflage basique mais vous les conservez si vous ne vous déplacez pas plus vite que la moitié de votre vitesse de marche, arrondie à l’inférieur.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "UamIrk3QcoyTELnC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004494728,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f9haSeNi8l43BtPC",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f9haSeNi8l43BtPC"
+}

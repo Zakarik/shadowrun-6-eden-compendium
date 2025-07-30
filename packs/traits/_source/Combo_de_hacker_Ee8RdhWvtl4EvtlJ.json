@@ -1,0 +1,35 @@
+{
+  "name": "Combo de hacker",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous avez perfectionné une séquence d’actions matricielles au point qu’elles semblent ne plus faire qu’une.\n\nEffets en jeu : choisissez deux actions matricielles spé- cifiques. Vous pouvez les exécuter ensemble en dépensant une action majeure et une mineure. Chaque fois que vous utilisez cette combinaison, vous pouvez choisir quelle action est résolue en premier. Vous pouvez acquérir ce trait plusieurs fois pour apprendre des combos différents.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752310329293,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8RdhWvtl4EvtlJ",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8RdhWvtl4EvtlJ"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pulsion de mort",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nUn individu dont l’Essence est très faible se trouve continuellement entre la vie et la mort, car l’emprise de son esprit sur son corps est devenue ténue.\n\nEffets en jeu : vous vous dirigez vers votre propre mort avec plus de facilité que les gens normaux. Vous possédez deux cases de surplus de dommages de moins.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma, doit avoir une Essence inférieure à 2",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1WgdFEstl4EBtPI",
+  "sort": 1800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1WgdFEstl4EBtPI"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Granite",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre peau est couverte de formations de calcite et de kératine qui la rendent grise et dure comme de la pierre. Vous obtenez un bonus de +4 au SD et gagnez un point d’Atout à chaque fois que vous devez résister à des dommages. Ce trait ne se cumule pas avec les armures portées et impose un malus de 1 dé à la réserve de dés pour manipuler de petits objets.\n\nEffets en jeu : Vous devenez plus résistant aux dommages physiques.",
+    "value": 0,
+    "explain": "Coût : 15 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "UamIrk3QcoyTELnC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004508365,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f9haSeNi8l43BtPG",
+  "sort": 103125,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f9haSeNi8l43BtPG"
+}

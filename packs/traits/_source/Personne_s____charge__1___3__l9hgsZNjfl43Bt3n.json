@@ -1,0 +1,35 @@
+{
+  "name": "Personne(s) à charge (1 à 3)",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Qu’il s’agisse d’enfants, d’amants ou d’autre chose, des gens dépendent financièrement de vous. Ils vivent dans votre appartement, mangent votre nourriture et vous coûtent généralement suffisamment d’argent.\n\nEffets en jeu : choisissez un niveau de personne(s) à charge. Personne(s) à charge de niveau 1 est l’équivalent d’un membre de la famille qui ne vit pas avec vous, mais qui a besoin d’être soutenu financièrement. Ce niveau vous coûte 5 % de vos gains. Ce niveau 2 correspond à des coûts plus élevés et réguliers comme l’entretien d’une personne importante, d’un enfant ou d’une petite famille, coûtant 10 % de vos gains. Ce niveau 3 est assez rare et coûte 25 % de tous vos gains.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma par niveau",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsZNjfl43Bt3n",
+  "sort": 7200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsZNjfl43Bt3n"
+}

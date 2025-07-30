@@ -1,0 +1,35 @@
+{
+  "name": "Jours comptés",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nL’épée de Damoclès suspendue au‑dessus de votre tête ne tient plus qu’à un fil. Tôt ou tard (vraisemblablement tôt), vous allez mourir. Vous avez déjà dépassé votre date limite. À quoi allez‑vous consacrer vos derniers instants ? Quel souvenir laisserez‑vous ?\n\nEffets en jeu : vous êtes irrémédiablement et indubitablement condamné. Cela peut venir d’une bombe corticale, de nanites insidieuses, d’une maladie rare ou même d’un contrat sur votre tête. Au début de chaque séance (après avoir réinitialisé votre Atout), faites un test de Constitution ou Volonté (le plus élevé) + Atout. Le seuil de départ est de 1 et augmente de 1 après chaque séance. Vous pouvez dépenser de l’Atout sur ce test. Si vous échouez, votre heure est venue. Le premier événement qui pourrait se révéler fatal… vous est fatal. La Loi de Murphy dans toute sa splendeur. Si rien de dangereux ne se produit au cours de la partie, à la fin de la séance vous vous écroulez, mort. Vous pouvez cramer un point d’Atout pour éviter ça, mais à moins de racheter ce trait, votre survie au prochain rendez-vous risque d’être encore plus improbable (le fait de cramer un point d’Atout ne réinitialise pas le seuil de difficulté du test).",
+    "value": 0,
+    "explain": "Bonus : 25 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtPQ",
+  "sort": 5200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtPQ"
+}

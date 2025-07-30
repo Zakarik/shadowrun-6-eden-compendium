@@ -1,0 +1,35 @@
+{
+  "name": "Maîtrise corporelle",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un adepte doté de Maîtrise corporelle est un maître du langage corporel et de la communication non verbale. Il sait à la fois sentir les tensions chez autrui et cacher les siennes. Ce pouvoir offre deux avantages : premièrement, il permet à deux adeptes avec Maîtrise corporelle et une vue directe l’un sur l’autre de se transmettre des informations complexes et détaillées sans que personne autour ne le remarque (ils tiennent concrètement une vraie conversation en secret). Deuxièmement, chaque niveau de Maîtrise corporelle permet, une fois par rencontre, de gagner un point d’Atout en remplacement de la remise d’Atout conférée par le pouvoir Contrôle corporel (p. 159, SR6).",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524649,
+    "modifiedTime": 1753795524649,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e49",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e49"
+}

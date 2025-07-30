@@ -1,0 +1,35 @@
+{
+  "name": "Gremlins des Bermudes",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Un genre de gremlins un peu à part. Ils adorent interférer avec GridGuide et imiter la voix de votre Autopilote. Et bonne chance pour retrouver votre plan papier dans la boîte à gants. Ça fait deux arrêts qu’ils l’ont balancé.\n\nEffets en jeu : quand vous pilotez un véhicule, lancez 2D6. Si vous obtenez un 1, les gremlins vous ont joué un tour sur le trajet et vous avez raté une sortie. Du coup, en essayant de retrouver votre chemin, vous vous êtes mis en retard. Lancez 1D6 et consultez la table suivante pour déterminer à quel point.\n• 1–2: 10–20 minutes\n• 3–4: 30 minutes à 1 heure\n• 5: 1–2 heures\n• 6: Plus de 2 heures, mais vous avez découvert un petit resto sympa.\nSi vous obtenez deux 1 sur le premier jet, vous vous retrouvez en plein territoire ennemi ou interdit, et vous faites face à une hostilité marquée pour en sortir. Dans un souci de simplicité, le maître de jeu peut également se contenter de doubler les durées de la table précédente.",
+    "value": 0,
+    "explain": "Bonus : 4 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983209007,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "T1FgdFxi8l4hBtTH",
+  "sort": 3200000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!T1FgdFxi8l4hBtTH"
+}

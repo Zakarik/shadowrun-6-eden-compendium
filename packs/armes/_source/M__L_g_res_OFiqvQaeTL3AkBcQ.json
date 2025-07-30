@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "PKgdVtCJ2savSuRQ",
+  "name": "M. Légères",
+  "color": null,
+  "sorting": "a",
+  "_id": "OFiqvQaeTL3AkBcQ",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!OFiqvQaeTL3AkBcQ"
+}

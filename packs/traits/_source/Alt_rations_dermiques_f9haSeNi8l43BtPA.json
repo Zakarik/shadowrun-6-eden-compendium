@@ -1,0 +1,35 @@
+{
+  "name": "Altérations dermiques",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ces altérations cutanées sont par essence plus extrêmes que celles habituellement vues chez les métahumains et metavariants ordinaires. Sauf mention contraire, un personnage ne peut avoir qu’une altération dermique. Elles sont par contre compatibles avec les dépôts dermiques mais pas avec les augmentations cybernétiques ou bioware de la peau.\n\nEffets en jeu : Ces traits provoquent une pigmentation cutanée qui s’adapte à l’environnement, à la manière d’un caméléon. Ils sont incompatibles avec toute autre modification dermique.",
+    "value": 0,
+    "explain": "Coût : 5 ou 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "UamIrk3QcoyTELnC",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004487359,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f9haSeNi8l43BtPA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f9haSeNi8l43BtPA"
+}

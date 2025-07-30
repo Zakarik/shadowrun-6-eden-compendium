@@ -1,0 +1,35 @@
+{
+  "name": "Esprit d’entreprise",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVotre détachement tout professionnel rassure la plupart de vos clients, mais vous empêche de nouer des relations plus profondes.\n\nEffets en jeu : aucun de vos contacts ne peut avoir d’indice de Loyauté supérieur à 3. Quand vous interagissez avec un client professionnel (comme un M. Johnson), bénéficiez d’une remise d’Atout de 1 sur tous vos tests d’Influence (Étiquette).",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "u9hzsttR8l43BtPH",
+  "sort": 5600000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!u9hzsttR8l43BtPH"
+}

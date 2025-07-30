@@ -1,0 +1,35 @@
+{
+  "name": "Détermination",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Votre concentration et votre volonté placent votre conduite au-dessus de la moyenne.\n\nEffet en jeu: avant d’effectuer un test de Pilotage, vous pouvez annoncer un bonus ou une action d’Atout. Vous pouvez en diminuer le coût en dépensant des actions mineures (1 action dépensée réduit le coût de 1), jusqu’à un minimum de 1. L’effet est perdu si cette dépense n’est pas immédiatement suivie d’une action de Pilotage.",
+    "value": 0,
+    "explain": "Coût : 11 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3x12reFChRvcQFWH",
+  "sort": 5300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3x12reFChRvcQFWH"
+}

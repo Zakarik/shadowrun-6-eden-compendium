@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "godhpqHpuZ6Ia8wY",
+  "name": "Pistolets automatiques",
+  "color": null,
+  "sorting": "a",
+  "_id": "YVfT4VBqZur7WSqS",
+  "description": "",
+  "sort": 350000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751883434023,
+    "modifiedTime": 1752154470034,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!YVfT4VBqZur7WSqS"
+}

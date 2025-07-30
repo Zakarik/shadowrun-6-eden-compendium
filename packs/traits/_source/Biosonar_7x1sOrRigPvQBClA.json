@@ -1,0 +1,35 @@
+{
+  "name": "Biosonar",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Comme les dauphins et les chauves-souris, vous possédez tous les organes naturels nécessaires à un système d’écholocalisation. Grâce aux échos générés par des ultrasons produits par votre larynx, votre thorax ou vos conduits nasaux, vous pouvez former une image mentale des lieux qui vous entourent. Pour une action mineure, votre perception s’étend jusqu’à 50 mètres dans l’air, 200 mètres en eau douce et 300 mètres dans l’eau de mer. Si vous maintenez son utilisation, vous pouvez surveiller la plupart des activités à portée au prix d’une action mineure par round. Tant que ce pouvoir est actif, il annule l’état Aveuglé (p. 55, SR6) pour ce qui est de l’orientation et du combat. Vous êtes susceptible d’être Assourdi (p. 55, SR6) à tout moment en cas d’exposition à des sons à haute fréquence et vous ne pouvez pas dépenser d’Atout pour résister à leur effet. Avec le matériel adéquat, il est possible de pister un utilisateur de cette capacité, sous réserve qu’il émette activement des ultrasons.",
+    "value": 0,
+    "explain": "Coût : 6 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "Qwx6dFpR3wBl0mrX",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752006087183,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "7x1sOrRigPvQBClA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!7x1sOrRigPvQBClA"
+}

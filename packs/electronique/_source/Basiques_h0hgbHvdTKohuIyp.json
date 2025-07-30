@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "o6V1PLqrqEaQChAR",
+  "name": "Basiques",
+  "color": null,
+  "sorting": "a",
+  "_id": "h0hgbHvdTKohuIyp",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!h0hgbHvdTKohuIyp"
+}

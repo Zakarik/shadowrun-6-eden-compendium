@@ -1,0 +1,35 @@
+{
+  "name": "Masque chamanique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Certains magiciens canalisent leurs pouvoirs arcaniques par le biais de leur esprit mentor. De son côté, le totem commence à se manifester à travers une transformation temporaire visible (des traits bestiaux, des effets élémentaires, etc.). La transformation étant due au mana, seuls les êtres vivants peuvent donc la remarquer. Plus le magicien obtient de succès à son test de magie, plus la transformation sera prononcée et plus identifiable sera le totem, même pour les ordinaires.\n\nEffets en jeu : le mage choisit un effet (ex. : un visage de loup translucide qui couvre son visage, des yeux dans lesquels brûle un feu arcanique). Cet effet survient à chaque utilisation de toute compétence qui implique la magie (ou pour les adeptes, en activant tout pouvoir d’adepte). En utilisant une action mineure (en plus de l’action requise pour utiliser la compétence magique choisie), le magicien obtient une remise d’Atout de 1 pour ce test (adeptes : pour le premier test impliquant le pouvoir d’adepte activé). Il y a également un inconvénient : le masque chamanique révèle inévitablement la nature d’Éveillé du mage. Cela pourrait attirer sur lui les tirs ennemis et le mettre en danger.",
+    "value": 0,
+    "explain": "Coût : 4 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l1eRdFEvtl4EBtlH",
+  "sort": 3100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l1eRdFEvtl4EBtlH"
+}

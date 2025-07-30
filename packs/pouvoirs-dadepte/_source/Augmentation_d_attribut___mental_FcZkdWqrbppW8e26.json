@@ -1,0 +1,35 @@
+{
+  "name": "Augmentation d’attribut : mental",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Les adeptes plus raffinés maîtrisent leur flux de mana interne et l’utilisent pour renforcer non seulement leurs capacités physiques, mais aussi leur intelligence, leur perception, leur force de caractère et leur force de volonté. Lorsque vous achetez cette capacité, spécifiez un attribut mental (Logique, Intuition, Charisme ou Volonté ; ce pouvoir peut être acheté plusieurs fois pour ajouter des rangs à un bonus existant ou pour l’appliquer à un nouvel attribut). Ce pouvoir ne peut être pas utilisé pour des attributs physiques ou spéciaux. Quand ce pouvoir est activé, effectuez un test de Magie + (indice d’Augmentation de l’attribut choisi). Chaque succès augmente temporairement l’indice de l’attribut spécifié de 1, jusqu’au maximum d’augmentation de +4. Cela n’affecte que les réserves de dés, pas le rang d’Initiative, le Moniteur d’état, etc. L’effet dure (succès nets) rounds et lorsque le pouvoir prend fin, l’adepte doit résister à un Drain égal au niveau de ce pouvoir pour l’attribut concerné.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 0.25,
+    "activation": "major_action"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524626,
+    "modifiedTime": 1753795524626,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e26",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e26"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Renfort",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous vous êtes heurté à suffisamment de CI et de personas dans la Matrice et vous avez commencé à renforcer vos défenses. Votre forme physique vous aide à absorber une partie des blessures infligées à votre persona matriciel.\n\nEffets en jeu : vos tests de résistance aux dommages matriciels bénéficient d’une remise d’Atout de 1. De plus, quand vous subissez des dommages dans la Matrice, vous pouvez convertir jusqu’à deux cases de dommages matriciels en dommages étourdissants, protégeant ainsi votre persona aux dépens de votre corps physique.",
+    "value": 0,
+    "explain": "Coût : 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsDNmfl48Bt4F",
+  "sort": 8800000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsDNmfl48Bt4F"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Compétence améliorée",
+  "type": "adeptpower",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/explosion.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Quand ce pouvoir est choisi, il faut aussi sélectionner une compétence. Cette compétence bénéficie d’une augmentation constante égale au niveau de ce pouvoir. Le rang de la compétence augmentée est limité à son rang initial × 1,5 (arrondir au supérieur) et la limite d’augmentation est de +4. Vous devez avoir au moins un rang dans la compétence pour laquelle vous achetez ce pouvoir et il peut être acheté pour plusieurs compétences. Les compétences de combat sont : Combat rapproché, Armes à feu et Armes exotiques.",
+    "hasLevel": true,
+    "level": 1,
+    "choice": "",
+    "cost": 1,
+    "activation": "passive"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1753795524604,
+    "modifiedTime": 1753795524604,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "FcZkdWqrbppW8e04",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!FcZkdWqrbppW8e04"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Immunodéficience",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Renifler constamment est aussi gênant pour vous que pour les membres de votre équipe, mais un éternuement au mauvais moment peut signifier la fin d’un run. Vous êtes presque tout le temps malade.\n\nEffets en jeu : vous ne pouvez pas dépenser de l’Atout pour résister à une infection. Le seuil pour combattre les infections est augmenté de 1. Pendant que vous subissez les symptômes d’une maladie, vous avez un malus de -1 dé.",
+    "value": 0,
+    "explain": "Bonus : 8 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752061174423,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsZNjfl43Bt4e",
+  "sort": 8100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsZNjfl43Bt4e"
+}

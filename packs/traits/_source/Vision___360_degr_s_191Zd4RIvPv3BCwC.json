@@ -1,0 +1,35 @@
+{
+  "name": "Vision à 360 degrés",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous êtes doté d’un champ de vision à 360 degrés, que ce soit grâce au positionnement ou à la structure de vos yeux. Toutes les options sont valables : ils peuvent être composés, comme ceux d’un insecte, ou indépendants à la manière de certains lézards. Les personnages possédant ce trait bénéficient d’une remise d’Atout de 1 sur tous leurs tests de Perception et de Surprise. La version à 5 points de Karma n’inclut pas la structure neurologique adaptée et nécessaire aux individus à vision normalement binoculaire pour appréhender ces perceptions. Le personnage subit un malus de −1 à la réserve de dés sur tous ses SO au-delà de la portée proche, ainsi qu’à tous ses tests s’il se déplace plus vite qu’à sa vitesse de marche. Il lui est impossible de recevoir des augmentations. La version à 10 points de Karma ne présente aucun de ces inconvénients, mais les augmentations voient leur prix multiplié par cinq et leur coût en Essence doublé.",
+    "value": 0,
+    "explain": "Coût : 5 ou 10 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004580271,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "191Zd4RIvPv3BCwC",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!191Zd4RIvPv3BCwC"
+}

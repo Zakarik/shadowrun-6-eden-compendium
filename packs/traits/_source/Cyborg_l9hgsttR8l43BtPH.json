@@ -1,0 +1,35 @@
+{
+  "name": "Cyborg",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "\n\nVous représentez la fusion parfaite entre le métahumain et la machine. Votre corps est capable de recevoir un nombre d’augmentations auxquelles la plupart des gens ne survivraient pas.\n\nEffets en jeu : Vous ne pouvez acquérir ce trait que si votre score d’Essence est de 1 ou moins et que vous possédez déjà 10 niveaux du trait Accoutumance aux augmentations. Comme avec Accoutumance aux augmentations, vous débloquez 0,1 point d’Essence par niveau ; cette réserve est dépensée en priorité lors de l’installation d’augmentations supplémentaires.",
+    "value": 0,
+    "explain": "Coût : 5 points de Karma par niveau (10 niveaux maximum)",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsttR8l43BtPH",
+  "sort": 7100000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsttR8l43BtPH"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Vision thermographique",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Grâce à des amplifications ou juste la génétique, votre vision vous permet de voir les différences de températures sur et autour des objets et des personnes, mais la plupart du temps la lumière ambiante normale masque les signatures thermiques. De fortes sources de chaleur peuvent produire une sorte de lueur, mais généralement quelque chose qui émet autant de chaleur dégage aussi beaucoup de lumière et votre vision normale vous suffit.\n\nEffets en jeu : vous pouvez voir la chaleur des choses jusque dans l’obscurité totale (si elles sont plus chaudes ou plus froides que la température ambiante), ce qui vous permet d’agir dans ces conditions.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "yDf04umJ05mbU9TA",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752094534656,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "l9hgsDNmfl48BtDF",
+  "sort": 7900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!l9hgsDNmfl48BtDF"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Symbiose",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce trait est assez proche de Territoire (p. 76, SR6) par nature, mais avec un potentiel bien plus sinistre. Il offre les mêmes avantages, mais la relation entre le lieu et vous se renforce avec le temps pour se muer en un lien quasi mystique. Votre santé devient le reflet de celle de votre territoire, fluctuant au rythme de sa prospérité ou de son déclin social et environnemental. \n\nEn termes de jeu, ce lien influe directement sur vos capacités. Quand tout va bien dans votre quartier, vous vous sentez plus fort, capable d’ignorer les sentiments de légère déprime et de faire directement face à vos peurs (+1 à la réserve de dés pour résister aux sorts de Manipulation et d’Illusion visant à provoquer ces sentiments) et même de récupérer plus vite (+1 à la réserve de dés pour tous vos tests de soins et de guérison, y compris magiques). Quand votre quartier se porte mal, est dégradé ou tourmenté, vous avez du mal à faire preuve d’optimisme et succombez à vos démons intérieurs. Il vous faut plus de temps pour vous remettre de la fatigue mentale et du stress (−2 à la réserve de dés pour tous les tests de récupération naturelle ou augmentée, ainsi que pour résister aux sorts d’Illusion ou de Manipulation qui provoquent ces mêmes émotions). Plus insidieux, vous vous montrez de plus en plus réticent à quitter votre secteur ; vous aventurer hors de votre zone de confort requiert un test de Sang-froid (3). Si vous restez éloigné, vous devez faire ce test quotidiennement ; pendant toute cette période, le seuil augmente de 1 chaque semaine passée loin de votre foyer. Un échec vous rend irritable et instable émotionnellement, ce qui se traduit par un malus de −2 à la réserve de dés pour tous vos tests impliquant votre Volonté. Des changements dans l’environnement social de votre territoire, comme l’arrivée d’un gang turbulent ou un incendie, résultent en une réaction psychosomatique associée de sautes d’humeur, dont l’intensité est laissée à l’appréciation du maître de jeu.",
+    "value": 0,
+    "explain": "Bonus : 10 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "shDN7gVW5SIMYs5j",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752007119262,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "3xRfTrRigd8cVCWI",
+  "sort": 100782,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!3xRfTrRigd8cVCWI"
+}

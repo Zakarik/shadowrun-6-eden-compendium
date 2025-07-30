@@ -1,0 +1,35 @@
+{
+  "name": "Dépendance à un programme",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Vous montrez un attachement superstitieux à l’usage d’un programme spécifique, le plus courant étant Surveillance.\n\nEffets en jeu : choisissez un cyberprogramme. Chaque fois que votre cyberdeck tourne sans celui-ci, son absence vous obsède. Pour chaque round de combat durant lequel vous voulez effectuer une action matricielle autre que reconfigurer votre appareil pour charger ce programme, vous devez dépenser une action mineure pour vous concentrer.",
+    "value": 0,
+    "explain": "Bonus : 2 points de Karma",
+    "modifier": [],
+    "category": "DISADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "uQND3GJ3zigG5sIF",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752311615669,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "Ee8FfTWvcl4E7tlL",
+  "sort": 100196,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!Ee8FfTWvcl4E7tlL"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Bras de Shiva",
+  "type": "quality",
+  "img": "systems/shadowrun6-eden/icons/compendium/default/Default_Skill.svg",
+  "system": {
+    "genesisID": "",
+    "description": "Ce morphisme métagénique est rarement observé chez d’autres individus que les nartakis (p. 77). Chaque niveau équivaut à une paire de bras supplémentaire complète rattachée à votre torse, avec sa structure osseuse et les muscles associés qui augmentent vos maximums de Force et de Constitution d’un point tout en vous octroyant une action mineure de plus. Chaque paire de bras possède une main dominante située du même côté du corps. Multipliez le coût du trait Ambidextre (p. 73, SR6) par votre niveau de Bras de Shiva plus un. Le coût de tout équipement personnalisé augmente de dix pour cent par niveau (p. 257, SR6). Vous ne pouvez pas utiliser d’équipement inadapté, même en subissant la pénalité d’Atout de 2 (p. 257, SR6). Les membres cybernétiques subissent cette augmentation de coût, mais vous pouvez en installer autant que vous avez de bras sur votre nouvelle configuration corporelle. Ce coût supplémentaire ne s’applique qu’au membre cybernétique en lui-même, pas à ses éventuelles modifications.",
+    "value": 0,
+    "explain": "Coût : 8 points de Karma (par niveau, maximum 3)",
+    "modifier": [],
+    "category": "ADVANTAGE",
+    "level": false
+  },
+  "effects": [],
+  "folder": "szRlYS6UWROalBj2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.0",
+    "createdTime": 1751983208811,
+    "modifiedTime": 1752004570654,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "f99aS4RigPv3BtPB",
+  "sort": 1900000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!items!f99aS4RigPv3BtPB"
+}
