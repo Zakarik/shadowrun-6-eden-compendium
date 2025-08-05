@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "Voitures",
+  "color": null,
+  "sorting": "a",
+  "_id": "gBt646HqN0oGSVXQ",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": 1754387015091,
+    "modifiedTime": 1754387271935,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!gBt646HqN0oGSVXQ"
+}

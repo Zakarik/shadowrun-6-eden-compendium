@@ -1,0 +1,199 @@
+{
+  "name": "Suzuki Mirage",
+  "type": "Vehicle",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "physical": {
+      "base": 10,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 20
+    },
+    "stun": {
+      "base": 10,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 20
+    },
+    "overflow": {
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 36
+    },
+    "edge": {
+      "value": 0,
+      "max": 1
+    },
+    "skills": {
+      "piloting": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "evasion": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "perception": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "cracking": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "stealth": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      }
+    },
+    "handlOn": 2,
+    "handlOff": 6,
+    "accOn": 29,
+    "accOff": 29,
+    "spdiOn": 30,
+    "spdiOff": 30,
+    "tspd": 260,
+    "bod": 4,
+    "arm": 2,
+    "pil": 1,
+    "sen": 1,
+    "sea": 1,
+    "vtype": "moto",
+    "vehicle": {
+      "belongs": "",
+      "opMode": "manual",
+      "offRoad": false,
+      "speed": 0
+    },
+    "notes": "La Mirage est conçue pour la vitesse. Moto de course que la plupart des utilisateurs hésitent à pousser à fond, la Mirage est très populaire auprès des go-gangers et autres amateurs de vitesse.",
+    "priceDef": "12000",
+    "price": 0
+  },
+  "prototypeToken": {
+    "name": "Suzuki Mirage",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 2,
+    "height": 3,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "physical"
+    },
+    "bar2": {
+      "attribute": "stun"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "Fxp536jBzCchSala",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": 1754345594013,
+    "modifiedTime": 1754345602432,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "03O9GQ4ggX5OdF1P",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!actors!03O9GQ4ggX5OdF1P"
+}

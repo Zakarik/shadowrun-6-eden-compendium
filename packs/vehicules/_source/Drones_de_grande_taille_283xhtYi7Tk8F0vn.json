@@ -1,0 +1,21 @@
+{
+  "type": "Actor",
+  "folder": "23wWz4Mtx39kLZNx",
+  "name": "Drones de grande taille",
+  "color": null,
+  "sorting": "a",
+  "_id": "283xhtYi7Tk8F0vn",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!283xhtYi7Tk8F0vn"
+}

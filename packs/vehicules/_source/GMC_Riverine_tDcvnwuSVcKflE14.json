@@ -1,0 +1,198 @@
+{
+  "name": "GMC Riverine",
+  "type": "Vehicle",
+  "_id": "tDcvnwuSVcKflE14",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "physical": {
+      "base": 20,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 40
+    },
+    "stun": {
+      "base": 20,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 40
+    },
+    "overflow": {
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 46
+    },
+    "edge": {
+      "value": 0,
+      "max": 1
+    },
+    "skills": {
+      "piloting": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "evasion": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "perception": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "cracking": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "stealth": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      }
+    },
+    "handlOn": 4,
+    "handlOff": 4,
+    "accOn": 15,
+    "accOff": 15,
+    "spdiOn": 15,
+    "spdiOff": 15,
+    "tspd": 100,
+    "bod": 14,
+    "arm": 12,
+    "pil": 4,
+    "sen": 4,
+    "sea": 8,
+    "vtype": "watercraft",
+    "vehicle": {
+      "belongs": "",
+      "opMode": "manual",
+      "offRoad": false,
+      "speed": 0
+    },
+    "notes": "Un modèle doté d’un armement lourd et de nombreux détecteurs pour garantir la sécurité des voies navigables. Cet engin est ni plus ni moins qu’une canonnière, mais nombreux sont ceux qui apprécient sa coque blindée et qui dissimulent son armement pour éviter qu’on ne le confonde avec un navire des forces de l’ordre.",
+    "priceDef": "113000",
+    "price": 0
+  },
+  "prototypeToken": {
+    "name": "GMC Riverine",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 5,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "physical"
+    },
+    "bar2": {
+      "attribute": "stun"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "Jrf6ZhfJliHsCVCD",
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": null,
+    "modifiedTime": 1754387977918,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!actors!tDcvnwuSVcKflE14"
+}

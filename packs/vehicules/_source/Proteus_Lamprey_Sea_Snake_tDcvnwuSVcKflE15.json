@@ -1,0 +1,198 @@
+{
+  "name": "Proteus Lamprey/Sea Snake",
+  "type": "Vehicle",
+  "_id": "tDcvnwuSVcKflE15",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "physical": {
+      "base": 8,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 16
+    },
+    "stun": {
+      "base": 8,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 16
+    },
+    "overflow": {
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 34
+    },
+    "edge": {
+      "value": 0,
+      "max": 1
+    },
+    "skills": {
+      "piloting": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "evasion": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "perception": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "cracking": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "stealth": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      }
+    },
+    "handlOn": 3,
+    "handlOff": 3,
+    "accOn": 13,
+    "accOff": 13,
+    "spdiOn": 10,
+    "spdiOff": 10,
+    "tspd": 60,
+    "bod": 2,
+    "arm": 1,
+    "pil": 2,
+    "sen": 1,
+    "sea": 4,
+    "vtype": "watercraft",
+    "vehicle": {
+      "belongs": "",
+      "opMode": "manual",
+      "offRoad": false,
+      "speed": 0
+    },
+    "notes": "Les océans ne sont plus autant mystérieux qu’avant. Avec des aquacologies et des arkoblocks sur toute la planète, les navires permettant d’y accéder sont de plus en plus répandus. Le Lamprey est un propulseur de plongée, un scooter sous-marin utilisé pour les inspections et le transport en milieu aquatique. Il peut accueillir quatre passagers avec tout leur équipement de plongée ou qui utilisent les systèmes intégrés au véhicule bien que cela double son coût (mais fournisse un total de seize heures d’oxygène pour des métahumains). Les versions militaires du Lamprey, appelées les Sea Snake, sont utilisées pour les infiltrations sous-marines par des forces spéciales telles que les Navy SEAL des UCAS ou les SAS britanniques.\n\nChaque place assise peut être remplacée par un rack pour petit drone ou deux places peuvent être échangées pour accueillir un drone de taille moyenne. La profondeur qu’il peut atteindre avec des individus est limitée à 100 mètres, mais les modèles dotés de drones peuvent descendre jusqu’à 200 mètres en étant dirigés par câble ou par des instructions à distance. Les signaux sans fil ne peuvent atteindre de telles profondeurs.",
+    "priceDef": "15000",
+    "price": 0
+  },
+  "prototypeToken": {
+    "name": "Proteus Lamprey/Sea Snake",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 4,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "physical"
+    },
+    "bar2": {
+      "attribute": "stun"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "ZbaFmlqhgj6B4iSo",
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": null,
+    "modifiedTime": 1754387992371,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!actors!tDcvnwuSVcKflE15"
+}

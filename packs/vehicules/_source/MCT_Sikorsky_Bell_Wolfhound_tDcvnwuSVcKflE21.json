@@ -1,0 +1,198 @@
+{
+  "name": "MCT-Sikorsky-Bell Wolfhound",
+  "type": "Vehicle",
+  "_id": "tDcvnwuSVcKflE21",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "physical": {
+      "base": 18,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 36
+    },
+    "stun": {
+      "base": 18,
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 36
+    },
+    "overflow": {
+      "mod": 0,
+      "modString": "",
+      "value": 0,
+      "dmg": 0,
+      "max": 44
+    },
+    "edge": {
+      "value": 0,
+      "max": 1
+    },
+    "skills": {
+      "piloting": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "evasion": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "perception": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "cracking": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      },
+      "stealth": {
+        "points": 0,
+        "modifier": 0,
+        "pool": 0
+      }
+    },
+    "handlOn": 3,
+    "handlOff": 3,
+    "accOn": 20,
+    "accOff": 20,
+    "spdiOn": 40,
+    "spdiOff": 40,
+    "tspd": 320,
+    "bod": 12,
+    "arm": 14,
+    "pil": 4,
+    "sen": 4,
+    "sea": 8,
+    "vtype": "helicopter",
+    "vehicle": {
+      "belongs": "",
+      "opMode": "manual",
+      "offRoad": false,
+      "speed": 0
+    },
+    "notes": "Après qu’un sérieux problème de couplage de rotors a immobilisé au sol de manière permanente des dizaines de Nissan Hounds, MCT s’est emparé du contrat avec la marine impériale japonaise et introduit son nouvel hélicoptère dans tous les marchés dans lesquels elle est présente ; et comme MCT est une des plus grandes mégas, cela fait de nombreux marchés. Conçu pour le combat, mais suffisamment élégant pour faire se pâmer les cadres, le Wolfhound devient rapidement aussi populaire que le Black Hound au début du siècle.",
+    "priceDef": "423000",
+    "price": 0
+  },
+  "prototypeToken": {
+    "name": "MCT-Sikorsky-Bell Wolfhound",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 6,
+    "height": 3,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "physical"
+    },
+    "bar2": {
+      "attribute": "stun"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "eA5K16O9odBN57nb",
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": null,
+    "modifiedTime": 1754387678471,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!actors!tDcvnwuSVcKflE21"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": "23wWz4Mtx39kLZNx",
+  "name": "Drones de petite taille",
+  "color": null,
+  "sorting": "a",
+  "_id": "hqrP7Jri7Bug2r5S",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": 1754387266794,
+    "modifiedTime": 1754387272970,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_key": "!folders!hqrP7Jri7Bug2r5S"
+}
