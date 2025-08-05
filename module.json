@@ -189,7 +189,7 @@
     },
     {
       "label": "Véhicules",
-      "type": "Item",
+      "type": "Actor",
       "name": "vehicules",
       "path": "packs/vehicules",
       "system": "shadowrun6-eden",
