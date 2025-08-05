@@ -1,7 +1,7 @@
 {
   "id": "shadowrun-6-eden-compendium",
   "title": "Shadowrun-6-eden-compendium",
-  "version": "1.0.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -180,6 +180,30 @@
       "type": "Item",
       "name": "pouvoirs-dadepte",
       "path": "packs/pouvoirs-dadepte",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Véhicules",
+      "type": "Item",
+      "name": "vehicules",
+      "path": "packs/vehicules",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Macros",
+      "type": "Macro",
+      "name": "macros",
+      "path": "packs/macros",
       "system": "shadowrun6-eden",
       "ownership": {
         "PLAYER": "OBSERVER",
