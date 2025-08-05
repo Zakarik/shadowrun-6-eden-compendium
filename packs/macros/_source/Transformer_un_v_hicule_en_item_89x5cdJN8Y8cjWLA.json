@@ -1,0 +1,28 @@
+{
+  "name": "Transformer un véhicule en item",
+  "type": "script",
+  "author": "YXRhL30UpQBOrt4l",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "await foundry.applications.api.DialogV2.prompt({\n    window: { title: \"Rentrer l'UUID de l'acteur\" },\n    content: '<input name=\"uuid\" type=\"text\">',\n    ok: {\n      label: \"Valider\",\n      callback: async (event, button, dialog) => {\n        const uuid = $(button.form.elements.uuid).val();\n\n        const actor = await fromUuid(uuid);\n        \n        const create = await Item.create({\n              name: actor.name,\n              type: \"gear\",\n              img: actor.img,\n              system: foundry.utils.mergeObject(actor.system, {type:\"VEHICLES\", subtype:\"CARS\"}),\n            });\n        \n      }\n    }\n  });",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": 1754390161329,
+    "modifiedTime": 1754390161329,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "89x5cdJN8Y8cjWLA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!macros!89x5cdJN8Y8cjWLA"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Transformer un item-véhicule en Véhicule",
+  "type": "script",
+  "author": "YXRhL30UpQBOrt4l",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "await foundry.applications.api.DialogV2.prompt({\n    window: { title: \"Rentrer l'UUID de l'acteur possédant l'item\" },\n    content: '<input name=\"uuid\" type=\"text\">',\n    ok: {\n      label: \"Valider\",\n      callback: async (event, button, dialog) => {\n        const uuid = $(button.form.elements.uuid).val();\n        const actor = await fromUuid(uuid);\n        let listSelect = ``;\n\n        for(let i of actor.items) {\n          if(i.type === 'gear' &&\n            (i.system.type === 'VEHICLES' || i.system.type === 'DRONES')) listSelect += `<option value=\"${i.uuid}\">${i.name}</option>`\n        }\n\n        await foundry.applications.api.DialogV2.prompt({\n          window: { title: \"Choisir l'item\" },\n          content: `<select name=\"vehicle\">${listSelect}</select>`,\n          ok: {\n            label: \"Valider\",\n            callback: async (event, button, dialog) => {\n              const vSelect = $(button.form.elements.vehicle).val();\n      \n              const item = await fromUuid(vSelect);\n              const create = await Actor.create({\n                    name: item.name,\n                    type: \"Vehicle\",\n                    img: item.img,\n                    system: item.system,\n                  });\n              \n              console.warn(actor.system)\n            }\n          }\n        });\n      }\n    }\n  });",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "shadowrun6-eden",
+    "systemVersion": "3.2.2",
+    "createdTime": 1754390159976,
+    "modifiedTime": 1754409336725,
+    "lastModifiedBy": "YXRhL30UpQBOrt4l"
+  },
+  "_id": "8PIWLcucMrg27wVP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "YXRhL30UpQBOrt4l": 3
+  },
+  "_key": "!macros!8PIWLcucMrg27wVP"
+}
